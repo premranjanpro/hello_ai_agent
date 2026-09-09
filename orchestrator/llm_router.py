@@ -24,7 +24,7 @@ class LlmRouter:
 
     DEFAULT_VOICE_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3.8-27b")
     FAST_VOICE_MODEL = "qwen/qwen3.8-27b"
-    FALLBACK_VOICE_MODEL = "groq/compound-mini"
+    FALLBACK_VOICE_MODEL = "openai/gpt-oss-120b"
     EXTRACTION_MODEL = "qwen/qwen3.8-27b"
 
     @classmethod
@@ -34,7 +34,7 @@ class LlmRouter:
             model=model,
             provider="groq",
             temperature=0.35,
-            max_tokens=150,
+            max_tokens=250,
         )
 
     @classmethod

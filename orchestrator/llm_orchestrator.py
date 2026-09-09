@@ -128,16 +128,16 @@ class ResilientGroqLLM(groq.LLM):
         sys_messages = [m for m in chat_ctx.messages if getattr(m, "role", "") == "system"]
         conversation = [m for m in chat_ctx.messages if getattr(m, "role", "") != "system"]
 
-        # 1. System Prompt Guard: Allow full persona up to 6,000 chars
+        # 1. System Prompt Guard: Keep system prompt compact to prevent Groq 429 quota exhaustion
         for sm in sys_messages:
             c = getattr(sm, "content", "")
-            if isinstance(c, str) and len(c) > 6000:
-                logger.info(f"🛡️ [StrictTokenGuard] Clamping oversized system prompt: {len(c)} chars -> 6000 chars")
-                sm.content = c[:6000]
+            if isinstance(c, str) and len(c) > 2800:
+                logger.info(f"🛡️ [StrictTokenGuard] Clamping oversized system prompt: {len(c)} chars -> 2800 chars")
+                sm.content = c[:2800]
 
         # 2. History Guard: Keep recent turns while safeguarding tool message integrity
-        if len(conversation) > max_recent_turns:
-            conversation = conversation[-max_recent_turns:]
+        if len(conversation) > 8:
+            conversation = conversation[-8:]
             # Ensure the first message in conversation isn't an orphaned tool result
             while conversation and getattr(conversation[0], "role", "") == "tool":
                 conversation.pop(0)

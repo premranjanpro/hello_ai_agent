@@ -44,10 +44,12 @@ if not _central_logger.handlers:
         backupCount=5,
         encoding="utf-8"
     )
-    file_handler.setLevel(logging.DEBUG)
+    file_handler.setLevel(logging.INFO)
     file_formatter = logging.Formatter(DEFAULT_FORMAT, datefmt=DATE_FORMAT)
     file_handler.setFormatter(file_formatter)
     _central_logger.addHandler(file_handler)
+    # Also attach to root logger so sub-packages (events, pipeline, orchestrator) log to file
+    logging.getLogger().addHandler(file_handler)
 
 
 def get_agent_logger() -> logging.Logger:
