@@ -25,27 +25,30 @@ logger = logging.getLogger("orchestrator.llm")
 class ResilientGroqLLMStream(LLMStream):
     """Wraps LiveKit LLMStream with pure AI tool-calling workflow and instant quota failover."""
 
-    BACKUP_MODELS = ["qwen/qwen3.8-27b", "groq/compound-mini", "openai/gpt-oss-120b", "openai/gpt-oss-20b"]
+    # Models that fully support function calling on Groq (strictly avoiding non-tool models like compound-mini)
+    BACKUP_MODELS = ["qwen/qwen3.8-27b", "openai/gpt-oss-120b", "openai/gpt-oss-20b"]
 
     async def _run(self) -> None:
         if hasattr(self, "_llm") and hasattr(self._llm, "_opts"):
-            if not getattr(self._llm._opts, "max_tokens", None) or self._llm._opts.max_tokens > 180:
-                self._llm._opts.max_tokens = 150
+            if not getattr(self._llm._opts, "max_tokens", None) or self._llm._opts.max_tokens < 250:
+                self._llm._opts.max_tokens = 250
 
         try:
             await super()._run()
         except Exception as e:
             status = getattr(e, "status_code", None)
-            err_msg = str(e).lower()
             logger.warning(f"⚠️ [ResilientGroqLLM] Stream exception: status={status}, msg={e}")
 
-            # Universal resilient recovery: iterate over backup models in failover pool
+            # Universal resilient recovery: iterate over backup models that support tools
             backup_candidates = [m for m in self.BACKUP_MODELS if m != self._model]
+            original_fnc_ctx = getattr(self, "_fnc_ctx", None)
+
             for target_backup in backup_candidates:
-                logger.info(f"🔄 [ResilientGroqLLM] Switching to failover model '{target_backup}' and sanitizing context...")
+                logger.info(f"🔄 [ResilientGroqLLM] Switching to failover model '{target_backup}' with tools intact...")
                 self._model = target_backup
+                self._fnc_ctx = original_fnc_ctx
                 if hasattr(self, "_llm") and hasattr(self._llm, "_opts"):
-                    self._llm._opts.max_tokens = 150
+                    self._llm._opts.max_tokens = 250
 
                 if hasattr(self, "_chat_ctx") and self._chat_ctx and len(self._chat_ctx.messages) > 2:
                     sys_msgs = [m for m in self._chat_ctx.messages if getattr(m, "role", "") == "system"]
@@ -62,25 +65,31 @@ class ResilientGroqLLMStream(LLMStream):
                     await super()._run()
                     return
                 except Exception as retry_err:
-                    logger.warning(f"⚠️ [ResilientGroqLLM] Backup model '{target_backup}' error: {retry_err}. Retrying without fnc_ctx...")
-                    self._fnc_ctx = None
-                    try:
-                        await super()._run()
-                        return
-                    except Exception as final_err:
-                        logger.error(f"❌ [ResilientGroqLLM] Model '{target_backup}' recovery failed: {final_err}")
-                        continue
+                    logger.warning(f"⚠️ [ResilientGroqLLM] Backup model '{target_backup}' error: {retry_err}")
+                    continue
+
+            # Ultimate fallback only if all models failed: text-only recovery
+            logger.warning("⚠️ [ResilientGroqLLM] All tool-enabled backup models exhausted; trying text-only fallback...")
+            self._fnc_ctx = None
+            for target_backup in self.BACKUP_MODELS:
+                self._model = target_backup
+                try:
+                    await super()._run()
+                    return
+                except Exception as final_err:
+                    logger.error(f"❌ [ResilientGroqLLM] Final model '{target_backup}' text fallback failed: {final_err}")
+                    continue
 
 
 class ResilientGroqLLM(groq.LLM):
     """Groq LLM for LiveKit VoicePipelineAgent with strict pre-flight token guard and automatic failover."""
 
-    def __init__(self, *, model: str = "qwen/qwen3.8-27b", max_tokens: int = 150, **kwargs):
+    def __init__(self, *, model: str = "qwen/qwen3.8-27b", max_tokens: int = 250, **kwargs):
         m = model or os.getenv("GROQ_MODEL", "qwen/qwen3.8-27b")
-        super().__init__(model=m, max_tokens=max_tokens or 150, **kwargs)
-        self._opts.max_tokens = max_tokens or 150
+        super().__init__(model=m, max_tokens=max_tokens or 250, **kwargs)
+        self._opts.max_tokens = max_tokens or 250
 
-    # Whitelist of top voice tools to keep token footprint strictly under 1,200 tokens (preventing Groq 429 ITPM/OTPM)
+    # Whitelist of top voice tools to keep token footprint strictly under token budget
     VOICE_CORE_TOOLS = {
         "switch_active_character",
         "show_alphabet_flashcard",
@@ -94,6 +103,7 @@ class ResilientGroqLLM(groq.LLM):
         "start_visual_image_quiz",
         "evaluate_visual_quiz_answer",
         "read_quiz_options_aloud",
+        "explore_india_place",
         "teach_good_habit",
         "disconnect_call",
     }

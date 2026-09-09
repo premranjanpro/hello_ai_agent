@@ -1915,7 +1915,7 @@ class KidsGamesToolsMixin:
         return f"{speech} Aapke total stars: {res['stars']}!"
 
     @llm.ai_callable(
-        description="Start an interactive visual image quiz 'Pehchano Kaun?' on child's screen with animal/object photo, spoken question, and interactive option chips."
+        description="Show photo, image, picture, or start 'Pehchano Kaun?' animal quiz on child screen in bottom sheet. MUST CALL this tool whenever child asks to see an animal or photo (e.g. 'photo dikhao', 'hathi dekhna hai', 'sher dikhao', 'tasveer dikhao', 'billi dikhao', 'photo open karo'), or when playing visual guessing games."
     )
     async def start_visual_image_quiz(
         self,
@@ -2035,8 +2035,43 @@ class KidsGamesToolsMixin:
             },
         }
 
+        TOPIC_SYNONYMS = {
+            "sher": "lion",
+            "lion": "lion",
+            "singh": "lion",
+            "hathi": "elephant",
+            "haathi": "elephant",
+            "elephant": "elephant",
+            "baagh": "tiger",
+            "bagh": "tiger",
+            "tiger": "tiger",
+            "kutta": "dog",
+            "dog": "dog",
+            "billi": "cat",
+            "cat": "cat",
+            "ghoda": "horse",
+            "horse": "horse",
+            "gaaye": "cow",
+            "gai": "cow",
+            "cow": "cow",
+            "bandar": "monkey",
+            "monkey": "monkey",
+            "khargosh": "rabbit",
+            "rabbit": "rabbit",
+            "mor": "peacock",
+            "peacock": "peacock",
+            "battakh": "duck",
+            "batakh": "duck",
+            "duck": "duck",
+            "seb": "apple",
+            "apple": "apple",
+            "aam": "mango",
+            "mango": "mango",
+        }
+
         clean_topic = (topic or "elephant").lower().strip()
-        data = library.get(clean_topic, library["elephant"])
+        mapped_key = TOPIC_SYNONYMS.get(clean_topic, clean_topic)
+        data = library.get(mapped_key, library["elephant"])
 
         final_question = question if question != "Ye kiska photo hai?" else data["question"]
         final_options = options if options else data["options"]
