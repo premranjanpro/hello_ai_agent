@@ -1,0 +1,348 @@
+[
+  {
+    "id": "why_sky_blue",
+    "question": "Aasman neela kyun hota hai?",
+    "english_question": "Why is the sky blue?",
+    "keywords": [
+      "sky",
+      "blue",
+      "aasman",
+      "neela",
+      "color",
+      "rang"
+    ],
+    "simple_explanation": "Sooraj ki dhoop me 7 rang hote hain! Jab dhoop hawa se takrati hai, toh neela rang sabse zyada bikhar jata hai!",
+    "metaphor_story": "Sooraj chacha subah apne 7 rango ka paint-box kholte hain! Hawa ke chhotu-chhotu kan neele rang se khelne lagte hain aur pure aasman ko neela rang dete hain!",
+    "fun_fact": "Shaam ko sooraj dhalte waqt aasman lal aur narangi (orange) dikhta hai kyunki tab lal rang hum tak pahunchta hai!",
+    "image_url": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=600&auto=format&fit=crop&q=80",
+    "speech": "Aasman isliye neela hai kyunki sooraj ki dhoop me 7 rang hote hain, aur neela rang hawa me sabse tez chhalak jata hai jaise neela paint! Batao, kya aapko indradhanush (rainbow) ke rang pata hain?",
+    "age_tier": "primary"
+  },
+  {
+    "id": "why_sun_disappears_night",
+    "question": "Raat ko sooraj kahan chala jata hai?",
+    "english_question": "Where does the sun go at night?",
+    "keywords": [
+      "sun",
+      "night",
+      "sooraj",
+      "raat",
+      "disappear",
+      "kahan",
+      "dark",
+      "chhip"
+    ],
+    "simple_explanation": "Sooraj kahin nahi jata, balki hamari pyari Dharti (Earth) lattu ki tarah gol-gol ghoomti hai!",
+    "metaphor_story": "Dharti maata ek pyara sa merry-go-round jhoole jaisi hain! Jab hum sooraj ke samne ghoomte hain toh din hota hai, aur jab hum ghoom kar peechhe chale jate hain toh hum sooraj ko 'Good Night' bol dete hain!",
+    "fun_fact": "Jab hamare yahan raat ko hum so rahe hote hain, tab America me bache school ja rahe hote hain!",
+    "image_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+    "speech": "Sooraj chacha kahin nahi jaate! Hamari pyari Dharti gol-gol lattu jaise ghoomti hai! Jab hamara hissa peechhe mudta hai, toh Chandamama duty par aa jaate hain!",
+    "age_tier": "nursery"
+  },
+  {
+    "id": "why_fish_live_water",
+    "question": "Machhli paani ke bahar kyun nahi jee sakti?",
+    "english_question": "Why can't fish live outside water?",
+    "keywords": [
+      "fish",
+      "water",
+      "machhli",
+      "paani",
+      "bahar",
+      "breathe",
+      "saans"
+    ],
+    "simple_explanation": "Machhli ke paas hamari tarah naak nahi hoti, unke paas 'Gills' hote hain jo sirf paani me ghuli oxygen chhaan sakte hain!",
+    "metaphor_story": "Machhli ke paas jadoo ki chhalni (Gills) hoti hai! Wo paani pi kar usme se hawa chhaan leti hai. Jaise hum paani ke andar saans nahi le sakte, waise machhli rani bahar saans nahi le sakti!",
+    "fun_fact": "Dolphin machhli nahi hai, wo saans lene ke liye paani ke upar chhalang lagati hai!",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=600&auto=format&fit=crop&q=80",
+    "speech": "Machhli ke paas naak nahi, 'Gills' naam ki jadoo ki chhalni hoti hai jo sirf paani me se saans le sakti hai! Isliye kehte hain na: Machhli jal ki rani hai, jeevan uska paani hai!",
+    "age_tier": "nursery"
+  },
+  {
+    "id": "why_stars_twinkle",
+    "question": "Taare raat ko timtimate kyun hain?",
+    "english_question": "Why do stars twinkle?",
+    "keywords": [
+      "stars",
+      "twinkle",
+      "taare",
+      "timtim",
+      "night",
+      "chamke"
+    ],
+    "simple_explanation": "Taare bahut door hote hain. Unki roshni hawa ki alag-alag layers se hilti hui aati hai, isliye lagta hai wo jhilmil-jhilmil kar rahe hain!",
+    "metaphor_story": "Taare aapse itne door hain ki unki roshni ek lambi race daud kar aati hai! Raste me hawa ki thandi-garam leherein aati hain, toh roshni aakh-micholi (peek-a-boo) khelti hai!",
+    "fun_fact": "Sooraj bhi ek taara hai, par wo hamare paas hai isliye sabse bada aur chamkila dikhta hai!",
+    "image_url": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=600&auto=format&fit=crop&q=80",
+    "speech": "Taare aapse bohot bohot door hain! Unki roshni hawa ki lehron se guzar kar aati hai, toh lagta hai jaise wo aapse aankh-micholi khel rahe hon: Twinkle twinkle little star!",
+    "age_tier": "primary"
+  },
+  {
+    "id": "why_water_wet",
+    "question": "Paani geela kyun hota hai?",
+    "english_question": "Why is water wet?",
+    "keywords": [
+      "water",
+      "wet",
+      "paani",
+      "geela",
+      "liquid"
+    ],
+    "simple_explanation": "Paani ke chhotu-chhotu molecules aapas me chipakne ke saath-saath doosri cheezon jaise hamari ungliyon par bhi chipak jate hain!",
+    "metaphor_story": "Paani ki boondein bohot dosti pasand karti hain! Jab aap paani ko chhoote hain, toh wo aapse 'Hi Five' karke chipak jati hain, aur isi dosti ko hum 'geelapan' bolte hain!",
+    "fun_fact": "Paani 3 forms me hota hai: Barf (Ice), Liquid Paani, aur Bhaap (Steam)!",
+    "image_url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&auto=format&fit=crop&q=80",
+    "speech": "Paani ki boondein aapse gale milna chahti hain! Wo aapse chipak kar bolti hain: 'Dost ban jao!' Aur bas usi chipakne ko hum geela hona bolte hain!",
+    "age_tier": "primary"
+  },
+  {
+    "id": "why_leaves_green",
+    "question": "Ped ke patte hare kyun hote hain?",
+    "english_question": "Why are leaves green?",
+    "keywords": [
+      "leaves",
+      "green",
+      "patte",
+      "hara",
+      "plants",
+      "tree",
+      "chlorophyll"
+    ],
+    "simple_explanation": "Patto ke andar 'Chlorophyll' naam ka ek green pigment hota hai, jo sooraj ki dhoop se paudhe ke liye yummy khana banata hai!",
+    "metaphor_story": "Patto ke andar ek nanhi si chef kitchen hoti hai! Green Chef Chlorophyll dhoop aur paani milakar paudhe ke liye tasty chocolate-shake jaisa khana banata hai!",
+    "fun_fact": "Patjhad (Autumn) me jab dhoop kam hoti hai, toh patte peele aur laal hokar gir jate hain!",
+    "image_url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=600&auto=format&fit=crop&q=80",
+    "speech": "Patto me ek green magic chef hota hai jiska naam hai Chlorophyll! Wo sooraj ki dhoop aur paani se yummy khana banata hai, isliye patte hare chamak rahe hote hain!",
+    "age_tier": "primary"
+  },
+  {
+    "id": "why_we_sleep_dream",
+    "question": "Hume neend aur sapne kyun aate hain?",
+    "english_question": "Why do we sleep and dream?",
+    "keywords": [
+      "sleep",
+      "dream",
+      "neend",
+      "sapne",
+      "rest",
+      "dimaag",
+      "soye"
+    ],
+    "simple_explanation": "Jaise mobile ko recharge karna padta hai, waise hamare shareer aur dimaag ko battery recharge karne ke liye neend chahiye!",
+    "metaphor_story": "Din bhar aap daudte ho, khelte ho, toh dimaag ki battery 1% ho jati hai! Raat ko jab aap sote ho, toh dimaag cartoon movie chalata hai jise hum 'sapna' kehte hain!",
+    "fun_fact": "Achhi neend lene se bache lambe hote hain kyunki neend me Growth Hormone bante hain!",
+    "image_url": "https://images.unsplash.com/photo-1511295742362-92c96b124e52?w=600&auto=format&fit=crop&q=80",
+    "speech": "Aapki body aur dimaag ki battery recharge karne ke liye neend aati hai! Aur sapne? Wo toh dimaag ka private cartoon channel hai jo sirf aapke liye chalta hai!",
+    "age_tier": "nursery"
+  },
+  {
+    "id": "why_birds_fly",
+    "question": "Chidiya aasmaan me kaise udti hai?",
+    "english_question": "How do birds fly?",
+    "keywords": [
+      "birds",
+      "fly",
+      "chidiya",
+      "udti",
+      "pankh",
+      "wings"
+    ],
+    "simple_explanation": "Chidiya ki haddiyan bohot halki aur khokhli hoti hain, aur unke pankh hawa ko neeche dhabakar unhe upar udne me madad karte hain!",
+    "metaphor_story": "Chidiya ke pankh do jadooi pankhe jaise hote hain! Wo hawa par aise tairti hai jaise aap paani me swimming karte ho!",
+    "fun_fact": "Hummingbird aage aur peechhe dono taraf ud sakti hai aur hawa me ek hi jagah ruk sakti hai!",
+    "image_url": "https://images.unsplash.com/photo-1444464666168-49d633b86797?w=600&auto=format&fit=crop&q=80",
+    "speech": "Chidiya ke pankh jadoo ke fans hote hain aur unki haddiyan phool jaisi halki hoti hain! Wo hawa ko thapthapa kar upar ud jati hain: Phurrrrr!",
+    "age_tier": "nursery"
+  },
+  {
+    "id": "why_rainbow_appears",
+    "question": "Indradhanush (Rainbow) kab aur kyun banta hai?",
+    "english_question": "Why and when does a rainbow appear?",
+    "keywords": [
+      "rainbow",
+      "indradhanush",
+      "colors",
+      "baarish",
+      "rain",
+      "sun"
+    ],
+    "simple_explanation": "Jab baarish ke baad dhoop nikalti hai, toh paani ki boondein chhotu prism ban jati hain aur dhoop ke 7 rang bikhra deti hain!",
+    "metaphor_story": "Baarish ki nanhi boondein aaine (mirror) jaisi hoti hain! Sooraj unme jhaank kar 7 rango ka jhoole wala pul bana deta hai!",
+    "fun_fact": "Rainbow ke 7 rangon ka naam VIBGYOR hota hai: Violet, Indigo, Blue, Green, Yellow, Orange, Red!",
+    "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&auto=format&fit=crop&q=80",
+    "speech": "Jab baarish ki boondon par sooraj ki chamak lagti hai, toh aasmaan me 7 rango ka jadoo ban jata hai jise Indradhanush kehte hain! VIBGYOR!",
+    "age_tier": "primary"
+  },
+  {
+    "id": "why_we_sneeze",
+    "question": "Hume chheenk (Sneeze) kyun aati hai?",
+    "english_question": "Why do we sneeze?",
+    "keywords": [
+      "sneeze",
+      "chheenk",
+      "cold",
+      "nose",
+      "naak",
+      "dust"
+    ],
+    "simple_explanation": "Jab koi dhool ya kachra hamari naak me ghusne lagta hai, toh hamara dimaag rocket ki speed se hawa chhod kar use bahar phek deta hai!",
+    "metaphor_story": "Aapki naak ek castle ka gatekeeper hai! Jaise hi koi ganda dust monster andar ghusna chahta hai, naak bolti hai: 'Aaaapchhoo! Bahar nikal!'",
+    "fun_fact": "Chheenk ki speed 160 km per hour tak tez ho sakti hai, jaise ek bullet train!",
+    "image_url": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?w=600&auto=format&fit=crop&q=80",
+    "speech": "Aapki naak super security guard hai! Jaise hi koi dhool ka kachra andar aata hai, naak rocket launcher chala deti hai: Achhooo! Aur kachra saaf!",
+    "age_tier": "primary"
+  },
+  {
+    "id": "why_thunder_lightning",
+    "question": "Bijli aur baadal me garjan kyun hoti hai?",
+    "english_question": "Why do we see lightning and hear thunder?",
+    "keywords": [
+      "thunder",
+      "lightning",
+      "bijli",
+      "garjan",
+      "baadal",
+      "storm"
+    ],
+    "simple_explanation": "Baadalon ke aapas me takrane se static bijli banti hai, aur garmi ki wajah se hawa tez awaaz ke sath failti hai!",
+    "metaphor_story": "Aasman me do baadal jab taali bajate hain to bijli ki chamak hoti hai, aur unki taali ki aawaz 'Ghadam-Ghadam' thunder ban jati hai!",
+    "fun_fact": "Bijli ki roshni sound se zyada tez chalti hai, isliye pehle chamak dikhti hai aur baad me aawaz aati hai!",
+    "image_url": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=600&q=80",
+    "speech": "Baadal jab aapas me ragadte hain to bijli ki spark banti hai! Roshni aawaz se tez daudti hai, isliye chamak pehle aati hai!",
+    "age_tier": "primary"
+  },
+  {
+    "id": "why_fire_hot",
+    "question": "Aag garam kyun hoti hai?",
+    "english_question": "Why is fire hot?",
+    "keywords": [
+      "fire",
+      "hot",
+      "aag",
+      "garam",
+      "burn",
+      "energy"
+    ],
+    "simple_explanation": "Aag jalne par lakdi ya gas ki rasayanik energy bohot tez garmi aur roshni me badal jati hai!",
+    "metaphor_story": "Aag ek super-fast dance party jaisi hai! Molecules itni tezi se naachte hain ki sab kuch garam ho jata hai!",
+    "fun_fact": "Neeli aag (blue flame) peeli ya laal aag se zyada garam hoti hai!",
+    "image_url": "https://images.unsplash.com/photo-1496614441634-1335f595ce44?w=600&q=80",
+    "speech": "Aag me chemical reaction hota hai jisse bohot sari heat nikalati hai. Aag se hamesha door rehna chahiye!",
+    "age_tier": "primary"
+  },
+  {
+    "id": "why_camel_hump",
+    "question": "Oont ki peeth par koozad (hump) kyun hota hai?",
+    "english_question": "Why do camels have humps?",
+    "keywords": [
+      "camel",
+      "hump",
+      "oont",
+      "koozad",
+      "desert",
+      "water"
+    ],
+    "simple_explanation": "Oont ke hump me fat (charbi) jama rehti hai jisse wo registan me kai dinon tak bina khaye-piye reh sakta hai!",
+    "metaphor_story": "Oont ka hump uska tiffin-box aur backpack hai! Jab use registan me khana nahi milta, to wo is backpack se taqat leta hai!",
+    "fun_fact": "Oont ek baar me lagbhag 100 litre paani pee sakta hai aur ise 'Registan ka Jahaaz' kehte hain!",
+    "image_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&q=80",
+    "speech": "Oont ka koozad uska tiffin-box hai! Usme jama fat se use registan me dino tak bhookh-pyaas nahi lagti!",
+    "age_tier": "nursery"
+  },
+  {
+    "id": "why_we_blink",
+    "question": "Hum baar-baar aakhein kyun jhapkaate (blink) hain?",
+    "english_question": "Why do we blink our eyes?",
+    "keywords": [
+      "blink",
+      "eyes",
+      "aankh",
+      "jhapki",
+      "tears",
+      "protect"
+    ],
+    "simple_explanation": "Blink karne se hamari aakhon me nami bani rehti hai aur dhool-mitti saaf ho jati hai!",
+    "metaphor_story": "Hamari palkein car ke windshield wiper jaisi hain! Baar-baar chal kar aakhon ki screen ko saaf aur chamkila rakhti hain!",
+    "fun_fact": "Ek insaan ek minute me lagbhag 15 se 20 baar aakhein jhapkata hai!",
+    "image_url": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=600&q=80",
+    "speech": "Aankh jhapkaana windshield wiper jaisa hai! Ye aankhon ko sukha hone se bachata hai aur chamkata hai!",
+    "age_tier": "nursery"
+  },
+  {
+    "id": "why_ships_float",
+    "question": "Bhaari lohe ka jahaaz paani me kyun tairta hai?",
+    "english_question": "Why do heavy iron ships float on water?",
+    "keywords": [
+      "ship",
+      "float",
+      "jahaaz",
+      "tairna",
+      "buoyancy",
+      "water"
+    ],
+    "simple_explanation": "Jahaaz ka aakaar aisa hollow (khokla) banaya jata hai ki wo apne wajan se zyada paani ko hata deta hai (Archimedes principle)!",
+    "metaphor_story": "Jahaaz ke pet me bohot saari hawa bhari hoti hai, jaise swimming tube me! Isliye paani use upar dhakelta hai!",
+    "fun_fact": "Chhoti si lohe ki keel doob jati hai kyunki wo khokli nahi hoti, par lakho ton ka jahaaz tairta hai!",
+    "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+    "speech": "Jahaaz ke andar bohot saari hawa hoti hai aur uska shape aisa hota hai ki paani use upar utha kar rakhta hai!",
+    "age_tier": "advanced"
+  },
+  {
+    "id": "why_ice_slippery",
+    "question": "Baraf (Ice) fisaldar kyun hoti hai?",
+    "english_question": "Why is ice slippery?",
+    "keywords": [
+      "ice",
+      "slippery",
+      "baraf",
+      "fisal",
+      "skate",
+      "water"
+    ],
+    "simple_explanation": "Baraf ki satah par paani ki ek microscopic patli layer hoti hai jo friction ko khatam kar deti hai!",
+    "metaphor_story": "Baraf ke upar paani ki nanhi lubrication layer hoti hai jo jhoole ke slide jaisa smooth bana deti hai!",
+    "fun_fact": "Ice-skating me blades baraf par halka pressure dalti hain jisse baraf pighal kar滑rasta banati hai!",
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&q=80",
+    "speech": "Baraf par paani ki ek ultra-thin geeli layer hoti hai jo shoes ko fisla deti hai jaise soap ka paani!",
+    "age_tier": "primary"
+  },
+  {
+    "id": "why_moon_changes_shape",
+    "question": "Chandrama roz apna aakaar kyun badalta hai?",
+    "english_question": "Why does the moon change its shape?",
+    "keywords": [
+      "moon",
+      "phases",
+      "chanda",
+      "chandrama",
+      "shape",
+      "aakaar"
+    ],
+    "simple_explanation": "Chandrama Prithvi ka chakkar lagata hai, aur sooraj ki dhoop jis hisse par padti hai wahi hame dikhta hai!",
+    "metaphor_story": "Chandamama roz raat ko naye kapde pehante hain! Kabhi katori jaise, kabhi aadhe, aur Poornima ko gol laddu jaise!",
+    "fun_fact": "Chandrama ka aakaar asal me nahi badalta, bas dhoop aur shadow ka khel hota hai!",
+    "image_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&q=80",
+    "speech": "Chandamama gol hi rehte hain! Par jab wo Prithvi ka chakkar lagate hain to dhoop alag-alag hisse par padti hai!",
+    "age_tier": "primary"
+  },
+  {
+    "id": "why_volcano_erupt",
+    "question": "Jwalamukhi (Volcano) kyun phoot-te hain?",
+    "english_question": "Why do volcanoes erupt?",
+    "keywords": [
+      "volcano",
+      "lava",
+      "jwalamukhi",
+      "magma",
+      "earth",
+      "pressure"
+    ],
+    "simple_explanation": "Dharti ke andar pighla hua garam pathhar (Magma) aur gasein hoti hain. Jab pressure bohot badh jata hai to wo phoot kar bahar nikalte hain!",
+    "metaphor_story": "Dharti ek bade pressure cooker jaisi hai! Jab seeti se bhaap ruk jati hai to jwalamukhi se laal lava bahar nikalta hai!",
+    "fun_fact": "Lava itna garam hota hai ki pathhar ko bhi paani ki tarah pighla deta hai (1000°C+)! ",
+    "image_url": "https://images.unsplash.com/photo-1496614441634-1335f595ce44?w=600&q=80",
+    "speech": "Dharti ke andar bohot garam pighle pathhar hote hain! Jab gas ka pressure badhta hai to jwalamukhi phoot padta hai!",
+    "age_tier": "advanced"
+  }
+]

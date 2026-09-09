@@ -1,0 +1,111 @@
+{
+  "rhymes": [
+    {
+      "id": "vid_lakdi_kathi",
+      "title": "Lakdi Ki Kathi (लकड़ी की काठी)",
+      "category": "rhymes",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "poster_url": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=800&auto=format&fit=crop&q=80",
+      "duration": "1:20",
+      "age_tier": "nursery",
+      "description": "Lakdi ki kathi, kathi pe ghoda! Pyara animated ghoda daudta hua gaana.",
+      "moral": "Khushi se gao aur masti karo!"
+    },
+    {
+      "id": "vid_chanda_mama",
+      "title": "Chanda Mama Door Ke (चंदा मामा दूर के)",
+      "category": "rhymes",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "poster_url": "https://images.unsplash.com/photo-1532767153582-b1a0e5145009?w=800&auto=format&fit=crop&q=80",
+      "duration": "1:45",
+      "age_tier": "nursery",
+      "description": "Puye pakaye boor ke, pyaare Chanda mama ki animated kahani!",
+      "moral": "Sote waqt meethi lori aur pyaar."
+    },
+    {
+      "id": "vid_twinkle_star",
+      "title": "Twinkle Twinkle Little Star",
+      "category": "rhymes",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "poster_url": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=800&auto=format&fit=crop&q=80",
+      "duration": "1:10",
+      "age_tier": "nursery",
+      "description": "Up above the world so high, like a diamond in the sky!",
+      "moral": "Night sky and wonders of the stars."
+    }
+  ],
+  "animals": [
+    {
+      "id": "vid_wild_safari",
+      "title": "Jungle Safari & Wild Animals (जंगल के जानवर)",
+      "category": "animals",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "poster_url": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800&auto=format&fit=crop&q=80",
+      "duration": "2:05",
+      "age_tier": "primary",
+      "description": "Sher, haathi, aur giraffe jungle me kaise rehte hain dekhein!",
+      "moral": "Jeevo se pyaar karein aur jungle ki raksha karein."
+    },
+    {
+      "id": "vid_birds_flying",
+      "title": "Beautiful Birds of India (सुंदर पक्षी)",
+      "category": "animals",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "poster_url": "https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&auto=format&fit=crop&q=80",
+      "duration": "1:30",
+      "age_tier": "primary",
+      "description": "Mor, tota, aur chidiya ke sundar rang aur pankh!",
+      "moral": "Pakshiyon ko daana-paani dein."
+    }
+  ],
+  "science_space": [
+    {
+      "id": "vid_solar_system",
+      "title": "Our Solar System (हमारा सौरमंडल)",
+      "category": "science_space",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyBlazes.mp4",
+      "poster_url": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800&auto=format&fit=crop&q=80",
+      "duration": "2:15",
+      "age_tier": "advanced",
+      "description": "Suraj aur 8 grah kaise ghoomte hain - animated 3D tour!",
+      "moral": "Vigyan aur brahmand ki sundarta."
+    },
+    {
+      "id": "vid_water_cycle",
+      "title": "Water Cycle & Rain (बारिश कैसे होती है?)",
+      "category": "science_space",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "poster_url": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=800&auto=format&fit=crop&q=80",
+      "duration": "1:50",
+      "age_tier": "advanced",
+      "description": "Baadal kaise bante hain aur baarish kaise aati hai!",
+      "moral": "Jal hi jeevan hai, paani bachayein."
+    }
+  ],
+  "alphabet_phonics": [
+    {
+      "id": "vid_phonics_song",
+      "title": "ABC Phonics Song (ए बी सी फोनिक्स)",
+      "category": "alphabet_phonics",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "poster_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&auto=format&fit=crop&q=80",
+      "duration": "1:35",
+      "age_tier": "nursery",
+      "description": "A for Apple /a-a-apple/, B for Ball /b-b-ball/ animated phonics!",
+      "moral": "Roz naye shabd padhein aur seekhein."
+    }
+  ],
+  "stories": [
+    {
+      "id": "vid_thirsty_crow",
+      "title": "Pyaasa Kauwa (The Thirsty Crow)",
+      "category": "stories",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+      "poster_url": "https://images.unsplash.com/photo-1522926197415-e5a0a2497f83?w=800&auto=format&fit=crop&q=80",
+      "duration": "2:30",
+      "age_tier": "primary",
+      "description": "Samajhdaar kauwe ne matke me kankad daal kar paani upar laya!",
+      "moral": "Jahan chah, wahan raah (Wisdom solves big problems)."
+    }
+  ]
+}

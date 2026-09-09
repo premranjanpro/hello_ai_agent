@@ -1,0 +1,470 @@
+{
+  "अ": {
+    "letter": "अ",
+    "type": "swar",
+    "word": "अनार (Anaar)",
+    "english": "Pomegranate",
+    "image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "अनार के दाने लाल-लाल मोतियों जैसे चमकते हैं और खून बढ़ाते हैं!",
+    "speech": "अ से अनार! अ-ना-र, लाल-लाल मीठे अनार के दाने! बोलो मेरे साथ: अ से अनार!"
+  },
+  "आ": {
+    "letter": "आ",
+    "type": "swar",
+    "word": "आम (Aam)",
+    "english": "Mango",
+    "image_url": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "आम को सभी फलों का राजा कहा जाता है और यह गर्मियों में आता है!",
+    "speech": "आ से रसीला आम! फलों का राजा मीठा आम! बोलो मेरे साथ: आ से आम!"
+  },
+  "इ": {
+    "letter": "इ",
+    "type": "swar",
+    "word": "इमली (Imli)",
+    "english": "Tamarind",
+    "image_url": "https://images.unsplash.com/photo-1615485290176-e17f300c144e?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "इमली खट्टी-मीठी होती है और मुंह में पानी ला देती है!",
+    "speech": "इ से खट्टी-मीठी इमली! चटाकेदार इमली! बोलो मेरे साथ: इ से इमली!"
+  },
+  "ई": {
+    "letter": "ई",
+    "type": "swar",
+    "word": "ईख (Eekh / Ganna)",
+    "english": "Sugarcane",
+    "image_url": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ईख से मीठा गुड़ और चीनी बनती है!",
+    "speech": "ई से मीठी-मीठी ईख! गन्ने का रस बड़ा स्वादिष्ट! बोलो मेरे साथ: ई से ईख!"
+  },
+  "उ": {
+    "letter": "उ",
+    "type": "swar",
+    "word": "उल्लू (Ullu)",
+    "english": "Owl",
+    "image_url": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "उल्लू रात में जागता है और अपनी गर्दन 270 डिग्री तक घुमा सकता है!",
+    "speech": "उ से उल्लू! रात को जागे उल्लू भाई! बोलो मेरे साथ: उ से उल्लू!"
+  },
+  "ऊ": {
+    "letter": "ऊ",
+    "type": "swar",
+    "word": "ऊन (Oon)",
+    "english": "Wool",
+    "image_url": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "भेड़ के बालों से ऊन बनती है जिससे गर्म स्वेटर बुने जाते हैं!",
+    "speech": "ऊ से गरम-गरम ऊन! सर्दियों में स्वेटर पहनाए ऊन! बोलो मेरे साथ: ऊ से ऊन!"
+  },
+  "ऋ": {
+    "letter": "ऋ",
+    "type": "swar",
+    "word": "ऋषि (Rishi)",
+    "english": "Sage",
+    "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ऋषि मुनि जंगल में ध्यान लगाते हैं और ज्ञान की बातें सिखाते हैं!",
+    "speech": "ऋ से ज्ञानी ऋषि! तपस्या करते ऋषि मुनि! बोलो मेरे साथ: ऋ से ऋषि!"
+  },
+  "ए": {
+    "letter": "ए",
+    "type": "swar",
+    "word": "एड़ी (Edee)",
+    "english": "Heel",
+    "image_url": "https://images.unsplash.com/photo-1516478177764-9fe5bd7e9717?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "एड़ी हमारे पैर का पिछला हिस्सा होती है जिसपर हम खड़े होते हैं!",
+    "speech": "ए से पैर की एड़ी! दौड़ लगाए हमारी एड़ी! बोलो मेरे साथ: ए से एड़ी!"
+  },
+  "ऐ": {
+    "letter": "ऐ",
+    "type": "swar",
+    "word": "ऐनक (Ainak)",
+    "english": "Spectacles",
+    "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ऐनक लगाने से दुनिया साफ और सुंदर दिखाई देती है!",
+    "speech": "ऐ से दादाजी की ऐनक! नाक पर बैठी प्यारी ऐनक! बोलो मेरे साथ: ऐ से ऐनक!"
+  },
+  "ओ": {
+    "letter": "ओ",
+    "type": "swar",
+    "word": "ओखली (Okhli)",
+    "english": "Mortar",
+    "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ओखली में दादी मसाले और अनाज कूटती हैं!",
+    "speech": "ओ से पत्थर की ओखली! मसाले कूटे ओखली! बोलो मेरे साथ: ओ से ओखली!"
+  },
+  "औ": {
+    "letter": "औ",
+    "type": "swar",
+    "word": "औरत (Aurat)",
+    "english": "Woman / Mother",
+    "image_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "औरत ममता और प्यार का रूप होती है जैसे हमारी प्यारी माँ!",
+    "speech": "औ से ममतामयी औरत! माँ जैसी प्यारी औरत! बोलो मेरे साथ: औ से औरत!"
+  },
+  "अं": {
+    "letter": "अं",
+    "type": "swar",
+    "word": "अंगूर (Angoor)",
+    "english": "Grapes",
+    "image_url": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "अंगूर गुच्छों में लटकते हैं और हरे-काले दो तरह के होते हैं!",
+    "speech": "अं से मीठे-मीठे अंगूर! गुच्छेदार रसीले अंगूर! बोलो मेरे साथ: अं से अंगूर!"
+  },
+  "अः": {
+    "letter": "अः",
+    "type": "swar",
+    "word": "अः (Namah / Khali)",
+    "english": "Aha (Empty)",
+    "image_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "अः से बनता है 'नमः' यानी आदर से हाथ जोड़कर प्रणाम करना!",
+    "speech": "अः है खाली! बजाओ सब मिलकर ताली! बोलो मेरे साथ: अः खाली!"
+  },
+  "क": {
+    "letter": "क",
+    "type": "vyanjan",
+    "word": "कबूतर (Kabootar)",
+    "english": "Pigeon",
+    "image_url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "कबूतर शांति का प्रतीक होता है और गटर-गूं करता है!",
+    "speech": "क से कबूतर! क-बू-त-र, कबूतर उड़ा आसमान में! बोलो मेरे साथ: क से कबूतर!"
+  },
+  "ख": {
+    "letter": "ख",
+    "type": "vyanjan",
+    "word": "खरगोश (Khargosh)",
+    "english": "Rabbit",
+    "image_url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "खरगोश को लाल गाजर खाना पसंद है और फुदक-फुदक कर दौड़ता है!",
+    "speech": "ख से प्यारा खरगोश! गाजर खाता फुदक-फुदक खरगोश! बोलो मेरे साथ: ख से खरगोश!"
+  },
+  "ग": {
+    "letter": "ग",
+    "type": "vyanjan",
+    "word": "गमला (Gamla)",
+    "english": "Flower Pot",
+    "image_url": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "गमले में पौधे लगाने से घर हरा-भरा और खुशबूदार बनता है!",
+    "speech": "ग से फूलों का गमला! सुंदर-सुंदर सजा गमला! बोलो मेरे साथ: ग से गमला!"
+  },
+  "घ": {
+    "letter": "घ",
+    "type": "vyanjan",
+    "word": "घड़ी (Ghadi)",
+    "english": "Clock",
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "घड़ी टिक-टिक करती है और हमें समय की कीमत सिखाती है!",
+    "speech": "घ से टिक-टिक करती घड़ी! समय बताए प्यारी घड़ी! बोलो मेरे साथ: घ से घड़ी!"
+  },
+  "ङ": {
+    "letter": "ङ",
+    "type": "vyanjan",
+    "word": "ङ (Khali)",
+    "english": "Nga",
+    "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ङ से कोई शब्द शुरू नहीं होता, यह अनुस्वार की तरह काम आता है!",
+    "speech": "ङ है खाली! हंसते-हंसते बजाओ ताली!"
+  },
+  "च": {
+    "letter": "च",
+    "type": "vyanjan",
+    "word": "चम्मच (Chammach)",
+    "english": "Spoon",
+    "image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "चम्मच से हम स्वादिष्ट खीर और खाना खाते हैं!",
+    "speech": "च से चांदी का चम्मच! खीर खिलाए चम्मच! बोलो मेरे साथ: च से चम्मच!"
+  },
+  "छ": {
+    "letter": "छ",
+    "type": "vyanjan",
+    "word": "छाता (Chhata)",
+    "english": "Umbrella",
+    "image_url": "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "छाता बारिश में भीगने से और धूप से बचाता है!",
+    "speech": "छ से रंग-बिरंगा छाता! बारिश से हमें बचाता छाता! बोलो मेरे साथ: छ से छाता!"
+  },
+  "ज": {
+    "letter": "ज",
+    "type": "vyanjan",
+    "word": "जहाज (Jahaaz)",
+    "english": "Ship / Airplane",
+    "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "जहाज पानी के समंदर में तैरता है और आसमान में उड़ता है!",
+    "speech": "ज से पानी का बड़ा जहाज! सैर कराए जहाज! बोलो मेरे साथ: ज से जहाज!"
+  },
+  "झ": {
+    "letter": "झ",
+    "type": "vyanjan",
+    "word": "झंडा (Jhanda)",
+    "english": "Flag / Tiranga",
+    "image_url": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "हमारा प्यारा तिरंगा झंडा देश की शान है: केसरिया, सफेद और हरा!",
+    "speech": "झ से प्यारा तिरंगा झंडा! देश की शान हमारा झंडा! बोलो मेरे साथ: झ से झंडा!"
+  },
+  "ञ": {
+    "letter": "ञ",
+    "type": "vyanjan",
+    "word": "ञ (Khali)",
+    "english": "Nya",
+    "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ञ तालव्य नासिक्य वर्ण है जो शब्दों के बीच में आता है!",
+    "speech": "ञ है खाली! जोर से बजाओ ताली!"
+  },
+  "ट": {
+    "letter": "ट",
+    "type": "vyanjan",
+    "word": "टमाटर (Tamatar)",
+    "english": "Tomato",
+    "image_url": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "टमाटर लाल-लाल होता है और विटामिन सी से भरपूर होता है!",
+    "speech": "ट से लाल टमाटर! सेहत बनाए टमाटर! बोलो मेरे साथ: ट से टमाटर!"
+  },
+  "ठ": {
+    "letter": "ठ",
+    "type": "vyanjan",
+    "word": "ठठेरा (Thathera)",
+    "english": "Coppersmith",
+    "image_url": "https://images.unsplash.com/photo-1504917599217-d4dc5ebe6122?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ठठेरा धातु के सुंदर बर्तन ठोक-पीट कर बनाता है!",
+    "speech": "ठ से बर्तन बनाए ठठेरा! ठक-ठक करे ठठेरा! बोलो मेरे साथ: ठ से ठठेरा!"
+  },
+  "ड": {
+    "letter": "ड",
+    "type": "vyanjan",
+    "word": "डमरू (Damru)",
+    "english": "Small Drum",
+    "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "डमरू भगवान शिव का वाद्य यंत्र है जो डम-डम बजता है!",
+    "speech": "ड से डम-डम बाजे डमरू! भोलेनाथ का डमरू! बोलो मेरे साथ: ड से डमरू!"
+  },
+  "ढ": {
+    "letter": "ढ",
+    "type": "vyanjan",
+    "word": "ढक्कन (Dhakkan)",
+    "english": "Lid",
+    "image_url": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ढक्कन बर्तनों को ढक कर धूल और मक्खियों से बचाता है!",
+    "speech": "ढ से बर्तन का ढक्कन! खाना सुरक्षित रखे ढक्कन! बोलो मेरे साथ: ढ से ढक्कन!"
+  },
+  "ण": {
+    "letter": "ण",
+    "type": "vyanjan",
+    "word": "ण (Khali / Baan)",
+    "english": "Nna",
+    "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ण जैसे बाण और चरण में आता है!",
+    "speech": "ण है खाली! खुश होकर बजाओ ताली!"
+  },
+  "त": {
+    "letter": "त",
+    "type": "vyanjan",
+    "word": "तरबूज (Tarbooj)",
+    "english": "Watermelon",
+    "image_url": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "तरबूज बाहर से हरा और अंदर से लाल मीठा रसभरा होता है!",
+    "speech": "त से मीठा तरबूज! गर्मी दूर भगाए तरबूज! बोलो मेरे साथ: त से तरबूज!"
+  },
+  "थ": {
+    "letter": "थ",
+    "type": "vyanjan",
+    "word": "थर्मस (Thermas)",
+    "english": "Flask",
+    "image_url": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "थर्मस में गर्म पानी गर्म और ठंडा पानी ठंडा रहता है!",
+    "speech": "थ से पानी का थर्मस! स्कूल ले जाएं थर्मस! बोलो मेरे साथ: थ से थर्मस!"
+  },
+  "द": {
+    "letter": "द",
+    "type": "vyanjan",
+    "word": "दवात (Dawaat)",
+    "english": "Inkpot",
+    "image_url": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "दवात में स्याही भरी होती है जिससे सुंदर लिखावट लिखी जाती है!",
+    "speech": "द से नीली दवात! सुंदर लिखे दवात! बोलो मेरे साथ: द से दवात!"
+  },
+  "ध": {
+    "letter": "ध",
+    "type": "vyanjan",
+    "word": "धनुष (Dhanush)",
+    "english": "Bow",
+    "image_url": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "श्री राम जी का धनुष बुराई पर अच्छाई की जीत का प्रतीक है!",
+    "speech": "ध से श्री राम का धनुष! बाण चलाए धनुष! बोलो मेरे साथ: ध से धनुष!"
+  },
+  "न": {
+    "letter": "न",
+    "type": "vyanjan",
+    "word": "नल (Nal)",
+    "english": "Tap",
+    "image_url": "https://images.unsplash.com/photo-1520038410233-7141be7e6f97?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "नल से ठंडा-मीठा पानी मिलता है, हमें नल खुला नहीं छोड़ना चाहिए!",
+    "speech": "न से पानी का नल! टप-टप बहता नल! बोलो मेरे साथ: न से नल!"
+  },
+  "प": {
+    "letter": "प",
+    "type": "vyanjan",
+    "word": "पतंग (Patang)",
+    "english": "Kite",
+    "image_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "पतंग आसमान में सर-सर उड़ती है और हवा में गोते लगाती है!",
+    "speech": "प से रंग-बिरंगी पतंग! आसमान में उड़े पतंग! बोलो मेरे साथ: प से पतंग!"
+  },
+  "फ": {
+    "letter": "फ",
+    "type": "vyanjan",
+    "word": "फल (Phal)",
+    "english": "Fruits",
+    "image_url": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ताजे फल खाने से ताकत आती है और हम कभी बीमार नहीं पड़ते!",
+    "speech": "फ से मीठे-मीठे फल! ताकतवर बनाए फल! बोलो मेरे साथ: फ से फल!"
+  },
+  "ब": {
+    "letter": "ब",
+    "type": "vyanjan",
+    "word": "बत्तख (Batthakh)",
+    "english": "Duck",
+    "image_url": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "बत्तख पानी में क्वैक-क्वैक करके खुशी से तैरती है!",
+    "speech": "ब से पानी में बत्तख! क्वैक-क्वैक बोले बत्तख! बोलो मेरे साथ: ब से बत्तख!"
+  },
+  "भ": {
+    "letter": "भ",
+    "type": "vyanjan",
+    "word": "भालू (Bhaalu)",
+    "english": "Bear",
+    "image_url": "https://images.unsplash.com/photo-1589656966895-2f33e7653819?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "भालू को मीठा शहद खाना और सर्दियों में सोना पसंद है!",
+    "speech": "भ से नाच दिखाए भालू! शहद का शौकीन भालू! बोलो मेरे साथ: भ से भालू!"
+  },
+  "म": {
+    "letter": "म",
+    "type": "vyanjan",
+    "word": "मछली (Machhli)",
+    "english": "Fish",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "मछली जल की रानी है, जीवन उसका पानी है!",
+    "speech": "म से जल की रानी मछली! छप-छप तैरे मछली! बोलो मेरे साथ: म से मछली!"
+  },
+  "य": {
+    "letter": "य",
+    "type": "vyanjan",
+    "word": "यज्ञ (Yagya)",
+    "english": "Sacred Fire Ceremony",
+    "image_url": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "यज्ञ से वातावरण शुद्ध होता है और सकारात्मक ऊर्जा आती है!",
+    "speech": "य से पावन यज्ञ! वातावरण महकाए यज्ञ! बोलो मेरे साथ: य से यज्ञ!"
+  },
+  "र": {
+    "letter": "र",
+    "type": "vyanjan",
+    "word": "रथ (Rath)",
+    "english": "Chariot",
+    "image_url": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "रथ को सुंदर सफेद घोड़े खींचते हैं जिसपर राजा सवारी करते थे!",
+    "speech": "र से राजा का रथ! दौड़े घोड़ों संग रथ! बोलो मेरे साथ: र से रथ!"
+  },
+  "ल": {
+    "letter": "ल",
+    "type": "vyanjan",
+    "word": "लट्टू (Lattoo)",
+    "english": "Spinning Top",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "लट्टू डोरी से फिरकी की तरह गोल-गोल घूमता है!",
+    "speech": "ल से गोल घूमे लट्टू! बच्चों का प्यारा लट्टू! बोलो मेरे साथ: ल से लट्टू!"
+  },
+  "व": {
+    "letter": "व",
+    "type": "vyanjan",
+    "word": "वक (Vak / Bagula)",
+    "english": "Crane / Heron",
+    "image_url": "https://images.unsplash.com/photo-1549608276-5786777e6587?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "बगुला एक पैर पर खड़े होकर तालाब में ध्यान लगाता है!",
+    "speech": "व से तालाब किनारे वक! ध्यान लगाए बगुला वक! बोलो मेरे साथ: व से वक!"
+  },
+  "श": {
+    "letter": "श",
+    "type": "vyanjan",
+    "word": "शलजम (Shaljam)",
+    "english": "Turnip",
+    "image_url": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "शलजम सफेद और बैंगनी रंग की पौष्टिक जड़ वाली सब्जी होती है!",
+    "speech": "श से पौष्टिक शलजम! सलाद में खाएं शलजम! बोलो मेरे साथ: श से शलजम!"
+  },
+  "ष": {
+    "letter": "ष",
+    "type": "vyanjan",
+    "word": "षट्कोण (Shatkon)",
+    "english": "Hexagon",
+    "image_url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "षट्कोण में छह (6) सुंदर कोने और भुजाएं होती हैं!",
+    "speech": "ष से छह कोनों वाला षट्कोण! सुंदर आकार षट्कोण! बोलो मेरे साथ: ष से षट्कोण!"
+  },
+  "स": {
+    "letter": "स",
+    "type": "vyanjan",
+    "word": "सेब / सपेरा (Seb / Sapera)",
+    "english": "Apple / Snake Charmer",
+    "image_url": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "स से सेब मीठा-मीठा लाल होता है जो हमें तंदुरुस्त रखता है!",
+    "speech": "स से मीठा सेब और बीन बजाए सपेरा! बोलो मेरे साथ: स से सेब!"
+  },
+  "ह": {
+    "letter": "ह",
+    "type": "vyanjan",
+    "word": "हाथी (Haathi)",
+    "english": "Elephant",
+    "image_url": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "हाथी के बड़े-बड़े कान पंखे जैसे होते हैं और लंबी सूंड होती है!",
+    "speech": "ह से मस्त-मलंग हाथी! सूंड हिलाता हाथी! बोलो मेरे साथ: ह से हाथी!"
+  },
+  "क्ष": {
+    "letter": "क्ष",
+    "type": "vyanjan",
+    "word": "क्षत्रिय (Kshatriya)",
+    "english": "Warrior",
+    "image_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "क्षत्रिय देश और जनता की रक्षा करने वाले वीर योद्धा होते हैं!",
+    "speech": "क्ष से वीर क्षत्रिय! देश की रक्षा करे क्षत्रिय! बोलो मेरे साथ: क्ष से क्षत्रिय!"
+  },
+  "त्र": {
+    "letter": "त्र",
+    "type": "vyanjan",
+    "word": "त्रिशूल (Trishool)",
+    "english": "Trident",
+    "image_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "त्रिशूल में तीन नोकें होती हैं जो इच्छा, ज्ञान और क्रिया दर्शाती हैं!",
+    "speech": "त्र से पावन त्रिशूल! शिवजी का त्रिशूल! बोलो मेरे साथ: त्र से त्रिशूल!"
+  },
+  "ज्ञ": {
+    "letter": "ज्ञ",
+    "type": "vyanjan",
+    "word": "ज्ञानी (Gyaani)",
+    "english": "Wise / Sage",
+    "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "ज्ञानी वह होता है जो किताबें पढ़कर अच्छी और सच्ची बातें सीखता है!",
+    "speech": "ज्ञ से समझदार ज्ञानी! ज्ञान बढ़ाए ज्ञानी! बोलो मेरे साथ: ज्ञ से ज्ञानी!"
+  },
+  "श्र": {
+    "letter": "श्र",
+    "type": "vyanjan",
+    "word": "श्रमिक (Shramik)",
+    "english": "Worker / Hard Worker",
+    "image_url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "श्रमिक अपनी मेहनत से बड़े-बड़े पुल और सुंदर घर बनाते हैं!",
+    "speech": "श्र से मेहनती श्रमिक! देश बनाए श्रमिक! बोलो मेरे साथ: श्र से श्रमिक!"
+  },
+  "ड़": {
+    "letter": "ड़",
+    "type": "vyanjan",
+    "word": "सड़क (Sadak)",
+    "english": "Road",
+    "image_url": "https://images.unsplash.com/photo-1506521781263-d8422e82f27a?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "सड़क पर गाड़ियां चलती हैं और हमें जेब्रा क्रॉसिंग से पार करना चाहिए!",
+    "speech": "ड़ से सीधी-सपाट सड़क! सुरक्षित चलें सड़क! बोलो मेरे साथ: सड़क!"
+  },
+  "ढ़": {
+    "letter": "ढ़",
+    "type": "vyanjan",
+    "word": "पढ़ाई (Padhai)",
+    "english": "Study / Learning",
+    "image_url": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&auto=format&fit=crop&q=80",
+    "fun_fact": "पढ़ाई करने से दिमाग कंप्यूटर जैसा तेज और समझदार बनता है!",
+    "speech": "ढ़ से मन लगाकर पढ़ाई! आगे बढ़ाए पढ़ाई! बोलो मेरे साथ: पढ़ाई!"
+  }
+}

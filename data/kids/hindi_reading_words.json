@@ -1,0 +1,382 @@
+[
+  {
+    "id": "hw_nal",
+    "word": "नल",
+    "english": "Tap",
+    "meaning": "Pani aane wala nal",
+    "letters": [
+      "न",
+      "ल"
+    ],
+    "letter_count": 2,
+    "curriculum_tier": "nursery",
+    "phonics_speech": "न... ल... नल! न से नल, नल से टपके जल! बोलो मेरे साथ: न + ल = नल!",
+    "image_url": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?w=600&q=80",
+    "sentence": "नल से शीतल जल बहता है।"
+  },
+  {
+    "id": "hw_jal",
+    "word": "जल",
+    "english": "Water",
+    "meaning": "Peene ka paani",
+    "letters": [
+      "ज",
+      "ल"
+    ],
+    "letter_count": 2,
+    "curriculum_tier": "nursery",
+    "phonics_speech": "ज... ल... जल! ज से जल, जल ही जीवन है! बोलो मेरे साथ: ज + ल = जल!",
+    "image_url": "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?w=600&q=80",
+    "sentence": "जल ही जीवन है, खूब जल पियो।"
+  },
+  {
+    "id": "hw_ghar",
+    "word": "घर",
+    "english": "Home / House",
+    "meaning": "Hamara pyara aashiyana",
+    "letters": [
+      "घ",
+      "र"
+    ],
+    "letter_count": 2,
+    "curriculum_tier": "nursery",
+    "phonics_speech": "घ... र... घर! घ से घर, मेरा प्यारा घर! बोलो मेरे साथ: घ + र = घर!",
+    "image_url": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=600&q=80",
+    "sentence": "चल अपने घर चल।"
+  },
+  {
+    "id": "hw_fal",
+    "word": "फल",
+    "english": "Fruit",
+    "meaning": "Meethe swadisht phal",
+    "letters": [
+      "फ",
+      "ल"
+    ],
+    "letter_count": 2,
+    "curriculum_tier": "nursery",
+    "phonics_speech": "फ... ल... फल! फ से फल, रोज खाओ मीठे फल! बोलो मेरे साथ: फ + ल = फल!",
+    "image_url": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=600&q=80",
+    "sentence": "ताजा फल खाकर तंदुरुस्त बनो।"
+  },
+  {
+    "id": "hw_bus",
+    "word": "बस",
+    "english": "Bus",
+    "meaning": "School ya safar ki bus",
+    "letters": [
+      "ब",
+      "स"
+    ],
+    "letter_count": 2,
+    "curriculum_tier": "nursery",
+    "phonics_speech": "ब... स... बस! ब से बस, पीली स्कूल बस! बोलो मेरे साथ: ब + स = बस!",
+    "image_url": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&q=80",
+    "sentence": "बस पर चढ़कर स्कूल जाओ।"
+  },
+  {
+    "id": "hw_jag",
+    "word": "जग",
+    "english": "Jug / World",
+    "meaning": "Pani ka jug",
+    "letters": [
+      "ज",
+      "ग"
+    ],
+    "letter_count": 2,
+    "curriculum_tier": "nursery",
+    "phonics_speech": "ज... ग... जग! ज से जग, पानी से भरा जग! बोलो मेरे साथ: ज + ग = जग!",
+    "image_url": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=600&q=80",
+    "sentence": "जग में जल भर कर रख।"
+  },
+  {
+    "id": "hw_rath",
+    "word": "रथ",
+    "english": "Chariot",
+    "meaning": "Ghodon wala rath",
+    "letters": [
+      "र",
+      "थ"
+    ],
+    "letter_count": 2,
+    "curriculum_tier": "nursery",
+    "phonics_speech": "र... थ... रथ! र से रथ, राजा का सुंदर रथ! बोलो मेरे साथ: र + थ = रथ!",
+    "image_url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&q=80",
+    "sentence": "रथ पर सवार होकर राजा आए।"
+  },
+  {
+    "id": "hw_khat",
+    "word": "खत",
+    "english": "Letter",
+    "meaning": "Chitthi / Patra",
+    "letters": [
+      "ख",
+      "त"
+    ],
+    "letter_count": 2,
+    "curriculum_tier": "nursery",
+    "phonics_speech": "ख... त... खत! ख से खत, डाकिया लाया प्यारा खत! बोलो मेरे साथ: ख + त = खत!",
+    "image_url": "https://images.unsplash.com/photo-1526045612212-70caf35c14df?w=600&q=80",
+    "sentence": "नानी का प्यारा खत आया।"
+  },
+  {
+    "id": "hw_das",
+    "word": "दस",
+    "english": "Ten (10)",
+    "meaning": "Sankhya 10",
+    "letters": [
+      "द",
+      "स"
+    ],
+    "letter_count": 2,
+    "curriculum_tier": "nursery",
+    "phonics_speech": "द... स... दस! द से दस, दोनों हाथों की उंगलियां दस! बोलो मेरे साथ: द + स = दस!",
+    "image_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&q=80",
+    "sentence": "गिनती में पूरे हुए दस।"
+  },
+  {
+    "id": "hw_tub",
+    "word": "टब",
+    "english": "Tub",
+    "meaning": "Nahane ka tub",
+    "letters": [
+      "ट",
+      "ब"
+    ],
+    "letter_count": 2,
+    "curriculum_tier": "nursery",
+    "phonics_speech": "ट... ब... टब! ट से टब, पानी से भरा टब! बोलो मेरे साथ: ट + ब = टब!",
+    "image_url": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?w=600&q=80",
+    "sentence": "टब में जल भर।"
+  },
+  {
+    "id": "hw_kamal",
+    "word": "कमल",
+    "english": "Lotus",
+    "meaning": "Bharat ka rashtriya phool",
+    "letters": [
+      "क",
+      "म",
+      "ल"
+    ],
+    "letter_count": 3,
+    "curriculum_tier": "primary",
+    "phonics_speech": "क... म... ल... कमल! क से कमल, कीचड़ में खिले सुंदर कमल! बोलो मेरे साथ: क + म + ल = कमल!",
+    "image_url": "https://images.unsplash.com/photo-1508615039623-a25605d2b022?w=600&q=80",
+    "sentence": "कमल भारत का राष्ट्रीय फूल है।"
+  },
+  {
+    "id": "hw_matar",
+    "word": "मटर",
+    "english": "Green Peas",
+    "meaning": "Hari-hari meethe dane",
+    "letters": [
+      "म",
+      "ट",
+      "र"
+    ],
+    "letter_count": 3,
+    "curriculum_tier": "primary",
+    "phonics_speech": "म... ट... र... मटर! म से मटर, गोल-गोल हरे मटर! बोलो मेरे साथ: म + ट + र = मटर!",
+    "image_url": "https://images.unsplash.com/photo-1592417817098-8f3d691079d8?w=600&q=80",
+    "sentence": "मटर छीलकर गरम सब्जी बनाओ।"
+  },
+  {
+    "id": "hw_sadak",
+    "word": "सड़क",
+    "english": "Road",
+    "meaning": "Gadiyon ke chalne ka rasta",
+    "letters": [
+      "स",
+      "ड़",
+      "क"
+    ],
+    "letter_count": 3,
+    "curriculum_tier": "primary",
+    "phonics_speech": "स... ड़... क... सड़क! स से सड़क, सड़क पर संभल कर चलो! बोलो मेरे साथ: स + ड़ + क = सड़क!",
+    "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&q=80",
+    "sentence": "सड़क पर बाएँ हाथ से चलो।"
+  },
+  {
+    "id": "hw_kalam",
+    "word": "कलम",
+    "english": "Pen",
+    "meaning": "Likhne wali pen",
+    "letters": [
+      "क",
+      "ल",
+      "म"
+    ],
+    "letter_count": 3,
+    "curriculum_tier": "primary",
+    "phonics_speech": "क... ल... म... कलम! क से कलम, जिससे हम सुंदर अक्षर लिखते हैं! बोलो मेरे साथ: क + ल + म = कलम!",
+    "image_url": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=600&q=80",
+    "sentence": "कलम पकड़ कर सुंदर लिखाई करो।"
+  },
+  {
+    "id": "hw_mahal",
+    "word": "महल",
+    "english": "Palace",
+    "meaning": "Raja ka shandar ghar",
+    "letters": [
+      "म",
+      "ह",
+      "ल"
+    ],
+    "letter_count": 3,
+    "curriculum_tier": "primary",
+    "phonics_speech": "म... ह... ल... महल! म से महल, राजा-रानी का आलीशान महल! बोलो मेरे साथ: म + ह + ल = महल!",
+    "image_url": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600&q=80",
+    "sentence": "महल की दीवारें बहुत ऊंची हैं।"
+  },
+  {
+    "id": "hw_pawan",
+    "word": "पवन",
+    "english": "Breeze / Wind",
+    "meaning": "Thandi-thandi hawa",
+    "letters": [
+      "प",
+      "व",
+      "न"
+    ],
+    "letter_count": 3,
+    "curriculum_tier": "primary",
+    "phonics_speech": "प... व... न... पवन! प से पवन, बहती जाए शीतल पवन! बोलो मेरे साथ: प + व + न = पवन!",
+    "image_url": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=600&q=80",
+    "sentence": "शीतल पवन बह रही है।"
+  },
+  {
+    "id": "hw_button",
+    "word": "बटन",
+    "english": "Button",
+    "meaning": "Shirt ka button",
+    "letters": [
+      "ब",
+      "ट",
+      "न"
+    ],
+    "letter_count": 3,
+    "curriculum_tier": "primary",
+    "phonics_speech": "ब... ट... न... बटन! ब से बटन, शर्ट का गोल बटन! बोलो मेरे साथ: ब + ट + न = बटन!",
+    "image_url": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=600&q=80",
+    "sentence": "कमीज का बटन लगाओ।"
+  },
+  {
+    "id": "hw_namak",
+    "word": "नमक",
+    "english": "Salt",
+    "meaning": "Khane ka swaad badhane wala",
+    "letters": [
+      "न",
+      "म",
+      "क"
+    ],
+    "letter_count": 3,
+    "curriculum_tier": "primary",
+    "phonics_speech": "न... म... क... नमक! न से नमक, भोजन में स्वाद लाए नमक! बोलो मेरे साथ: न + म + क = नमक!",
+    "image_url": "https://images.unsplash.com/photo-1518843875459-f738682238a6?w=600&q=80",
+    "sentence": "दाल में सही नमक डालो।"
+  },
+  {
+    "id": "hw_ajgar",
+    "word": "अजगर",
+    "english": "Python",
+    "meaning": "Bada sa saamp",
+    "letters": [
+      "अ",
+      "ज",
+      "ग",
+      "र"
+    ],
+    "letter_count": 4,
+    "curriculum_tier": "advanced",
+    "phonics_speech": "अ... ज... ग... र... अजगर! अ से अजगर, जंगल का भारी अजगर! बोलो मेरे साथ: अ + ज + ग + र = अजगर!",
+    "image_url": "https://images.unsplash.com/photo-1531386151447-fd76ad50012f?w=600&q=80",
+    "sentence": "अजगर पेड़ की डाल पर लिपटा है।"
+  },
+  {
+    "id": "hw_bargad",
+    "word": "बरगद",
+    "english": "Banyan Tree",
+    "meaning": "Bharat ka rashtriya vriksha",
+    "letters": [
+      "ब",
+      "र",
+      "ग",
+      "द"
+    ],
+    "letter_count": 4,
+    "curriculum_tier": "advanced",
+    "phonics_speech": "ब... र... ग... द... बरगद! ब से बरगद, छायादार विशाल बरगद! बोलो मेरे साथ: ब + र + ग + द = बरगद!",
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80",
+    "sentence": "बरगद हमारा राष्ट्रीय वृक्ष है।"
+  },
+  {
+    "id": "hw_kasrat",
+    "word": "कसरत",
+    "english": "Exercise",
+    "meaning": "Shareer ko tandurust rakhna",
+    "letters": [
+      "क",
+      "स",
+      "र",
+      "त"
+    ],
+    "letter_count": 4,
+    "curriculum_tier": "advanced",
+    "phonics_speech": "क... स... र... त... कसरत! क से कसरत, रोज सुबह करो कसरत! बोलो मेरे साथ: क + स + र + त = कसरत!",
+    "image_url": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&q=80",
+    "sentence": "रोज कसरत करने से शरीर ताकतवर बनता है।"
+  },
+  {
+    "id": "hw_shaljam",
+    "word": "शलजम",
+    "english": "Turnip",
+    "meaning": "Gulaabi-safed sabzi",
+    "letters": [
+      "श",
+      "ल",
+      "ज",
+      "म"
+    ],
+    "letter_count": 4,
+    "curriculum_tier": "advanced",
+    "phonics_speech": "श... ल... ज... म... शलजम! श से शलजम, सेहत से भरपूर शलजम! बोलो मेरे साथ: श + ल + ज + म = शलजम!",
+    "image_url": "https://images.unsplash.com/photo-1592417817098-8f3d691079d8?w=600&q=80",
+    "sentence": "शलजम की सब्जी स्वादिष्ट होती है।"
+  },
+  {
+    "id": "hw_upvan",
+    "word": "उपवन",
+    "english": "Garden / Park",
+    "meaning": "Phoolon aur pedon ka bageecha",
+    "letters": [
+      "उ",
+      "प",
+      "व",
+      "न"
+    ],
+    "letter_count": 4,
+    "curriculum_tier": "advanced",
+    "phonics_speech": "उ... प... व... न... उपवन! उ से उपवन, रंग-बिरंगे फूलों का उपवन! बोलो मेरे साथ: उ + प + व + न = उपवन!",
+    "image_url": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=600&q=80",
+    "sentence": "उपवन में तितलियां उड़ रही हैं।"
+  },
+  {
+    "id": "hw_sharbat",
+    "word": "शरबत",
+    "english": "Syrup / Sweet Drink",
+    "meaning": "Garmiyon ka thanda meetha pey",
+    "letters": [
+      "श",
+      "र",
+      "ब",
+      "त"
+    ],
+    "letter_count": 4,
+    "curriculum_tier": "advanced",
+    "phonics_speech": "श... र... ब... त... शरबत! श से शरबत, ठंडा-मीठा रूहआफजा शरबत! बोलो मेरे साथ: श + र + ब + त = शरबत!",
+    "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=600&q=80",
+    "sentence": "गर्मी में ठंडा शरबत पियो।"
+  }
+]

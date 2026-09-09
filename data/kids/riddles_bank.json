@@ -1,0 +1,192 @@
+[
+  {
+    "id": "riddle_rabbit",
+    "riddle": "Laal gajar khata hai, lambe kaan hilata hai, phudak-phudak kar daud lagata hai... Batao kaun hoon main?",
+    "english": "Eats red carrots, wiggles long ears, hops and runs fast... Who am I?",
+    "options": [
+      "Billi 🐱",
+      "Khargosh 🐰",
+      "Bhalu 🐻",
+      "Bandar 🐵"
+    ],
+    "correct_option": "Khargosh 🐰",
+    "correct_index": 1,
+    "hint": "Ye safed rang ka hota hai aur bohot tez bhagta hai!",
+    "celebration": "Arre wah superstar! Sahi jawab! Khargosh 🐰! Aapko milta hai +1 Star ⭐!",
+    "wrong_cheer": "Oho! Thoda socho... ye pyara safed janwar gajar khata hai! Try again!",
+    "image_url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&auto=format&fit=crop&q=80",
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "riddle_watermelon",
+    "riddle": "Hara hoon par tota nahi, gol hoon par gend nahi, andar se laal hoon, meetha ras-dhaar hoon! Batao kya hoon main?",
+    "english": "Green but not a parrot, round but not a ball, red inside, sweet and juicy! What am I?",
+    "options": [
+      "Aam 🥭",
+      "Tarbooz 🍉",
+      "Seb 🍎",
+      "Papita 🍈"
+    ],
+    "correct_option": "Tarbooz 🍉",
+    "correct_index": 1,
+    "hint": "Garmiyon me bohot thanda-thanda khate hain isme kaale beej hote hain!",
+    "celebration": "Super Champ! Bilkul sahi! Mitha-mitha Tarbooz (Watermelon) 🍉! +1 Star ⭐!",
+    "wrong_cheer": "Arre nahi, ye bahar se hara aur andar se laal meetha hota hai!",
+    "image_url": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=600&auto=format&fit=crop&q=80",
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "riddle_coconut",
+    "riddle": "Katori pe katora, beta baap se bhi gora! Batao kya?",
+    "english": "A bowl on a bowl, the son is whiter than the father! What is it?",
+    "options": [
+      "Anda 🥚",
+      "Nariyal 🥥",
+      "Pyaz 🧅",
+      "Aloo 🥔"
+    ],
+    "correct_option": "Nariyal 🥥",
+    "correct_index": 1,
+    "hint": "Iska upar ka chilka brown hota hai aur andar safed paani aur giri hoti hai!",
+    "celebration": "Wah Einstein! Sahi pakde hain! Nariyal (Coconut) 🥥! +1 Star ⭐!",
+    "wrong_cheer": "Thoda socho... mandir me prasad me milta hai!",
+    "image_url": "https://images.unsplash.com/photo-1544378730-8b5104b18790?w=600&auto=format&fit=crop&q=80",
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "riddle_elephant",
+    "riddle": "Ek janwar aisa jiske soond lambi aur kaan soop jaise, dholak jaisa pet aur khambhe jaise pair! Batao kaun?",
+    "english": "An animal with a long trunk, ears like fans, belly like a drum and legs like pillars!",
+    "options": [
+      "Sher 🦁",
+      "Haathi 🐘",
+      "Oont 🐪",
+      "Ghoda 🐴"
+    ],
+    "correct_option": "Haathi 🐘",
+    "correct_index": 1,
+    "hint": "Ye zameen ka sabse bada janwar hai aur kela khana pasand karta hai!",
+    "celebration": "Hooray! Haathi Raja 🐘! Soond hilakar bole: Bahut badiya champ! +1 Star ⭐!",
+    "wrong_cheer": "Arre dhyan se socho, lambi soond kiske paas hoti hai?",
+    "image_url": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=600&auto=format&fit=crop&q=80",
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "riddle_clock",
+    "riddle": "Teen haath hain par ungliyan nahi, chalti rehti hai par thakti nahi! Batao kya?",
+    "english": "Has three hands but no fingers, keeps moving without getting tired! What is it?",
+    "options": [
+      "Pankha 🌀",
+      "Ghadi ⏰",
+      "Gaadi 🚗",
+      "Kilona 🧸"
+    ],
+    "correct_option": "Ghadi ⏰",
+    "correct_index": 1,
+    "hint": "Ye deewar par latki hoti hai aur 'Tik-Tik' karti hai!",
+    "celebration": "Tik-Tik-Tik! Sahi jawab! Ghadi (Clock) ⏰! Time batane me master! +1 Star ⭐!",
+    "wrong_cheer": "Ye subah hume school ke liye time batati hai!",
+    "image_url": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=600&auto=format&fit=crop&q=80",
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "riddle_sun",
+    "riddle": "Subah aakar sabko jagata, shaam dhalte hi so jata, din bhar aasmaan me chamak kar roshni barsata! Batao kaun?",
+    "english": "Wakes everyone in the morning, sleeps at sunset, shines in the sky all day!",
+    "options": [
+      "Chanda Mama 🌙",
+      "Sooraj Chacha ☀️",
+      "Badal ☁️",
+      "Tara ⭐"
+    ],
+    "correct_option": "Sooraj Chacha ☀️",
+    "correct_index": 1,
+    "hint": "Ye peela aur aag ka gola jaisa hota hai!",
+    "celebration": "Good Morning Super Champ! Bilkul sahi: Sooraj Chacha (Sun) ☀️! +1 Star ⭐!",
+    "wrong_cheer": "Din me roshni kaun deta hai? Socho socho!",
+    "image_url": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=600&auto=format&fit=crop&q=80",
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "riddle_tree",
+    "riddle": "Pair zameen me gaad ke khada, dhoop sahe par chhaon deta, meethhe-meethhe phal khilata! Batao kya?",
+    "english": "Stands with feet in the ground, bears the heat to give shade, offers sweet fruits!",
+    "options": [
+      "Makaan 🏠",
+      "Ped (Tree) 🌳",
+      "Pahar ⛰️",
+      "Pool 🌉"
+    ],
+    "correct_option": "Ped (Tree) 🌳",
+    "correct_index": 1,
+    "hint": "Isme hari-hari pattiya aur aam lagte hain!",
+    "celebration": "Wah mere nature hero! Sahi jawab: Ped (Tree) 🌳! Clean air aur shade! +1 Star ⭐!",
+    "wrong_cheer": "Is par chidiya ghosla banati hai, socho kaun hai!",
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&auto=format&fit=crop&q=80",
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "riddle_tea_pot",
+    "riddle": "Ek aisi cheez jiska pet gol, naak se dhuwan nikle, aur subah-subah gungunati hai?",
+    "english": "Round belly, smoke comes from nose, whistles in the morning!",
+    "options": [
+      "Bottle 🍼",
+      "Ketli / Cooker 🫖",
+      "Katori 🥣",
+      "Glass 🥛"
+    ],
+    "correct_option": "Ketli / Cooker 🫖",
+    "correct_index": 1,
+    "hint": "Isme garam-garam chai ya daal banti hai!",
+    "celebration": "Seetee baji! Sahi jawab: Ketli / Pressure Cooker 🫖! Brilliant mind! +1 Star ⭐!",
+    "wrong_cheer": "Kitchen me seetee kaun bajata hai?",
+    "image_url": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=600&auto=format&fit=crop&q=80",
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "riddle_frog",
+    "riddle": "Barsaat aate hi kare 'Tarr-Tarr', paani aur zameen dono par koodta jaaye! Batao kaun?",
+    "english": "Says croak-croak when it rains, jumps on water and land!",
+    "options": [
+      "Saamp 🐍",
+      "Mendhak (Frog) 🐸",
+      "Kachhua 🐢",
+      "Billi 🐱"
+    ],
+    "correct_option": "Mendhak (Frog) 🐸",
+    "correct_index": 1,
+    "hint": "Ye hara-hara hota hai aur bohot unchi chalang lagata hai!",
+    "celebration": "Croak Croak! Shabaash! Mendhak (Frog) 🐸! Jump Champion! +1 Star ⭐!",
+    "wrong_cheer": "Baarish me hara janwar kaun koodta hai?",
+    "image_url": "https://images.unsplash.com/photo-1579380656108-620e2ef64639?w=600&auto=format&fit=crop&q=80",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "riddle_book",
+    "riddle": "Pankh nahi par udna sikhaye, zuban nahi par baatein bataye, gyaan ka khazana hai! Batao kya?",
+    "english": "Has no wings but teaches how to fly, has no tongue but tells stories!",
+    "options": [
+      "Kitab (Book) 📖",
+      "Pencil ✏️",
+      "Bag 🎒",
+      "Eraser 🧼"
+    ],
+    "correct_option": "Kitab (Book) 📖",
+    "correct_index": 0,
+    "hint": "Isko hum padhte hain aur isme pyari kahaniyan hoti hain!",
+    "celebration": "Waah kitabi keeda! Bilkul sahi: Pyaari Kitaab (Book) 📖! +1 Star ⭐!",
+    "wrong_cheer": "School bag me sabse zaroori cheez kya hoti hai jisme kahani hoti hai?",
+    "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=80",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  }
+]

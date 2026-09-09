@@ -1,0 +1,902 @@
+[
+  {
+    "number": 1,
+    "english_name": "One",
+    "hindi_name": "एक",
+    "roman_hindi": "Ek",
+    "tens_group": "1-10",
+    "fun_fact": "Number 1 ko English me 'One' aur Hindi me 'एक' (Ek) bolte hain!",
+    "speech": "Ye dekhiye number 1! English me 'One' aur Hindi me 'एक'! Chalo bolo mere saath: 1, Ek!"
+  },
+  {
+    "number": 2,
+    "english_name": "Two",
+    "hindi_name": "दो",
+    "roman_hindi": "Do",
+    "tens_group": "1-10",
+    "fun_fact": "Number 2 ko English me 'Two' aur Hindi me 'दो' (Do) bolte hain!",
+    "speech": "Ye dekhiye number 2! English me 'Two' aur Hindi me 'दो'! Chalo bolo mere saath: 2, Do!"
+  },
+  {
+    "number": 3,
+    "english_name": "Three",
+    "hindi_name": "तीन",
+    "roman_hindi": "Teen",
+    "tens_group": "1-10",
+    "fun_fact": "Number 3 ko English me 'Three' aur Hindi me 'तीन' (Teen) bolte hain!",
+    "speech": "Ye dekhiye number 3! English me 'Three' aur Hindi me 'तीन'! Chalo bolo mere saath: 3, Teen!"
+  },
+  {
+    "number": 4,
+    "english_name": "Four",
+    "hindi_name": "चार",
+    "roman_hindi": "Chaar",
+    "tens_group": "1-10",
+    "fun_fact": "Number 4 ko English me 'Four' aur Hindi me 'चार' (Chaar) bolte hain!",
+    "speech": "Ye dekhiye number 4! English me 'Four' aur Hindi me 'चार'! Chalo bolo mere saath: 4, Chaar!"
+  },
+  {
+    "number": 5,
+    "english_name": "Five",
+    "hindi_name": "पाँच",
+    "roman_hindi": "Paanch",
+    "tens_group": "1-10",
+    "fun_fact": "Number 5 ko English me 'Five' aur Hindi me 'पाँच' (Paanch) bolte hain!",
+    "speech": "Ye dekhiye number 5! English me 'Five' aur Hindi me 'पाँच'! Chalo bolo mere saath: 5, Paanch!"
+  },
+  {
+    "number": 6,
+    "english_name": "Six",
+    "hindi_name": "छह",
+    "roman_hindi": "Chhah",
+    "tens_group": "1-10",
+    "fun_fact": "Number 6 ko English me 'Six' aur Hindi me 'छह' (Chhah) bolte hain!",
+    "speech": "Ye dekhiye number 6! English me 'Six' aur Hindi me 'छह'! Chalo bolo mere saath: 6, Chhah!"
+  },
+  {
+    "number": 7,
+    "english_name": "Seven",
+    "hindi_name": "सात",
+    "roman_hindi": "Saat",
+    "tens_group": "1-10",
+    "fun_fact": "Number 7 ko English me 'Seven' aur Hindi me 'सात' (Saat) bolte hain!",
+    "speech": "Ye dekhiye number 7! English me 'Seven' aur Hindi me 'सात'! Chalo bolo mere saath: 7, Saat!"
+  },
+  {
+    "number": 8,
+    "english_name": "Eight",
+    "hindi_name": "आठ",
+    "roman_hindi": "Aath",
+    "tens_group": "1-10",
+    "fun_fact": "Number 8 ko English me 'Eight' aur Hindi me 'आठ' (Aath) bolte hain!",
+    "speech": "Ye dekhiye number 8! English me 'Eight' aur Hindi me 'आठ'! Chalo bolo mere saath: 8, Aath!"
+  },
+  {
+    "number": 9,
+    "english_name": "Nine",
+    "hindi_name": "नौ",
+    "roman_hindi": "Nau",
+    "tens_group": "1-10",
+    "fun_fact": "Number 9 ko English me 'Nine' aur Hindi me 'नौ' (Nau) bolte hain!",
+    "speech": "Ye dekhiye number 9! English me 'Nine' aur Hindi me 'नौ'! Chalo bolo mere saath: 9, Nau!"
+  },
+  {
+    "number": 10,
+    "english_name": "Ten",
+    "hindi_name": "दस",
+    "roman_hindi": "Das",
+    "tens_group": "1-10",
+    "fun_fact": "Number 10 ko English me 'Ten' aur Hindi me 'दस' (Das) bolte hain!",
+    "speech": "Ye dekhiye number 10! English me 'Ten' aur Hindi me 'दस'! Chalo bolo mere saath: 10, Das!"
+  },
+  {
+    "number": 11,
+    "english_name": "Eleven",
+    "hindi_name": "ग्यारह",
+    "roman_hindi": "Gyarah",
+    "tens_group": "11-20",
+    "fun_fact": "Number 11 ko English me 'Eleven' aur Hindi me 'ग्यारह' (Gyarah) bolte hain!",
+    "speech": "Ye dekhiye number 11! English me 'Eleven' aur Hindi me 'ग्यारह'! Chalo bolo mere saath: 11, Gyarah!"
+  },
+  {
+    "number": 12,
+    "english_name": "Twelve",
+    "hindi_name": "बारह",
+    "roman_hindi": "Barah",
+    "tens_group": "11-20",
+    "fun_fact": "Number 12 ko English me 'Twelve' aur Hindi me 'बारह' (Barah) bolte hain!",
+    "speech": "Ye dekhiye number 12! English me 'Twelve' aur Hindi me 'बारह'! Chalo bolo mere saath: 12, Barah!"
+  },
+  {
+    "number": 13,
+    "english_name": "Thirteen",
+    "hindi_name": "तेरह",
+    "roman_hindi": "Terah",
+    "tens_group": "11-20",
+    "fun_fact": "Number 13 ko English me 'Thirteen' aur Hindi me 'तेरह' (Terah) bolte hain!",
+    "speech": "Ye dekhiye number 13! English me 'Thirteen' aur Hindi me 'तेरह'! Chalo bolo mere saath: 13, Terah!"
+  },
+  {
+    "number": 14,
+    "english_name": "Fourteen",
+    "hindi_name": "चौदह",
+    "roman_hindi": "Chaudah",
+    "tens_group": "11-20",
+    "fun_fact": "Number 14 ko English me 'Fourteen' aur Hindi me 'चौदह' (Chaudah) bolte hain!",
+    "speech": "Ye dekhiye number 14! English me 'Fourteen' aur Hindi me 'चौदह'! Chalo bolo mere saath: 14, Chaudah!"
+  },
+  {
+    "number": 15,
+    "english_name": "Fifteen",
+    "hindi_name": "पंद्रह",
+    "roman_hindi": "Pandrah",
+    "tens_group": "11-20",
+    "fun_fact": "Number 15 ko English me 'Fifteen' aur Hindi me 'पंद्रह' (Pandrah) bolte hain!",
+    "speech": "Ye dekhiye number 15! English me 'Fifteen' aur Hindi me 'पंद्रह'! Chalo bolo mere saath: 15, Pandrah!"
+  },
+  {
+    "number": 16,
+    "english_name": "Sixteen",
+    "hindi_name": "सोलह",
+    "roman_hindi": "Solah",
+    "tens_group": "11-20",
+    "fun_fact": "Number 16 ko English me 'Sixteen' aur Hindi me 'सोलह' (Solah) bolte hain!",
+    "speech": "Ye dekhiye number 16! English me 'Sixteen' aur Hindi me 'सोलह'! Chalo bolo mere saath: 16, Solah!"
+  },
+  {
+    "number": 17,
+    "english_name": "Seventeen",
+    "hindi_name": "सत्रह",
+    "roman_hindi": "Satrah",
+    "tens_group": "11-20",
+    "fun_fact": "Number 17 ko English me 'Seventeen' aur Hindi me 'सत्रह' (Satrah) bolte hain!",
+    "speech": "Ye dekhiye number 17! English me 'Seventeen' aur Hindi me 'सत्रह'! Chalo bolo mere saath: 17, Satrah!"
+  },
+  {
+    "number": 18,
+    "english_name": "Eighteen",
+    "hindi_name": "अठारह",
+    "roman_hindi": "Atharah",
+    "tens_group": "11-20",
+    "fun_fact": "Number 18 ko English me 'Eighteen' aur Hindi me 'अठारह' (Atharah) bolte hain!",
+    "speech": "Ye dekhiye number 18! English me 'Eighteen' aur Hindi me 'अठारह'! Chalo bolo mere saath: 18, Atharah!"
+  },
+  {
+    "number": 19,
+    "english_name": "Nineteen",
+    "hindi_name": "उन्नीस",
+    "roman_hindi": "Unnees",
+    "tens_group": "11-20",
+    "fun_fact": "Number 19 ko English me 'Nineteen' aur Hindi me 'उन्नीस' (Unnees) bolte hain!",
+    "speech": "Ye dekhiye number 19! English me 'Nineteen' aur Hindi me 'उन्नीस'! Chalo bolo mere saath: 19, Unnees!"
+  },
+  {
+    "number": 20,
+    "english_name": "Twenty",
+    "hindi_name": "बीस",
+    "roman_hindi": "Bees",
+    "tens_group": "11-20",
+    "fun_fact": "Number 20 ko English me 'Twenty' aur Hindi me 'बीस' (Bees) bolte hain!",
+    "speech": "Ye dekhiye number 20! English me 'Twenty' aur Hindi me 'बीस'! Chalo bolo mere saath: 20, Bees!"
+  },
+  {
+    "number": 21,
+    "english_name": "Twenty-One",
+    "hindi_name": "इक्कीस",
+    "roman_hindi": "Ikkees",
+    "tens_group": "21-30",
+    "fun_fact": "Number 21 ko English me 'Twenty-One' aur Hindi me 'इक्कीस' (Ikkees) bolte hain!",
+    "speech": "Ye dekhiye number 21! English me 'Twenty-One' aur Hindi me 'इक्कीस'! Chalo bolo mere saath: 21, Ikkees!"
+  },
+  {
+    "number": 22,
+    "english_name": "Twenty-Two",
+    "hindi_name": "बाईस",
+    "roman_hindi": "Baees",
+    "tens_group": "21-30",
+    "fun_fact": "Number 22 ko English me 'Twenty-Two' aur Hindi me 'बाईस' (Baees) bolte hain!",
+    "speech": "Ye dekhiye number 22! English me 'Twenty-Two' aur Hindi me 'बाईस'! Chalo bolo mere saath: 22, Baees!"
+  },
+  {
+    "number": 23,
+    "english_name": "Twenty-Three",
+    "hindi_name": "तेईस",
+    "roman_hindi": "Tees",
+    "tens_group": "21-30",
+    "fun_fact": "Number 23 ko English me 'Twenty-Three' aur Hindi me 'तेईस' (Tees) bolte hain!",
+    "speech": "Ye dekhiye number 23! English me 'Twenty-Three' aur Hindi me 'तेईस'! Chalo bolo mere saath: 23, Tees!"
+  },
+  {
+    "number": 24,
+    "english_name": "Twenty-Four",
+    "hindi_name": "चौबीस",
+    "roman_hindi": "Chaubees",
+    "tens_group": "21-30",
+    "fun_fact": "Number 24 ko English me 'Twenty-Four' aur Hindi me 'चौबीस' (Chaubees) bolte hain!",
+    "speech": "Ye dekhiye number 24! English me 'Twenty-Four' aur Hindi me 'चौबीस'! Chalo bolo mere saath: 24, Chaubees!"
+  },
+  {
+    "number": 25,
+    "english_name": "Twenty-Five",
+    "hindi_name": "पच्चीस",
+    "roman_hindi": "Pachis",
+    "tens_group": "21-30",
+    "fun_fact": "Number 25 ko English me 'Twenty-Five' aur Hindi me 'पच्चीस' (Pachis) bolte hain!",
+    "speech": "Ye dekhiye number 25! English me 'Twenty-Five' aur Hindi me 'पच्चीस'! Chalo bolo mere saath: 25, Pachis!"
+  },
+  {
+    "number": 26,
+    "english_name": "Twenty-Six",
+    "hindi_name": "छब्बीस",
+    "roman_hindi": "Chhabbees",
+    "tens_group": "21-30",
+    "fun_fact": "Number 26 ko English me 'Twenty-Six' aur Hindi me 'छब्बीस' (Chhabbees) bolte hain!",
+    "speech": "Ye dekhiye number 26! English me 'Twenty-Six' aur Hindi me 'छब्बीस'! Chalo bolo mere saath: 26, Chhabbees!"
+  },
+  {
+    "number": 27,
+    "english_name": "Twenty-Seven",
+    "hindi_name": "सत्ताईस",
+    "roman_hindi": "Sattaees",
+    "tens_group": "21-30",
+    "fun_fact": "Number 27 ko English me 'Twenty-Seven' aur Hindi me 'सत्ताईस' (Sattaees) bolte hain!",
+    "speech": "Ye dekhiye number 27! English me 'Twenty-Seven' aur Hindi me 'सत्ताईस'! Chalo bolo mere saath: 27, Sattaees!"
+  },
+  {
+    "number": 28,
+    "english_name": "Twenty-Eight",
+    "hindi_name": "अट्ठाईस",
+    "roman_hindi": "Atthaees",
+    "tens_group": "21-30",
+    "fun_fact": "Number 28 ko English me 'Twenty-Eight' aur Hindi me 'अट्ठाईस' (Atthaees) bolte hain!",
+    "speech": "Ye dekhiye number 28! English me 'Twenty-Eight' aur Hindi me 'अट्ठाईस'! Chalo bolo mere saath: 28, Atthaees!"
+  },
+  {
+    "number": 29,
+    "english_name": "Twenty-Nine",
+    "hindi_name": "उनतीस",
+    "roman_hindi": "Untees",
+    "tens_group": "21-30",
+    "fun_fact": "Number 29 ko English me 'Twenty-Nine' aur Hindi me 'उनतीस' (Untees) bolte hain!",
+    "speech": "Ye dekhiye number 29! English me 'Twenty-Nine' aur Hindi me 'उनतीस'! Chalo bolo mere saath: 29, Untees!"
+  },
+  {
+    "number": 30,
+    "english_name": "Thirty",
+    "hindi_name": "तीस",
+    "roman_hindi": "Tees",
+    "tens_group": "21-30",
+    "fun_fact": "Number 30 ko English me 'Thirty' aur Hindi me 'तीस' (Tees) bolte hain!",
+    "speech": "Ye dekhiye number 30! English me 'Thirty' aur Hindi me 'तीस'! Chalo bolo mere saath: 30, Tees!"
+  },
+  {
+    "number": 31,
+    "english_name": "Thirty-One",
+    "hindi_name": "इकतीस",
+    "roman_hindi": "Iktees",
+    "tens_group": "31-40",
+    "fun_fact": "Number 31 ko English me 'Thirty-One' aur Hindi me 'इकतीस' (Iktees) bolte hain!",
+    "speech": "Ye dekhiye number 31! English me 'Thirty-One' aur Hindi me 'इकतीस'! Chalo bolo mere saath: 31, Iktees!"
+  },
+  {
+    "number": 32,
+    "english_name": "Thirty-Two",
+    "hindi_name": "बत्तीस",
+    "roman_hindi": "Battees",
+    "tens_group": "31-40",
+    "fun_fact": "Number 32 ko English me 'Thirty-Two' aur Hindi me 'बत्तीस' (Battees) bolte hain!",
+    "speech": "Ye dekhiye number 32! English me 'Thirty-Two' aur Hindi me 'बत्तीस'! Chalo bolo mere saath: 32, Battees!"
+  },
+  {
+    "number": 33,
+    "english_name": "Thirty-Three",
+    "hindi_name": "तैंतीस",
+    "roman_hindi": "Taintees",
+    "tens_group": "31-40",
+    "fun_fact": "Number 33 ko English me 'Thirty-Three' aur Hindi me 'तैंतीस' (Taintees) bolte hain!",
+    "speech": "Ye dekhiye number 33! English me 'Thirty-Three' aur Hindi me 'तैंतीस'! Chalo bolo mere saath: 33, Taintees!"
+  },
+  {
+    "number": 34,
+    "english_name": "Thirty-Four",
+    "hindi_name": "चौंतीस",
+    "roman_hindi": "Chauntees",
+    "tens_group": "31-40",
+    "fun_fact": "Number 34 ko English me 'Thirty-Four' aur Hindi me 'चौंतीस' (Chauntees) bolte hain!",
+    "speech": "Ye dekhiye number 34! English me 'Thirty-Four' aur Hindi me 'चौंतीस'! Chalo bolo mere saath: 34, Chauntees!"
+  },
+  {
+    "number": 35,
+    "english_name": "Thirty-Five",
+    "hindi_name": "पैंतीस",
+    "roman_hindi": "Paintees",
+    "tens_group": "31-40",
+    "fun_fact": "Number 35 ko English me 'Thirty-Five' aur Hindi me 'पैंतीस' (Paintees) bolte hain!",
+    "speech": "Ye dekhiye number 35! English me 'Thirty-Five' aur Hindi me 'पैंतीस'! Chalo bolo mere saath: 35, Paintees!"
+  },
+  {
+    "number": 36,
+    "english_name": "Thirty-Six",
+    "hindi_name": "छत्तीस",
+    "roman_hindi": "Chhattees",
+    "tens_group": "31-40",
+    "fun_fact": "Number 36 ko English me 'Thirty-Six' aur Hindi me 'छत्तीस' (Chhattees) bolte hain!",
+    "speech": "Ye dekhiye number 36! English me 'Thirty-Six' aur Hindi me 'छत्तीस'! Chalo bolo mere saath: 36, Chhattees!"
+  },
+  {
+    "number": 37,
+    "english_name": "Thirty-Seven",
+    "hindi_name": "सैंतीस",
+    "roman_hindi": "Saintees",
+    "tens_group": "31-40",
+    "fun_fact": "Number 37 ko English me 'Thirty-Seven' aur Hindi me 'सैंतीस' (Saintees) bolte hain!",
+    "speech": "Ye dekhiye number 37! English me 'Thirty-Seven' aur Hindi me 'सैंतीस'! Chalo bolo mere saath: 37, Saintees!"
+  },
+  {
+    "number": 38,
+    "english_name": "Thirty-Eight",
+    "hindi_name": "अड़तीस",
+    "roman_hindi": "Adtees",
+    "tens_group": "31-40",
+    "fun_fact": "Number 38 ko English me 'Thirty-Eight' aur Hindi me 'अड़तीस' (Adtees) bolte hain!",
+    "speech": "Ye dekhiye number 38! English me 'Thirty-Eight' aur Hindi me 'अड़तीस'! Chalo bolo mere saath: 38, Adtees!"
+  },
+  {
+    "number": 39,
+    "english_name": "Thirty-Nine",
+    "hindi_name": "उनतालीस",
+    "roman_hindi": "Untaalis",
+    "tens_group": "31-40",
+    "fun_fact": "Number 39 ko English me 'Thirty-Nine' aur Hindi me 'उनतालीस' (Untaalis) bolte hain!",
+    "speech": "Ye dekhiye number 39! English me 'Thirty-Nine' aur Hindi me 'उनतालीस'! Chalo bolo mere saath: 39, Untaalis!"
+  },
+  {
+    "number": 40,
+    "english_name": "Forty",
+    "hindi_name": "चालीस",
+    "roman_hindi": "Chaalis",
+    "tens_group": "31-40",
+    "fun_fact": "Number 40 ko English me 'Forty' aur Hindi me 'चालीस' (Chaalis) bolte hain!",
+    "speech": "Ye dekhiye number 40! English me 'Forty' aur Hindi me 'चालीस'! Chalo bolo mere saath: 40, Chaalis!"
+  },
+  {
+    "number": 41,
+    "english_name": "Forty-One",
+    "hindi_name": "इकतालीस",
+    "roman_hindi": "Iktalis",
+    "tens_group": "41-50",
+    "fun_fact": "Number 41 ko English me 'Forty-One' aur Hindi me 'इकतालीस' (Iktalis) bolte hain!",
+    "speech": "Ye dekhiye number 41! English me 'Forty-One' aur Hindi me 'इकतालीस'! Chalo bolo mere saath: 41, Iktalis!"
+  },
+  {
+    "number": 42,
+    "english_name": "Forty-Two",
+    "hindi_name": "बयालीस",
+    "roman_hindi": "Bayaalis",
+    "tens_group": "41-50",
+    "fun_fact": "Number 42 ko English me 'Forty-Two' aur Hindi me 'बयालीस' (Bayaalis) bolte hain!",
+    "speech": "Ye dekhiye number 42! English me 'Forty-Two' aur Hindi me 'बयालीस'! Chalo bolo mere saath: 42, Bayaalis!"
+  },
+  {
+    "number": 43,
+    "english_name": "Forty-Three",
+    "hindi_name": "तैंतालीस",
+    "roman_hindi": "Taintalis",
+    "tens_group": "41-50",
+    "fun_fact": "Number 43 ko English me 'Forty-Three' aur Hindi me 'तैंतालीस' (Taintalis) bolte hain!",
+    "speech": "Ye dekhiye number 43! English me 'Forty-Three' aur Hindi me 'तैंतालीस'! Chalo bolo mere saath: 43, Taintalis!"
+  },
+  {
+    "number": 44,
+    "english_name": "Forty-Four",
+    "hindi_name": "चवालीस",
+    "roman_hindi": "Chawalis",
+    "tens_group": "41-50",
+    "fun_fact": "Number 44 ko English me 'Forty-Four' aur Hindi me 'चवालीस' (Chawalis) bolte hain!",
+    "speech": "Ye dekhiye number 44! English me 'Forty-Four' aur Hindi me 'चवालीस'! Chalo bolo mere saath: 44, Chawalis!"
+  },
+  {
+    "number": 45,
+    "english_name": "Forty-Five",
+    "hindi_name": "पैंतालीस",
+    "roman_hindi": "Paintalis",
+    "tens_group": "41-50",
+    "fun_fact": "Number 45 ko English me 'Forty-Five' aur Hindi me 'पैंतालीस' (Paintalis) bolte hain!",
+    "speech": "Ye dekhiye number 45! English me 'Forty-Five' aur Hindi me 'पैंतालीस'! Chalo bolo mere saath: 45, Paintalis!"
+  },
+  {
+    "number": 46,
+    "english_name": "Forty-Six",
+    "hindi_name": "छियालीस",
+    "roman_hindi": "Chhiyalis",
+    "tens_group": "41-50",
+    "fun_fact": "Number 46 ko English me 'Forty-Six' aur Hindi me 'छियालीस' (Chhiyalis) bolte hain!",
+    "speech": "Ye dekhiye number 46! English me 'Forty-Six' aur Hindi me 'छियालीस'! Chalo bolo mere saath: 46, Chhiyalis!"
+  },
+  {
+    "number": 47,
+    "english_name": "Forty-Seven",
+    "hindi_name": "सैंतालीस",
+    "roman_hindi": "Saintalis",
+    "tens_group": "41-50",
+    "fun_fact": "Number 47 ko English me 'Forty-Seven' aur Hindi me 'सैंतालीस' (Saintalis) bolte hain!",
+    "speech": "Ye dekhiye number 47! English me 'Forty-Seven' aur Hindi me 'सैंतालीस'! Chalo bolo mere saath: 47, Saintalis!"
+  },
+  {
+    "number": 48,
+    "english_name": "Forty-Eight",
+    "hindi_name": "अड़तालीस",
+    "roman_hindi": "Adtalis",
+    "tens_group": "41-50",
+    "fun_fact": "Number 48 ko English me 'Forty-Eight' aur Hindi me 'अड़तालीस' (Adtalis) bolte hain!",
+    "speech": "Ye dekhiye number 48! English me 'Forty-Eight' aur Hindi me 'अड़तालीस'! Chalo bolo mere saath: 48, Adtalis!"
+  },
+  {
+    "number": 49,
+    "english_name": "Forty-Nine",
+    "hindi_name": "उनचास",
+    "roman_hindi": "Unchaas",
+    "tens_group": "41-50",
+    "fun_fact": "Number 49 ko English me 'Forty-Nine' aur Hindi me 'उनचास' (Unchaas) bolte hain!",
+    "speech": "Ye dekhiye number 49! English me 'Forty-Nine' aur Hindi me 'उनचास'! Chalo bolo mere saath: 49, Unchaas!"
+  },
+  {
+    "number": 50,
+    "english_name": "Fifty",
+    "hindi_name": "पचास",
+    "roman_hindi": "Pachaas",
+    "tens_group": "41-50",
+    "fun_fact": "Number 50 ko English me 'Fifty' aur Hindi me 'पचास' (Pachaas) bolte hain!",
+    "speech": "Ye dekhiye number 50! English me 'Fifty' aur Hindi me 'पचास'! Chalo bolo mere saath: 50, Pachaas!"
+  },
+  {
+    "number": 51,
+    "english_name": "Fifty-One",
+    "hindi_name": "इक्यावन",
+    "roman_hindi": "Ikyawan",
+    "tens_group": "51-60",
+    "fun_fact": "Number 51 ko English me 'Fifty-One' aur Hindi me 'इक्यावन' (Ikyawan) bolte hain!",
+    "speech": "Ye dekhiye number 51! English me 'Fifty-One' aur Hindi me 'इक्यावन'! Chalo bolo mere saath: 51, Ikyawan!"
+  },
+  {
+    "number": 52,
+    "english_name": "Fifty-Two",
+    "hindi_name": "बावन",
+    "roman_hindi": "Baawan",
+    "tens_group": "51-60",
+    "fun_fact": "Number 52 ko English me 'Fifty-Two' aur Hindi me 'बावन' (Baawan) bolte hain!",
+    "speech": "Ye dekhiye number 52! English me 'Fifty-Two' aur Hindi me 'बावन'! Chalo bolo mere saath: 52, Baawan!"
+  },
+  {
+    "number": 53,
+    "english_name": "Fifty-Three",
+    "hindi_name": "तिरेपन",
+    "roman_hindi": "Tirepan",
+    "tens_group": "51-60",
+    "fun_fact": "Number 53 ko English me 'Fifty-Three' aur Hindi me 'तिरेपन' (Tirepan) bolte hain!",
+    "speech": "Ye dekhiye number 53! English me 'Fifty-Three' aur Hindi me 'तिरेपन'! Chalo bolo mere saath: 53, Tirepan!"
+  },
+  {
+    "number": 54,
+    "english_name": "Fifty-Four",
+    "hindi_name": "चौवन",
+    "roman_hindi": "Chauwan",
+    "tens_group": "51-60",
+    "fun_fact": "Number 54 ko English me 'Fifty-Four' aur Hindi me 'चौवन' (Chauwan) bolte hain!",
+    "speech": "Ye dekhiye number 54! English me 'Fifty-Four' aur Hindi me 'चौवन'! Chalo bolo mere saath: 54, Chauwan!"
+  },
+  {
+    "number": 55,
+    "english_name": "Fifty-Five",
+    "hindi_name": "पचपन",
+    "roman_hindi": "Pachpan",
+    "tens_group": "51-60",
+    "fun_fact": "Number 55 ko English me 'Fifty-Five' aur Hindi me 'पचपन' (Pachpan) bolte hain!",
+    "speech": "Ye dekhiye number 55! English me 'Fifty-Five' aur Hindi me 'पचपन'! Chalo bolo mere saath: 55, Pachpan!"
+  },
+  {
+    "number": 56,
+    "english_name": "Fifty-Six",
+    "hindi_name": "छप्पन",
+    "roman_hindi": "Chhappan",
+    "tens_group": "51-60",
+    "fun_fact": "Number 56 ko English me 'Fifty-Six' aur Hindi me 'छप्पन' (Chhappan) bolte hain!",
+    "speech": "Ye dekhiye number 56! English me 'Fifty-Six' aur Hindi me 'छप्पन'! Chalo bolo mere saath: 56, Chhappan!"
+  },
+  {
+    "number": 57,
+    "english_name": "Fifty-Seven",
+    "hindi_name": "सत्तावन",
+    "roman_hindi": "Sattawan",
+    "tens_group": "51-60",
+    "fun_fact": "Number 57 ko English me 'Fifty-Seven' aur Hindi me 'सत्तावन' (Sattawan) bolte hain!",
+    "speech": "Ye dekhiye number 57! English me 'Fifty-Seven' aur Hindi me 'सत्तावन'! Chalo bolo mere saath: 57, Sattawan!"
+  },
+  {
+    "number": 58,
+    "english_name": "Fifty-Eight",
+    "hindi_name": "अट्ठावन",
+    "roman_hindi": "Atthawan",
+    "tens_group": "51-60",
+    "fun_fact": "Number 58 ko English me 'Fifty-Eight' aur Hindi me 'अट्ठावन' (Atthawan) bolte hain!",
+    "speech": "Ye dekhiye number 58! English me 'Fifty-Eight' aur Hindi me 'अट्ठावन'! Chalo bolo mere saath: 58, Atthawan!"
+  },
+  {
+    "number": 59,
+    "english_name": "Fifty-Nine",
+    "hindi_name": "उनसठ",
+    "roman_hindi": "Unsath",
+    "tens_group": "51-60",
+    "fun_fact": "Number 59 ko English me 'Fifty-Nine' aur Hindi me 'उनसठ' (Unsath) bolte hain!",
+    "speech": "Ye dekhiye number 59! English me 'Fifty-Nine' aur Hindi me 'उनसठ'! Chalo bolo mere saath: 59, Unsath!"
+  },
+  {
+    "number": 60,
+    "english_name": "Sixty",
+    "hindi_name": "साठ",
+    "roman_hindi": "Saath",
+    "tens_group": "51-60",
+    "fun_fact": "Number 60 ko English me 'Sixty' aur Hindi me 'साठ' (Saath) bolte hain!",
+    "speech": "Ye dekhiye number 60! English me 'Sixty' aur Hindi me 'साठ'! Chalo bolo mere saath: 60, Saath!"
+  },
+  {
+    "number": 61,
+    "english_name": "Sixty-One",
+    "hindi_name": "इकसठ",
+    "roman_hindi": "Iksath",
+    "tens_group": "61-70",
+    "fun_fact": "Number 61 ko English me 'Sixty-One' aur Hindi me 'इकसठ' (Iksath) bolte hain!",
+    "speech": "Ye dekhiye number 61! English me 'Sixty-One' aur Hindi me 'इकसठ'! Chalo bolo mere saath: 61, Iksath!"
+  },
+  {
+    "number": 62,
+    "english_name": "Sixty-Two",
+    "hindi_name": "बासठ",
+    "roman_hindi": "Baasath",
+    "tens_group": "61-70",
+    "fun_fact": "Number 62 ko English me 'Sixty-Two' aur Hindi me 'बासठ' (Baasath) bolte hain!",
+    "speech": "Ye dekhiye number 62! English me 'Sixty-Two' aur Hindi me 'बासठ'! Chalo bolo mere saath: 62, Baasath!"
+  },
+  {
+    "number": 63,
+    "english_name": "Sixty-Three",
+    "hindi_name": "तिरेसठ",
+    "roman_hindi": "Tiresath",
+    "tens_group": "61-70",
+    "fun_fact": "Number 63 ko English me 'Sixty-Three' aur Hindi me 'तिरेसठ' (Tiresath) bolte hain!",
+    "speech": "Ye dekhiye number 63! English me 'Sixty-Three' aur Hindi me 'तिरेसठ'! Chalo bolo mere saath: 63, Tiresath!"
+  },
+  {
+    "number": 64,
+    "english_name": "Sixty-Four",
+    "hindi_name": "चौंसठ",
+    "roman_hindi": "Chaunsath",
+    "tens_group": "61-70",
+    "fun_fact": "Number 64 ko English me 'Sixty-Four' aur Hindi me 'चौंसठ' (Chaunsath) bolte hain!",
+    "speech": "Ye dekhiye number 64! English me 'Sixty-Four' aur Hindi me 'चौंसठ'! Chalo bolo mere saath: 64, Chaunsath!"
+  },
+  {
+    "number": 65,
+    "english_name": "Sixty-Five",
+    "hindi_name": "पैंसठ",
+    "roman_hindi": "Painsath",
+    "tens_group": "61-70",
+    "fun_fact": "Number 65 ko English me 'Sixty-Five' aur Hindi me 'पैंसठ' (Painsath) bolte hain!",
+    "speech": "Ye dekhiye number 65! English me 'Sixty-Five' aur Hindi me 'पैंसठ'! Chalo bolo mere saath: 65, Painsath!"
+  },
+  {
+    "number": 66,
+    "english_name": "Sixty-Six",
+    "hindi_name": "छियासठ",
+    "roman_hindi": "Chhiyasath",
+    "tens_group": "61-70",
+    "fun_fact": "Number 66 ko English me 'Sixty-Six' aur Hindi me 'छियासठ' (Chhiyasath) bolte hain!",
+    "speech": "Ye dekhiye number 66! English me 'Sixty-Six' aur Hindi me 'छियासठ'! Chalo bolo mere saath: 66, Chhiyasath!"
+  },
+  {
+    "number": 67,
+    "english_name": "Sixty-Seven",
+    "hindi_name": "सरसठ",
+    "roman_hindi": "Sarsath",
+    "tens_group": "61-70",
+    "fun_fact": "Number 67 ko English me 'Sixty-Seven' aur Hindi me 'सरसठ' (Sarsath) bolte hain!",
+    "speech": "Ye dekhiye number 67! English me 'Sixty-Seven' aur Hindi me 'सरसठ'! Chalo bolo mere saath: 67, Sarsath!"
+  },
+  {
+    "number": 68,
+    "english_name": "Sixty-Eight",
+    "hindi_name": "अड़सठ",
+    "roman_hindi": "Adsath",
+    "tens_group": "61-70",
+    "fun_fact": "Number 68 ko English me 'Sixty-Eight' aur Hindi me 'अड़सठ' (Adsath) bolte hain!",
+    "speech": "Ye dekhiye number 68! English me 'Sixty-Eight' aur Hindi me 'अड़सठ'! Chalo bolo mere saath: 68, Adsath!"
+  },
+  {
+    "number": 69,
+    "english_name": "Sixty-Nine",
+    "hindi_name": "उनहत्तर",
+    "roman_hindi": "Unhattar",
+    "tens_group": "61-70",
+    "fun_fact": "Number 69 ko English me 'Sixty-Nine' aur Hindi me 'उनहत्तर' (Unhattar) bolte hain!",
+    "speech": "Ye dekhiye number 69! English me 'Sixty-Nine' aur Hindi me 'उनहत्तर'! Chalo bolo mere saath: 69, Unhattar!"
+  },
+  {
+    "number": 70,
+    "english_name": "Seventy",
+    "hindi_name": "सत्तर",
+    "roman_hindi": "Sattar",
+    "tens_group": "61-70",
+    "fun_fact": "Number 70 ko English me 'Seventy' aur Hindi me 'सत्तर' (Sattar) bolte hain!",
+    "speech": "Ye dekhiye number 70! English me 'Seventy' aur Hindi me 'सत्तर'! Chalo bolo mere saath: 70, Sattar!"
+  },
+  {
+    "number": 71,
+    "english_name": "Seventy-One",
+    "hindi_name": "इकहत्तर",
+    "roman_hindi": "Ikhattar",
+    "tens_group": "71-80",
+    "fun_fact": "Number 71 ko English me 'Seventy-One' aur Hindi me 'इकहत्तर' (Ikhattar) bolte hain!",
+    "speech": "Ye dekhiye number 71! English me 'Seventy-One' aur Hindi me 'इकहत्तर'! Chalo bolo mere saath: 71, Ikhattar!"
+  },
+  {
+    "number": 72,
+    "english_name": "Seventy-Two",
+    "hindi_name": "बहत्तर",
+    "roman_hindi": "Bahattar",
+    "tens_group": "71-80",
+    "fun_fact": "Number 72 ko English me 'Seventy-Two' aur Hindi me 'बहत्तर' (Bahattar) bolte hain!",
+    "speech": "Ye dekhiye number 72! English me 'Seventy-Two' aur Hindi me 'बहत्तर'! Chalo bolo mere saath: 72, Bahattar!"
+  },
+  {
+    "number": 73,
+    "english_name": "Seventy-Three",
+    "hindi_name": "तिहत्तर",
+    "roman_hindi": "Tihattar",
+    "tens_group": "71-80",
+    "fun_fact": "Number 73 ko English me 'Seventy-Three' aur Hindi me 'तिहत्तर' (Tihattar) bolte hain!",
+    "speech": "Ye dekhiye number 73! English me 'Seventy-Three' aur Hindi me 'तिहत्तर'! Chalo bolo mere saath: 73, Tihattar!"
+  },
+  {
+    "number": 74,
+    "english_name": "Seventy-Four",
+    "hindi_name": "चौहत्तर",
+    "roman_hindi": "Chauhattar",
+    "tens_group": "71-80",
+    "fun_fact": "Number 74 ko English me 'Seventy-Four' aur Hindi me 'चौहत्तर' (Chauhattar) bolte hain!",
+    "speech": "Ye dekhiye number 74! English me 'Seventy-Four' aur Hindi me 'चौहत्तर'! Chalo bolo mere saath: 74, Chauhattar!"
+  },
+  {
+    "number": 75,
+    "english_name": "Seventy-Five",
+    "hindi_name": "पचहत्तर",
+    "roman_hindi": "Pachhattar",
+    "tens_group": "71-80",
+    "fun_fact": "Number 75 ko English me 'Seventy-Five' aur Hindi me 'पचहत्तर' (Pachhattar) bolte hain!",
+    "speech": "Ye dekhiye number 75! English me 'Seventy-Five' aur Hindi me 'पचहत्तर'! Chalo bolo mere saath: 75, Pachhattar!"
+  },
+  {
+    "number": 76,
+    "english_name": "Seventy-Six",
+    "hindi_name": "छिहत्तर",
+    "roman_hindi": "Chhihattar",
+    "tens_group": "71-80",
+    "fun_fact": "Number 76 ko English me 'Seventy-Six' aur Hindi me 'छिहत्तर' (Chhihattar) bolte hain!",
+    "speech": "Ye dekhiye number 76! English me 'Seventy-Six' aur Hindi me 'छिहत्तर'! Chalo bolo mere saath: 76, Chhihattar!"
+  },
+  {
+    "number": 77,
+    "english_name": "Seventy-Seven",
+    "hindi_name": "सतहत्तर",
+    "roman_hindi": "Sat-hattar",
+    "tens_group": "71-80",
+    "fun_fact": "Number 77 ko English me 'Seventy-Seven' aur Hindi me 'सतहत्तर' (Sat-hattar) bolte hain!",
+    "speech": "Ye dekhiye number 77! English me 'Seventy-Seven' aur Hindi me 'सतहत्तर'! Chalo bolo mere saath: 77, Sat-hattar!"
+  },
+  {
+    "number": 78,
+    "english_name": "Seventy-Eight",
+    "hindi_name": "अठहत्तर",
+    "roman_hindi": "Athhattar",
+    "tens_group": "71-80",
+    "fun_fact": "Number 78 ko English me 'Seventy-Eight' aur Hindi me 'अठहत्तर' (Athhattar) bolte hain!",
+    "speech": "Ye dekhiye number 78! English me 'Seventy-Eight' aur Hindi me 'अठहत्तर'! Chalo bolo mere saath: 78, Athhattar!"
+  },
+  {
+    "number": 79,
+    "english_name": "Seventy-Nine",
+    "hindi_name": "उन्नासी",
+    "roman_hindi": "Unnasi",
+    "tens_group": "71-80",
+    "fun_fact": "Number 79 ko English me 'Seventy-Nine' aur Hindi me 'उन्नासी' (Unnasi) bolte hain!",
+    "speech": "Ye dekhiye number 79! English me 'Seventy-Nine' aur Hindi me 'उन्नासी'! Chalo bolo mere saath: 79, Unnasi!"
+  },
+  {
+    "number": 80,
+    "english_name": "Eighty",
+    "hindi_name": "अस्सी",
+    "roman_hindi": "Assi",
+    "tens_group": "71-80",
+    "fun_fact": "Number 80 ko English me 'Eighty' aur Hindi me 'अस्सी' (Assi) bolte hain!",
+    "speech": "Ye dekhiye number 80! English me 'Eighty' aur Hindi me 'अस्सी'! Chalo bolo mere saath: 80, Assi!"
+  },
+  {
+    "number": 81,
+    "english_name": "Eighty-One",
+    "hindi_name": "इक्यासी",
+    "roman_hindi": "Ikyasi",
+    "tens_group": "81-90",
+    "fun_fact": "Number 81 ko English me 'Eighty-One' aur Hindi me 'इक्यासी' (Ikyasi) bolte hain!",
+    "speech": "Ye dekhiye number 81! English me 'Eighty-One' aur Hindi me 'इक्यासी'! Chalo bolo mere saath: 81, Ikyasi!"
+  },
+  {
+    "number": 82,
+    "english_name": "Eighty-Two",
+    "hindi_name": "बयासी",
+    "roman_hindi": "Bayaasi",
+    "tens_group": "81-90",
+    "fun_fact": "Number 82 ko English me 'Eighty-Two' aur Hindi me 'बयासी' (Bayaasi) bolte hain!",
+    "speech": "Ye dekhiye number 82! English me 'Eighty-Two' aur Hindi me 'बयासी'! Chalo bolo mere saath: 82, Bayaasi!"
+  },
+  {
+    "number": 83,
+    "english_name": "Eighty-Three",
+    "hindi_name": "तिरासी",
+    "roman_hindi": "Tiraasi",
+    "tens_group": "81-90",
+    "fun_fact": "Number 83 ko English me 'Eighty-Three' aur Hindi me 'तिरासी' (Tiraasi) bolte hain!",
+    "speech": "Ye dekhiye number 83! English me 'Eighty-Three' aur Hindi me 'तिरासी'! Chalo bolo mere saath: 83, Tiraasi!"
+  },
+  {
+    "number": 84,
+    "english_name": "Eighty-Four",
+    "hindi_name": "चौरासी",
+    "roman_hindi": "Chauraasi",
+    "tens_group": "81-90",
+    "fun_fact": "Number 84 ko English me 'Eighty-Four' aur Hindi me 'चौरासी' (Chauraasi) bolte hain!",
+    "speech": "Ye dekhiye number 84! English me 'Eighty-Four' aur Hindi me 'चौरासी'! Chalo bolo mere saath: 84, Chauraasi!"
+  },
+  {
+    "number": 85,
+    "english_name": "Eighty-Five",
+    "hindi_name": "पचासी",
+    "roman_hindi": "Pachaasi",
+    "tens_group": "81-90",
+    "fun_fact": "Number 85 ko English me 'Eighty-Five' aur Hindi me 'पचासी' (Pachaasi) bolte hain!",
+    "speech": "Ye dekhiye number 85! English me 'Eighty-Five' aur Hindi me 'पचासी'! Chalo bolo mere saath: 85, Pachaasi!"
+  },
+  {
+    "number": 86,
+    "english_name": "Eighty-Six",
+    "hindi_name": "छियासी",
+    "roman_hindi": "Chhiyaasi",
+    "tens_group": "81-90",
+    "fun_fact": "Number 86 ko English me 'Eighty-Six' aur Hindi me 'छियासी' (Chhiyaasi) bolte hain!",
+    "speech": "Ye dekhiye number 86! English me 'Eighty-Six' aur Hindi me 'छियासी'! Chalo bolo mere saath: 86, Chhiyaasi!"
+  },
+  {
+    "number": 87,
+    "english_name": "Eighty-Seven",
+    "hindi_name": "सत्तासी",
+    "roman_hindi": "Sattaasi",
+    "tens_group": "81-90",
+    "fun_fact": "Number 87 ko English me 'Eighty-Seven' aur Hindi me 'सत्तासी' (Sattaasi) bolte hain!",
+    "speech": "Ye dekhiye number 87! English me 'Eighty-Seven' aur Hindi me 'सत्तासी'! Chalo bolo mere saath: 87, Sattaasi!"
+  },
+  {
+    "number": 88,
+    "english_name": "Eighty-Eight",
+    "hindi_name": "अट्ठासी",
+    "roman_hindi": "Atthaasi",
+    "tens_group": "81-90",
+    "fun_fact": "Number 88 ko English me 'Eighty-Eight' aur Hindi me 'अट्ठासी' (Atthaasi) bolte hain!",
+    "speech": "Ye dekhiye number 88! English me 'Eighty-Eight' aur Hindi me 'अट्ठासी'! Chalo bolo mere saath: 88, Atthaasi!"
+  },
+  {
+    "number": 89,
+    "english_name": "Eighty-Nine",
+    "hindi_name": "नवासी",
+    "roman_hindi": "Nawaasi",
+    "tens_group": "81-90",
+    "fun_fact": "Number 89 ko English me 'Eighty-Nine' aur Hindi me 'नवासी' (Nawaasi) bolte hain!",
+    "speech": "Ye dekhiye number 89! English me 'Eighty-Nine' aur Hindi me 'नवासी'! Chalo bolo mere saath: 89, Nawaasi!"
+  },
+  {
+    "number": 90,
+    "english_name": "Ninety",
+    "hindi_name": "नब्बे",
+    "roman_hindi": "Nabbe",
+    "tens_group": "81-90",
+    "fun_fact": "Number 90 ko English me 'Ninety' aur Hindi me 'नब्बे' (Nabbe) bolte hain!",
+    "speech": "Ye dekhiye number 90! English me 'Ninety' aur Hindi me 'नब्बे'! Chalo bolo mere saath: 90, Nabbe!"
+  },
+  {
+    "number": 91,
+    "english_name": "Ninety-One",
+    "hindi_name": "इक्यानवे",
+    "roman_hindi": "Ikyanwe",
+    "tens_group": "91-100",
+    "fun_fact": "Number 91 ko English me 'Ninety-One' aur Hindi me 'इक्यानवे' (Ikyanwe) bolte hain!",
+    "speech": "Ye dekhiye number 91! English me 'Ninety-One' aur Hindi me 'इक्यानवे'! Chalo bolo mere saath: 91, Ikyanwe!"
+  },
+  {
+    "number": 92,
+    "english_name": "Ninety-Two",
+    "hindi_name": "बानवे",
+    "roman_hindi": "Baanwe",
+    "tens_group": "91-100",
+    "fun_fact": "Number 92 ko English me 'Ninety-Two' aur Hindi me 'बानवे' (Baanwe) bolte hain!",
+    "speech": "Ye dekhiye number 92! English me 'Ninety-Two' aur Hindi me 'बानवे'! Chalo bolo mere saath: 92, Baanwe!"
+  },
+  {
+    "number": 93,
+    "english_name": "Ninety-Three",
+    "hindi_name": "तिरानवे",
+    "roman_hindi": "Tiranwe",
+    "tens_group": "91-100",
+    "fun_fact": "Number 93 ko English me 'Ninety-Three' aur Hindi me 'तिरानवे' (Tiranwe) bolte hain!",
+    "speech": "Ye dekhiye number 93! English me 'Ninety-Three' aur Hindi me 'तिरानवे'! Chalo bolo mere saath: 93, Tiranwe!"
+  },
+  {
+    "number": 94,
+    "english_name": "Ninety-Four",
+    "hindi_name": "चौरानवे",
+    "roman_hindi": "Chauranwe",
+    "tens_group": "91-100",
+    "fun_fact": "Number 94 ko English me 'Ninety-Four' aur Hindi me 'चौरानवे' (Chauranwe) bolte hain!",
+    "speech": "Ye dekhiye number 94! English me 'Ninety-Four' aur Hindi me 'चौरानवे'! Chalo bolo mere saath: 94, Chauranwe!"
+  },
+  {
+    "number": 95,
+    "english_name": "Ninety-Five",
+    "hindi_name": "पंचानवे",
+    "roman_hindi": "Panchanwe",
+    "tens_group": "91-100",
+    "fun_fact": "Number 95 ko English me 'Ninety-Five' aur Hindi me 'पंचानवे' (Panchanwe) bolte hain!",
+    "speech": "Ye dekhiye number 95! English me 'Ninety-Five' aur Hindi me 'पंचानवे'! Chalo bolo mere saath: 95, Panchanwe!"
+  },
+  {
+    "number": 96,
+    "english_name": "Ninety-Six",
+    "hindi_name": "छियानवे",
+    "roman_hindi": "Chhiyanwe",
+    "tens_group": "91-100",
+    "fun_fact": "Number 96 ko English me 'Ninety-Six' aur Hindi me 'छियानवे' (Chhiyanwe) bolte hain!",
+    "speech": "Ye dekhiye number 96! English me 'Ninety-Six' aur Hindi me 'छियानवे'! Chalo bolo mere saath: 96, Chhiyanwe!"
+  },
+  {
+    "number": 97,
+    "english_name": "Ninety-Seven",
+    "hindi_name": "सत्तानवे",
+    "roman_hindi": "Sattanwe",
+    "tens_group": "91-100",
+    "fun_fact": "Number 97 ko English me 'Ninety-Seven' aur Hindi me 'सत्तानवे' (Sattanwe) bolte hain!",
+    "speech": "Ye dekhiye number 97! English me 'Ninety-Seven' aur Hindi me 'सत्तानवे'! Chalo bolo mere saath: 97, Sattanwe!"
+  },
+  {
+    "number": 98,
+    "english_name": "Ninety-Eight",
+    "hindi_name": "अट्ठानवे",
+    "roman_hindi": "Atthanwe",
+    "tens_group": "91-100",
+    "fun_fact": "Number 98 ko English me 'Ninety-Eight' aur Hindi me 'अट्ठानवे' (Atthanwe) bolte hain!",
+    "speech": "Ye dekhiye number 98! English me 'Ninety-Eight' aur Hindi me 'अट्ठानवे'! Chalo bolo mere saath: 98, Atthanwe!"
+  },
+  {
+    "number": 99,
+    "english_name": "Ninety-Nine",
+    "hindi_name": "निन्यानवे",
+    "roman_hindi": "Ninyanwe",
+    "tens_group": "91-100",
+    "fun_fact": "Number 99 ko English me 'Ninety-Nine' aur Hindi me 'निन्यानवे' (Ninyanwe) bolte hain!",
+    "speech": "Ye dekhiye number 99! English me 'Ninety-Nine' aur Hindi me 'निन्यानवे'! Chalo bolo mere saath: 99, Ninyanwe!"
+  },
+  {
+    "number": 100,
+    "english_name": "One Hundred",
+    "hindi_name": "सौ",
+    "roman_hindi": "Sau",
+    "tens_group": "91-100",
+    "fun_fact": "Number 100 ko English me 'One Hundred' aur Hindi me 'सौ' (Sau) bolte hain!",
+    "speech": "Ye dekhiye number 100! English me 'One Hundred' aur Hindi me 'सौ'! Chalo bolo mere saath: 100, Sau!"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "place_taj_mahal",
+    "name": "Taj Mahal",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "photo_url": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Shah Jahan",
+    "year": "1648",
+    "hindi_description": "Agra me Yamuna nadi ke tat par sthit safed sangmarmar ka vishwa prasiddh aashcharya."
+  },
+  {
+    "id": "place_red_fort",
+    "name": "Red Fort (Lal Qila)",
+    "city": "Delhi",
+    "state": "Delhi NCR",
+    "photo_url": "https://images.unsplash.com/photo-1598324789736-4861f89564a0?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Shah Jahan",
+    "year": "1648",
+    "hindi_description": "Purani Dilli me lal balua patthar se bana qila jahan se Swatantrata Diwas par Tiranga phahraya jata hai."
+  },
+  {
+    "id": "place_india_gate",
+    "name": "India Gate",
+    "city": "New Delhi",
+    "state": "Delhi NCR",
+    "photo_url": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Edwin Lutyens",
+    "year": "1931",
+    "hindi_description": "Kartavya Path par sthit 42 meter uncha shaheed sainikon ka smarak jahan Amar Jawan Jyoti jalti hai."
+  },
+  {
+    "id": "place_statue_of_unity",
+    "name": "Statue of Unity",
+    "city": "Kevadia",
+    "state": "Gujarat",
+    "photo_url": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Govt of India",
+    "year": "2018",
+    "hindi_description": "Sardar Vallabhbhai Patel ji ki 182 meter unchi pratima jo poori duniya ki sabse unchi murti hai."
+  },
+  {
+    "id": "place_golden_temple",
+    "name": "Golden Temple (Harmandir Sahib)",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "photo_url": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Guru Arjan Dev Ji",
+    "year": "1604",
+    "hindi_description": "Sone se sajha pavitra sarovar ke beech sthit gurudwara jahan 24 ghante prasad aur langar chalta hai."
+  },
+  {
+    "id": "place_gateway_of_india",
+    "name": "Gateway of India",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "photo_url": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+    "built_by": "George Wittet",
+    "year": "1924",
+    "hindi_description": "Mumbai ke Colaba me Arab Sagar ke tat par sthit bhavya arch smarak."
+  },
+  {
+    "id": "place_hawa_mahal",
+    "name": "Hawa Mahal",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "photo_url": "https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Maharaja Sawai Pratap Singh",
+    "year": "1799",
+    "hindi_description": "Gulabi nagri Jaipur me 953 jharokhon wala lal-gulabi mahal jahan thandi hawa aati hai."
+  },
+  {
+    "id": "place_qutub_minar",
+    "name": "Qutub Minar",
+    "city": "New Delhi",
+    "state": "Delhi NCR",
+    "photo_url": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Qutb-ud-din Aibak",
+    "year": "1199",
+    "hindi_description": "Bharat ki sabse unchi eent se bani minar (72.5 meter) jo Mehrauli me sthit hai."
+  },
+  {
+    "id": "place_konark_sun_temple",
+    "name": "Konark Sun Temple",
+    "city": "Konark",
+    "state": "Odisha",
+    "photo_url": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
+    "built_by": "King Narasimhadeva I",
+    "year": "1250",
+    "hindi_description": "Pathhar par tarasha hua Sooraj Bhagwan ka vishalkay rath jisme 24 pahiye aur 7 ghode hain."
+  },
+  {
+    "id": "place_charminar",
+    "name": "Charminar",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "photo_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Muhammad Quli Qutb Shah",
+    "year": "1591",
+    "hindi_description": "Char bhavya minaron wali aitihasik imarat jo Hyderabad ki pehchan hai."
+  },
+  {
+    "id": "place_mysore_palace",
+    "name": "Mysore Palace",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "photo_url": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Wodeyar Dynasty",
+    "year": "1912",
+    "hindi_description": "Dussehra me 1 lakh roshniyon se jagmagata Karnataka ka shandar rajmahal."
+  },
+  {
+    "id": "place_victoria_memorial",
+    "name": "Victoria Memorial",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "photo_url": "https://images.unsplash.com/photo-1558431382-27e303142255?auto=format&fit=crop&w=800&q=80",
+    "built_by": "British Raj",
+    "year": "1921",
+    "hindi_description": "Safed sangmarmar se bana Kolkata ka prashidhdha sngrahalaya aur sundar bageecha."
+  },
+  {
+    "id": "place_ellora_caves",
+    "name": "Kailash Temple, Ellora Caves",
+    "city": "Chhatrapati Sambhajinagar",
+    "state": "Maharashtra",
+    "photo_url": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Rashtrakuta King Krishna I",
+    "year": "756 AD",
+    "hindi_description": "Ek hi vishal pathhar ko upar se neeche tarash kar banaya gaya anokha Kailash mandir."
+  },
+  {
+    "id": "place_sanchi_stupa",
+    "name": "Great Stupa at Sanchi",
+    "city": "Sanchi",
+    "state": "Madhya Pradesh",
+    "photo_url": "https://images.unsplash.com/photo-1598324789736-4861f89564a0?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Emperor Ashoka",
+    "year": "3rd Century BCE",
+    "hindi_description": "Samrat Ashoka dwara banwaya gaya prachin Bauddh stupa aur toran dwar."
+  },
+  {
+    "id": "place_dal_lake",
+    "name": "Dal Lake & Shikara",
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "photo_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Nature & Mughal Gardens",
+    "year": "Ancient",
+    "hindi_description": "Kashmir ki sundar jheel jahan tairte hue houseboat aur Shikara naav chalte hain."
+  },
+  {
+    "id": "place_meenakshi_temple",
+    "name": "Meenakshi Amman Temple",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "photo_url": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Pandyan Dynasty",
+    "year": "16th Century",
+    "hindi_description": "Rang-birangi hazaron dev pratimaon se saje gopuram wala aitihasik mandir."
+  },
+  {
+    "id": "place_eiffel_tower",
+    "name": "Eiffel Tower",
+    "city": "Paris",
+    "state": "France",
+    "photo_url": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Gustave Eiffel",
+    "year": "1889",
+    "hindi_description": "Paris me sthit 330 meter uncha lohe ka tower jo duniya bhar ke paryatakon ko aakarshit karta hai."
+  },
+  {
+    "id": "place_great_pyramids",
+    "name": "Great Pyramids of Giza",
+    "city": "Giza",
+    "state": "Egypt",
+    "photo_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Pharaoh Khufu",
+    "year": "2560 BCE",
+    "hindi_description": "Registan me hazaron saal purane vishal pathhar ke pyramid jo prachin kaal ke 7 aashcharyon me se hain."
+  },
+  {
+    "id": "place_colosseum",
+    "name": "The Colosseum",
+    "city": "Rome",
+    "state": "Italy",
+    "photo_url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Emperor Vespasian",
+    "year": "80 AD",
+    "hindi_description": "Rome ka vishal prachin amphitheatre jahan gladiator matches hote the."
+  },
+  {
+    "id": "place_great_wall_china",
+    "name": "Great Wall of China",
+    "city": "Beijing",
+    "state": "China",
+    "photo_url": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Qin Shi Huang & Ming Dynasty",
+    "year": "7th Century BCE",
+    "hindi_description": "Hazaron kilometer lambi pathhar aur eent ki deewar jo pahadon par saamp ki tarah phaili hui hai."
+  },
+  {
+    "id": "place_machu_picchu",
+    "name": "Machu Picchu",
+    "city": "Cusco",
+    "state": "Peru",
+    "photo_url": "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Inca Empire",
+    "year": "1450 AD",
+    "hindi_description": "Andes parvatmala ke unche shikhar par baadal ke beech basa prachin Inca nagar."
+  },
+  {
+    "id": "place_lotus_temple",
+    "name": "Lotus Temple",
+    "city": "New Delhi",
+    "state": "Delhi NCR",
+    "photo_url": "https://images.unsplash.com/photo-1508615039623-a25605d2b022?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Fariborz Sahba",
+    "year": "1986",
+    "hindi_description": "Kamal ke phool ke aakaar ka safed sangmarmar mandir jahan sabhi dharmo ke log shanti se dhyan lagate hain."
+  },
+  {
+    "id": "place_akshardham",
+    "name": "Swaminarayan Akshardham",
+    "city": "New Delhi",
+    "state": "Delhi NCR",
+    "photo_url": "https://images.unsplash.com/photo-1598324789736-4861f89564a0?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Pramukh Swami Maharaj",
+    "year": "2005",
+    "hindi_description": "Bhavya lal balua patthar aur sangmarmar par nikaashi se bana sanskritik mandir parisar."
+  },
+  {
+    "id": "place_rann_of_kutch",
+    "name": "White Desert (Rann of Kutch)",
+    "city": "Kutch",
+    "state": "Gujarat",
+    "photo_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Nature",
+    "year": "Natural",
+    "hindi_description": "Poornima ki raat ko chandi jaisa chamakta safed namak ka vishal registan."
+  },
+  {
+    "id": "place_jaisalmer_fort",
+    "name": "Jaisalmer Golden Fort (Sonar Qila)",
+    "city": "Jaisalmer",
+    "state": "Rajasthan",
+    "photo_url": "https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Rawal Jaisal",
+    "year": "1156 AD",
+    "hindi_description": "Thar registan me peele balua patthar se bana qila jo dhoop me sone ki tarah chamakta hai."
+  },
+  {
+    "id": "place_vivekananda_rock",
+    "name": "Vivekananda Rock Memorial",
+    "city": "Kanyakumari",
+    "state": "Tamil Nadu",
+    "photo_url": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+    "built_by": "Eknath Ranade",
+    "year": "1970",
+    "hindi_description": "Bharat ke dakshin chhor par teen samundaron ke sangam par sthit Swami Vivekananda ji ka dhyan smarak."
+  }
+]

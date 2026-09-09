@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Secrets & Environment Configuration
+.env
+*.env
+*.pem
+*.key
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Runtime Logs & Audio Playout Recordings
+logs/
+recordings/
+*.wav
+*.mp3
+
+# Scratch & Dev Tests
+scratch/

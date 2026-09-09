@@ -1,0 +1,62 @@
+[
+  {
+    "id": "song_kesariya",
+    "title": "Kesariya",
+    "movie": "Brahmastra",
+    "singer": "Arijit Singh",
+    "duration": "4:28",
+    "youtube_id": "BddP6PYo2gs",
+    "stream_url": "https://www.youtube.com/embed/BddP6PYo2gs?autoplay=1",
+    "thumbnail_url": "https://img.youtube.com/vi/BddP6PYo2gs/hqdefault.jpg",
+    "lyrics_hook": "केसरिया तेरा इश्क़ है पिया, रंग जाऊं जो मैं हाथ लगाऊं...",
+    "genre": "romantic"
+  },
+  {
+    "id": "song_tum_hi_ho",
+    "title": "Tum Hi Ho",
+    "movie": "Aashiqui 2",
+    "singer": "Arijit Singh",
+    "duration": "4:22",
+    "youtube_id": "IJq0cfTO8hw",
+    "stream_url": "https://www.youtube.com/embed/IJq0cfTO8hw?autoplay=1",
+    "thumbnail_url": "https://img.youtube.com/vi/IJq0cfTO8hw/hqdefault.jpg",
+    "lyrics_hook": "क्योंकि तुम ही हो, अब तुम ही हो, ज़िंदगी अब तुम ही हो...",
+    "genre": "romantic"
+  },
+  {
+    "id": "song_raataan_lambiyan",
+    "title": "Raataan Lambiyan",
+    "movie": "Shershaah",
+    "singer": "Jubin Nautiyal & Asees Kaur",
+    "duration": "3:50",
+    "youtube_id": "gvyUuxdRdR4",
+    "stream_url": "https://www.youtube.com/embed/gvyUuxdRdR4?autoplay=1",
+    "thumbnail_url": "https://img.youtube.com/vi/gvyUuxdRdR4/hqdefault.jpg",
+    "lyrics_hook": "काटूँ कैसे रातां ओ सावरे? जिया नहीं जाता सुन बावरे...",
+    "genre": "romantic"
+  },
+  {
+    "id": "song_apna_bana_le",
+    "title": "Apna Bana Le",
+    "movie": "Bhediya",
+    "singer": "Arijit Singh & Sachin-Jigar",
+    "duration": "4:21",
+    "youtube_id": "ElZfdU54Cp8",
+    "stream_url": "https://www.youtube.com/embed/ElZfdU54Cp8?autoplay=1",
+    "thumbnail_url": "https://img.youtube.com/vi/ElZfdU54Cp8/hqdefault.jpg",
+    "lyrics_hook": "अपना बना ले पिया, दिल के नगर में घर बसा ले पिया...",
+    "genre": "romantic"
+  },
+  {
+    "id": "song_pehle_bhi_main",
+    "title": "Pehle Bhi Main",
+    "movie": "Animal",
+    "singer": "Vishal Mishra",
+    "duration": "4:10",
+    "youtube_id": "YxWlaYCA8MU",
+    "stream_url": "https://www.youtube.com/embed/YxWlaYCA8MU?autoplay=1",
+    "thumbnail_url": "https://img.youtube.com/vi/YxWlaYCA8MU/hqdefault.jpg",
+    "lyrics_hook": "पहले भी मैं तुमसे मिला हूँ, पहली बार ये दिल ने कहा है...",
+    "genre": "romantic"
+  }
+]

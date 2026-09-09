@@ -1,0 +1,197 @@
+[
+  {
+    "id": "story_1",
+    "category": "Panchatantra",
+    "title": "Pyaasa Kauwa (The Thirsty Crow)",
+    "hindi_title": "प्यासा कौवा",
+    "curriculum_tier": "nursery",
+    "moral": "Jahan chah, wahan raah (Where there is a will, there is a way).",
+    "total_scenes": 4,
+    "scenes": [
+      {
+        "scene_num": 1,
+        "title": "Bohot Tez Pyaas",
+        "text": "Ek baar garmi ke mausam me ek kauwe ko bohot tez pyaas lagi. Wo paani ki talaash me aakash me idhar-udhar bhatak raha tha, par kahin paani nahi mila.",
+        "image_url": "https://images.unsplash.com/photo-1522926197415-e55c126df148?w=800&q=80",
+        "speech": "Pyaasa kauwa aakash me udd raha tha. Garmi me use bohot pyaas lagi thi aur wo thak chuka tha!"
+      },
+      {
+        "scene_num": 2,
+        "title": "Bageeche me Ghada",
+        "text": "Aakhir me use ek sundar bageeche me mitti ka ghada dikha. Kauwa daud kar ghade ke paas pahuncha. Lekin ghade me paani bohot neeche tha aur uski chonch paani tak nahi pahunch saki!",
+        "image_url": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=800&q=80",
+        "speech": "Ghada mil gaya par paani itna neeche tha ki kauwa pee nahi pa raha tha. Ab kya kare?"
+      },
+      {
+        "scene_num": 3,
+        "title": "Samajhdari Aur Kankad",
+        "text": "Kauwe ne himmat nahi haari! Usne paas me pade chote-chote kankad dekhe. Usne apni samajhdari lagayi aur ek-ek kankad apni chonch se utha kar ghade me daalna shuru kiya.",
+        "image_url": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&q=80",
+        "speech": "Kauwe ne socha: Main kankad daalunga to paani upar aayega! Usne mehnat shuru kar di!"
+      },
+      {
+        "scene_num": 4,
+        "title": "Paani Upar Aa Gaya!",
+        "text": "Dheere-dheere paani ghade ke gale tak upar aa gaya! Kauwe ne jee bhar kar meetha paani piya aur khushi se kaaon-kaaon karke neele aakash me udd gaya!",
+        "image_url": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&q=80",
+        "speech": "Arrey waah! Paani upar aa gaya! Kauwe ne paani piya aur udd gaya! Seekh: Jahan chah, wahan raah!"
+      }
+    ]
+  },
+  {
+    "id": "story_2",
+    "category": "Aesop Fables",
+    "title": "Khargosh Aur Kachhua (The Hare & Tortoise)",
+    "hindi_title": "खरगोश और कछुआ",
+    "curriculum_tier": "nursery",
+    "moral": "Dheemi aur lagatar mehnat se hamesha jeet hoti hai (Slow and steady wins the race).",
+    "total_scenes": 4,
+    "scenes": [
+      {
+        "scene_num": 1,
+        "title": "Daud Ki Chunauti",
+        "text": "Ek jungle me ek ghamandi khargosh rehta tha. Wo dheeme chalne wale kachhue ka roz mazaak udata tha. Ek din kachhue ne use daud (race) lagane ki chunauti di.",
+        "image_url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=800&q=80",
+        "speech": "Khargosh hasne laga: Haha! Tum mujhse daudoge? Chalo shuru karte hain!"
+      },
+      {
+        "scene_num": 2,
+        "title": "Khargosh Ped Ke Neeche So Gaya",
+        "text": "Daud shuru hui! Khargosh hawa ki tarah tezi se aage nikal gaya. Usne peeche mud kar dekha to kachhua bohot door tha. Khargosh ne socha: Main thoda ped ke neeche aaram kar leta hoon!",
+        "image_url": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&q=80",
+        "speech": "Thandi hawa chal rahi thi aur khargosh ko gahri neend aa gayi!"
+      },
+      {
+        "scene_num": 3,
+        "title": "Kachhue Ki Lagatar Chal",
+        "text": "Idhar kachhua bina ruke, bina thake, dheere-dheere ek-ek kadam aage badhta raha. Usne soye hue khargosh ko peeche chhod diya aur finish line ke paas pahunch gaya.",
+        "image_url": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?w=800&q=80",
+        "speech": "Kachhua ruka nahi, wo chalta raha aur aage nikal gaya!"
+      },
+      {
+        "scene_num": 4,
+        "title": "Kachhue Ki Jeet!",
+        "text": "Jab khargosh ki aakh khuli, usne dekha kachhua finish line paar kar chuka tha! Khargosh ka ghamand toot gaya aur kachhua race jeet gaya!",
+        "image_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800&q=80",
+        "speech": "Hurray! Kachhua jeet gaya! Seekh: Lagatar koshish karne wale ki kabhi haar nahi hoti!"
+      }
+    ]
+  },
+  {
+    "id": "story_3",
+    "category": "Jataka Tales",
+    "title": "Sher Aur Nanha Chuha (The Lion & Mouse)",
+    "hindi_title": "शेर और नन्हा चूहा",
+    "curriculum_tier": "primary",
+    "moral": "Chhote se chhota vyakti bhi bade kaam aa sakta hai. Hamesha daya karo.",
+    "total_scenes": 4,
+    "scenes": [
+      {
+        "scene_num": 1,
+        "title": "Sote Hue Sher Par Masti",
+        "text": "Ek jungle me bada sa shaktishaali sher ped ke neeche so raha tha. Ek nanha chuha khelte-khelte sher ki peeth par chadh gaya aur uchhalne laga.",
+        "image_url": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=800&q=80",
+        "speech": "Sher ki neend khul gayi! Usne gusse me chuhe ko apne bade panje me pakad liya!"
+      },
+      {
+        "scene_num": 2,
+        "title": "Chuhe Ki Vinati Aur Daya",
+        "text": "Chuha dar gaya aur haath jodkar bola: 'Kripya mujhe chhod do Jungle ke Raja! Main bhi kabhi aapki madad karunga!' Sher hasa par usne chuhe ko chhod diya.",
+        "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=800&q=80",
+        "speech": "Sher ne socha: Itna chhota sa chuha meri kya madad karega? Par usne daya karke use jaane diya."
+      },
+      {
+        "scene_num": 3,
+        "title": "Shikari Ka Jaal",
+        "text": "Kuch din baad ek shikari ne sher ko pakadne ke liye jungle me mazboot rassi ka jaal bichhaya. Sher us jaal me buri tarah phans gaya aur dahadne laga!",
+        "image_url": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?w=800&q=80",
+        "speech": "Sher dahada: Bachao! Madad karo! Chuhe ne sher ki aawaz sun li aur bhag kar aaya!"
+      },
+      {
+        "scene_num": 4,
+        "title": "Pakki Dosti",
+        "text": "Chuhe ne apne tez daanton se jaal ki moti rassiyon ko katar daala! Sher azaad ho gaya. Sher ne chuhe ko dhanyawaad diya aur dono pakke dost ban gaye!",
+        "image_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=800&q=80",
+        "speech": "Dono gale mile! Seekh: Koi chhota ya bada nahi hota, har kisi ka aadar karna chahiye!"
+      }
+    ]
+  },
+  {
+    "id": "story_4",
+    "category": "Panchatantra",
+    "title": "Bandar Aur Magarmachh (Monkey & Crocodile)",
+    "hindi_title": "बंदर और मगरमच्छ",
+    "curriculum_tier": "primary",
+    "moral": "Musibat ke samay ghabraayein nahi, hoshiyari aur dimaag se kaam lein.",
+    "total_scenes": 4,
+    "scenes": [
+      {
+        "scene_num": 1,
+        "title": "Jaamun Ke Ped Par Dosti",
+        "text": "Nadi ke kinare ek meethe jaamun ka ped tha jahan ek hoshiyar bandar rehta tha. Nadi me ek magarmachh rehta tha. Bandar use roz meethe jaamun khilata tha aur dono me dosti ho gayi.",
+        "image_url": "https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?w=800&q=80",
+        "speech": "Bandar roz taaze jaamun tod kar magarmachh ko deta aur dono ghanton baatein karte the."
+      },
+      {
+        "scene_num": 2,
+        "title": "Magarmachh Ki Patni Ka Lalach",
+        "text": "Magarmachh ne kuch jaamun apni patni ko diye. Patni boli: 'Jo roz itne meethe jaamun khata hai, uska dil kitna meetha hoga! Mujhe us bandar ka dil khana hai, use lekar aao!'",
+        "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+        "speech": "Magarmachh ne man kiya par patni zidd par ad gayi. Magarmachh bandar ko peeth par bitha kar le chala."
+      },
+      {
+        "scene_num": 3,
+        "title": "Bandar Ki Chalaaki",
+        "text": "Nadi ke beech me magarmachh ne sach bata diya. Bandar darne ke bajaye has kar bola: 'Arrey dost! Mera dil to ped ki daal par hi chhoot gaya! Chalo wapas lekar aate hain!'",
+        "image_url": "https://images.unsplash.com/photo-1508615039623-a25605d2b022?w=800&q=80",
+        "speech": "Buddhimaan bandar ne foran dimaag lagaya aur magarmachh use wapas kinare le aaya!"
+      },
+      {
+        "scene_num": 4,
+        "title": "Kood Kar Bachhi Jaan",
+        "text": "Kinara aate hi bandar jhat se ped par chadh gaya aur bola: 'Murkh dost! Dil shareer se alag kaise ho sakta hai? Tumne dosti me dhoka diya, ab yahan kabhi mat aana!'",
+        "image_url": "https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?w=800&q=80",
+        "speech": "Bandar bach gaya! Seekh: Kathin paristhiti me samajhdari hi sabse bada hathiyar hai."
+      }
+    ]
+  },
+  {
+    "id": "story_5",
+    "category": "Historical & Wisdom",
+    "title": "Birbal Ki Khichdi (Birbal's Khichdi)",
+    "hindi_title": "बीरबल की खिचड़ी",
+    "curriculum_tier": "advanced",
+    "moral": "Nyay aur dharma ke liye hoshiyari se aakhein kholna zaroori hai.",
+    "total_scenes": 4,
+    "scenes": [
+      {
+        "scene_num": 1,
+        "title": "Thande Paani Ki Shart",
+        "text": "Karkadaati thand me Badshah Akbar ne ghoshna ki: 'Jo poori raat Yamuna ke barfile paani me khada rahega, use sone ke sikkon ka inaam milega!' Ek gareeb aadmi raat bhar paani me khada raha.",
+        "image_url": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&q=80",
+        "speech": "Subah aadmi inaam lene aaya, par Akbar ne kaha: 'Tumne dur jalte diye ki garmi li, inaam nahi milega!'"
+      },
+      {
+        "scene_num": 2,
+        "title": "Birbal Ka Darbar Na Aana",
+        "text": "Gareeb aadmi ko nyay dilane ke liye Birbal agle din darbar nahi aaye. Badshah Akbar ne sandesh bheja to pata chala Birbal khichdi paka rahe hain.",
+        "image_url": "https://images.unsplash.com/photo-1598324789736-4861f89564a0?w=800&q=80",
+        "speech": "Akbar ko aashcharya hua ki aakhir kitni der me khichdi banti hai, isliye wo khud Birbal ke ghar gaye."
+      },
+      {
+        "scene_num": 3,
+        "title": "Bohot Oonchi Handi",
+        "text": "Akbar ne dekha ki zameen par thodi si aag jal rahi thi aur khichdi ki handi 10 foot unche baans par latki hui thi! Akbar bole: 'Birbal! Itni dur aag ki garmi se khichdi kaise pakegi?'",
+        "image_url": "https://images.unsplash.com/photo-1518843875459-f738682238a6?w=800&q=80",
+        "speech": "Birbal muskura kar bole: 'Jahanpanah! Agar itni dur ke diye se us gareeb ko garmi mil sakti hai, to khichdi bhi pak sakti hai!'"
+      },
+      {
+        "scene_num": 4,
+        "title": "Akbar Ko Sach Samajh Aaya",
+        "text": "Badshah Akbar ko apni galti ka ehsaas hua. Unhone Birbal ki hoshiyari ki tareef ki aur us gareeb aadmi ko aadar ke sath darbar me bula kar 1000 sone ke sikke diye!",
+        "image_url": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800&q=80",
+        "speech": "Birbal ki samajhdari se gareeb ko nyay mila! Seekh: Sach aur nyay ki hamesha jeet hoti hai."
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "mission_space",
+    "title": "Astronaut Space Rocket Mission 🚀",
+    "keywords": ["space", "rocket", "astronaut", "moon", "chandamama", "launch", "mars"],
+    "role_ai": "Mission Commander",
+    "role_child": "Captain Astronaut",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Suit Up & Countdown",
+        "instruction": "Apna space helmet pehno aur countdown bolo: 3.. 2.. 1.. Blast off!",
+        "sfx": "celebration_fanfare",
+        "speech": "Captain! Rocket me fuel bhar gaya hai. Helmet lagao aur mere saath bolo: 3... 2... 1... ZOOM! Rocket ud gaya aasmaan me!"
+      },
+      {
+        "step": 2,
+        "title": "Zero Gravity Moonwalk",
+        "instruction": "Hum Chandamama par pahunch gaye! Yahan gravity nahi hai, hawa me tairo!",
+        "sfx": "game_pop",
+        "speech": "Captain, hum Chandamama par land kar gaye! Wow, yahan hum hawa me balloon ki tarah ud rahe hain! Slow motion me jump lagao!"
+      },
+      {
+        "step": 3,
+        "title": "Plant the Victory Flag",
+        "instruction": "Moon par flag lagao aur Mission Success bolo!",
+        "sfx": "level_up",
+        "speech": "Mission Accomplished Captain! Aapne Moon par flag laga diya! You are the braves astronaut ever! +2 Stars award!"
+      }
+    ],
+    "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "mission_jungle",
+    "title": "Wild Jungle Safari Expedition 🦁",
+    "keywords": ["jungle", "safari", "animals", "sher", "lion", "elephant", "hathi", "jeep"],
+    "role_ai": "Safari Guide",
+    "role_child": "Wildlife Explorer",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Board the Safari Jeep",
+        "instruction": "Jeep me baitho aur horn bajao: Beep Beep!",
+        "sfx": "game_pop",
+        "speech": "Chalo Explorer! Safari jeep start ho gayi hai: Vrooom! Jungle me ghus rahe hain, apne binoculars aankhon par lagao!"
+      },
+      {
+        "step": 2,
+        "title": "Spot the Lion King",
+        "instruction": "Wo dekho ped ke peeche Sher so raha hai! Zor se dahado: Roaaar!",
+        "sfx": "match_chime",
+        "speech": "Ssshh... Aage dekho! Jungle ka raja Sher aaram kar raha hai! Chalo use daraye bina sher ki aawaz nikalo: Roaaar!"
+      },
+      {
+        "step": 3,
+        "title": "Feed Banana to Elephant",
+        "instruction": "Haathi Raja ko mitha kela khilao!",
+        "sfx": "celebration_fanfare",
+        "speech": "Haathi Raja ne soond utha kar bola Thank You! Safari Expedition complete! You are a certified Wildlife Master! +2 Stars!"
+      }
+    ],
+    "image_url": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "mission_chef",
+    "title": "Little MasterChef Bakery 🎂",
+    "keywords": ["chef", "cake", "bake", "chocolate", "cooking", "kitchen", "party"],
+    "role_ai": "Head Chef",
+    "role_child": "Little MasterChef",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Mix the Chocolate Batter",
+        "instruction": "Bowl me flour, milk aur chocolate dalkar gol-gol ghumao!",
+        "sfx": "game_pop",
+        "speech": "Chef hat pehno! Bowl me chocolate daal di hai. Apni chammach se gol-gol ghumao: Chhan chhan chhan! Batter ready!"
+      },
+      {
+        "step": 2,
+        "title": "Bake in the Magic Oven",
+        "instruction": "Oven me rakho aur magic spell bolo: Ting Ting!",
+        "sfx": "match_chime",
+        "speech": "Magic oven me cake phool raha hai! Khushboo aa rahi hai yummy chocolate ki! 3 seconds wait... Ting! Cake bahar aa gaya!"
+      },
+      {
+        "step": 3,
+        "title": "Decorate with Strawberries",
+        "instruction": "Cake ke upar strawberry aur sprinkles lagao!",
+        "sfx": "level_up",
+        "speech": "Wow! Itna sundar aur tasty cake! Sabhi bache taaliyan bajao! MasterChef Badge unlock ho gaya! +2 Stars!"
+      }
+    ],
+    "image_url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&auto=format&fit=crop&q=80"
+  }
+]

@@ -1,0 +1,710 @@
+{
+  "rainbow_keyboard": [
+    {
+      "note": "Sa",
+      "eng": "C",
+      "color": "#FF4B4B",
+      "sound_freq": 261.63,
+      "sound_text": "Saaaa",
+      "solfege": "Do"
+    },
+    {
+      "note": "Re",
+      "eng": "D",
+      "color": "#FF8C00",
+      "sound_freq": 293.66,
+      "sound_text": "Reeee",
+      "solfege": "Re"
+    },
+    {
+      "note": "Ga",
+      "eng": "E",
+      "color": "#FFD700",
+      "sound_freq": 329.63,
+      "sound_text": "Gaaaa",
+      "solfege": "Mi"
+    },
+    {
+      "note": "Ma",
+      "eng": "F",
+      "color": "#32CD32",
+      "sound_freq": 349.23,
+      "sound_text": "Maaaa",
+      "solfege": "Fa"
+    },
+    {
+      "note": "Pa",
+      "eng": "G",
+      "color": "#00CED1",
+      "sound_freq": 392.0,
+      "sound_text": "Paaaa",
+      "solfege": "Sol"
+    },
+    {
+      "note": "Dha",
+      "eng": "A",
+      "color": "#4169E1",
+      "sound_freq": 440.0,
+      "sound_text": "Dhaaa",
+      "solfege": "La"
+    },
+    {
+      "note": "Ni",
+      "eng": "B",
+      "color": "#8A2BE2",
+      "sound_freq": 493.88,
+      "sound_text": "Niiii",
+      "solfege": "Ti"
+    },
+    {
+      "note": "Sa^",
+      "eng": "C^",
+      "color": "#FF1493",
+      "sound_freq": 523.25,
+      "sound_text": "Saaaa high!",
+      "solfege": "Do^"
+    }
+  ],
+  "instruments": [
+    {
+      "id": "inst_piano",
+      "name": "Piano / Keyboard",
+      "hindi_name": "पियानो (Piano)",
+      "family": "Keys (कुंजी वाद्य)",
+      "image_url": "https://images.unsplash.com/photo-1520523839898-507127053c17?w=700&q=80",
+      "sound_desc": "Ting ting ting! Meethi surili aawaz.",
+      "interactive_keys": [
+        {
+          "note": "Sa",
+          "eng": "C",
+          "color": "#FF4B4B",
+          "sound_freq": 261.63,
+          "sound_text": "Saaaa",
+          "solfege": "Do"
+        },
+        {
+          "note": "Re",
+          "eng": "D",
+          "color": "#FF8C00",
+          "sound_freq": 293.66,
+          "sound_text": "Reeee",
+          "solfege": "Re"
+        },
+        {
+          "note": "Ga",
+          "eng": "E",
+          "color": "#FFD700",
+          "sound_freq": 329.63,
+          "sound_text": "Gaaaa",
+          "solfege": "Mi"
+        },
+        {
+          "note": "Ma",
+          "eng": "F",
+          "color": "#32CD32",
+          "sound_freq": 349.23,
+          "sound_text": "Maaaa",
+          "solfege": "Fa"
+        },
+        {
+          "note": "Pa",
+          "eng": "G",
+          "color": "#00CED1",
+          "sound_freq": 392.0,
+          "sound_text": "Paaaa",
+          "solfege": "Sol"
+        },
+        {
+          "note": "Dha",
+          "eng": "A",
+          "color": "#4169E1",
+          "sound_freq": 440.0,
+          "sound_text": "Dhaaa",
+          "solfege": "La"
+        },
+        {
+          "note": "Ni",
+          "eng": "B",
+          "color": "#8A2BE2",
+          "sound_freq": 493.88,
+          "sound_text": "Niiii",
+          "solfege": "Ti"
+        },
+        {
+          "note": "Sa^",
+          "eng": "C^",
+          "color": "#FF1493",
+          "sound_freq": 523.25,
+          "sound_text": "Saaaa high!",
+          "solfege": "Do^"
+        }
+      ],
+      "fun_fact": "Piano me safed aur kaali keys hoti hain. Isme 88 keys hoti hain aur har gaana bajaya ja sakta hai!",
+      "speech": "Ye hai Piano! Isme sundar sur nikalte hain. Aao mere sath rainbow keys par 'Sa Re Ga Ma' bajao!"
+    },
+    {
+      "id": "inst_tabla",
+      "name": "Tabla Pair",
+      "hindi_name": "तबला (Tabla)",
+      "family": "Percussion / Taal (ताल वाद्य)",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=700&q=80",
+      "sound_desc": "Dha Dhin Dhin Dha! Ta Tin Tin Ta!",
+      "interactive_keys": [
+        {
+          "note": "Dha",
+          "eng": "Taal 1",
+          "color": "#8B4513",
+          "sound_freq": 130.81,
+          "sound_text": "Dhaaa!",
+          "solfege": "Bass"
+        },
+        {
+          "note": "Dhin",
+          "eng": "Taal 2",
+          "color": "#CD853F",
+          "sound_freq": 146.83,
+          "sound_text": "Dhin!",
+          "solfege": "Open"
+        },
+        {
+          "note": "Tin",
+          "eng": "Taal 3",
+          "color": "#DEB887",
+          "sound_freq": 164.81,
+          "sound_text": "Tin!",
+          "solfege": "Sharp"
+        },
+        {
+          "note": "Ta",
+          "eng": "Taal 4",
+          "color": "#D2691E",
+          "sound_freq": 174.61,
+          "sound_text": "Taa!",
+          "solfege": "Rim"
+        }
+      ],
+      "fun_fact": "Tabale me do hisse hote hain: Baya (bada duggi) aur Dayan (chhota tabla). Ye Bharat ka sabse lokpriya taal vadya hai!",
+      "speech": "Ye hai hamara pyara Tabla! Ungliyon se bajta hai: Dha Dhin Dhin Dha! Chalo taali bajao mere sath!"
+    },
+    {
+      "id": "inst_flute",
+      "name": "Flute (Bansuri)",
+      "hindi_name": "बांसुरी (Bansuri)",
+      "family": "Wind (सुषिर वाद्य)",
+      "image_url": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=700&q=80",
+      "sound_desc": "Pee pee pee! Hawa se nikalti madhur dhoon.",
+      "interactive_keys": [
+        {
+          "note": "Sa",
+          "eng": "C",
+          "color": "#FF4B4B",
+          "sound_freq": 261.63,
+          "sound_text": "Saaaa",
+          "solfege": "Do"
+        },
+        {
+          "note": "Re",
+          "eng": "D",
+          "color": "#FF8C00",
+          "sound_freq": 293.66,
+          "sound_text": "Reeee",
+          "solfege": "Re"
+        },
+        {
+          "note": "Ga",
+          "eng": "E",
+          "color": "#FFD700",
+          "sound_freq": 329.63,
+          "sound_text": "Gaaaa",
+          "solfege": "Mi"
+        },
+        {
+          "note": "Ma",
+          "eng": "F",
+          "color": "#32CD32",
+          "sound_freq": 349.23,
+          "sound_text": "Maaaa",
+          "solfege": "Fa"
+        },
+        {
+          "note": "Pa",
+          "eng": "G",
+          "color": "#00CED1",
+          "sound_freq": 392.0,
+          "sound_text": "Paaaa",
+          "solfege": "Sol"
+        },
+        {
+          "note": "Dha",
+          "eng": "A",
+          "color": "#4169E1",
+          "sound_freq": 440.0,
+          "sound_text": "Dhaaa",
+          "solfege": "La"
+        },
+        {
+          "note": "Ni",
+          "eng": "B",
+          "color": "#8A2BE2",
+          "sound_freq": 493.88,
+          "sound_text": "Niiii",
+          "solfege": "Ti"
+        },
+        {
+          "note": "Sa^",
+          "eng": "C^",
+          "color": "#FF1493",
+          "sound_freq": 523.25,
+          "sound_text": "Saaaa high!",
+          "solfege": "Do^"
+        }
+      ],
+      "fun_fact": "Bansuri baans (bamboo) se banti hai. Hamare pyaare Krishna Bhagwan bansuri bajate the jise sunkar gaayein khush ho jati theen!",
+      "speech": "Ye dekhiye Bansuri (Flute)! Isme phoonk maar kar madhur sur nikale jaate hain. Kitni pyari dhoon hai!"
+    },
+    {
+      "id": "inst_guitar",
+      "name": "Acoustic Guitar",
+      "hindi_name": "गिटार (Guitar)",
+      "family": "String (तार वाद्य)",
+      "image_url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=700&q=80",
+      "sound_desc": "Tring tring tring! Surili taron ki jhankar.",
+      "interactive_keys": [
+        {
+          "note": "Sa",
+          "eng": "C",
+          "color": "#FF4B4B",
+          "sound_freq": 261.63,
+          "sound_text": "Saaaa",
+          "solfege": "Do"
+        },
+        {
+          "note": "Re",
+          "eng": "D",
+          "color": "#FF8C00",
+          "sound_freq": 293.66,
+          "sound_text": "Reeee",
+          "solfege": "Re"
+        },
+        {
+          "note": "Ga",
+          "eng": "E",
+          "color": "#FFD700",
+          "sound_freq": 329.63,
+          "sound_text": "Gaaaa",
+          "solfege": "Mi"
+        },
+        {
+          "note": "Ma",
+          "eng": "F",
+          "color": "#32CD32",
+          "sound_freq": 349.23,
+          "sound_text": "Maaaa",
+          "solfege": "Fa"
+        },
+        {
+          "note": "Pa",
+          "eng": "G",
+          "color": "#00CED1",
+          "sound_freq": 392.0,
+          "sound_text": "Paaaa",
+          "solfege": "Sol"
+        },
+        {
+          "note": "Dha",
+          "eng": "A",
+          "color": "#4169E1",
+          "sound_freq": 440.0,
+          "sound_text": "Dhaaa",
+          "solfege": "La"
+        },
+        {
+          "note": "Ni",
+          "eng": "B",
+          "color": "#8A2BE2",
+          "sound_freq": 493.88,
+          "sound_text": "Niiii",
+          "solfege": "Ti"
+        },
+        {
+          "note": "Sa^",
+          "eng": "C^",
+          "color": "#FF1493",
+          "sound_freq": 523.25,
+          "sound_text": "Saaaa high!",
+          "solfege": "Do^"
+        }
+      ],
+      "fun_fact": "Guitar me aam taur par 6 taar (strings) hoti hain. In taaron ko ungli se chhedne par mast music banta hai!",
+      "speech": "Ye hai Guitar! Tring tring tring! Gaano ke sath guitar bajana sabhi ko bohot pasand hota hai."
+    },
+    {
+      "id": "inst_xylophone",
+      "name": "Rainbow Xylophone",
+      "hindi_name": "ज़ाइलोफ़ोन (Xylophone)",
+      "family": "Percussion (ताल वाद्य)",
+      "image_url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=700&q=80",
+      "sound_desc": "Tink tink clink! Chamkili dhoon.",
+      "interactive_keys": [
+        {
+          "note": "Sa",
+          "eng": "C",
+          "color": "#FF4B4B",
+          "sound_freq": 261.63,
+          "sound_text": "Saaaa",
+          "solfege": "Do"
+        },
+        {
+          "note": "Re",
+          "eng": "D",
+          "color": "#FF8C00",
+          "sound_freq": 293.66,
+          "sound_text": "Reeee",
+          "solfege": "Re"
+        },
+        {
+          "note": "Ga",
+          "eng": "E",
+          "color": "#FFD700",
+          "sound_freq": 329.63,
+          "sound_text": "Gaaaa",
+          "solfege": "Mi"
+        },
+        {
+          "note": "Ma",
+          "eng": "F",
+          "color": "#32CD32",
+          "sound_freq": 349.23,
+          "sound_text": "Maaaa",
+          "solfege": "Fa"
+        },
+        {
+          "note": "Pa",
+          "eng": "G",
+          "color": "#00CED1",
+          "sound_freq": 392.0,
+          "sound_text": "Paaaa",
+          "solfege": "Sol"
+        },
+        {
+          "note": "Dha",
+          "eng": "A",
+          "color": "#4169E1",
+          "sound_freq": 440.0,
+          "sound_text": "Dhaaa",
+          "solfege": "La"
+        },
+        {
+          "note": "Ni",
+          "eng": "B",
+          "color": "#8A2BE2",
+          "sound_freq": 493.88,
+          "sound_text": "Niiii",
+          "solfege": "Ti"
+        },
+        {
+          "note": "Sa^",
+          "eng": "C^",
+          "color": "#FF1493",
+          "sound_freq": 523.25,
+          "sound_text": "Saaaa high!",
+          "solfege": "Do^"
+        }
+      ],
+      "fun_fact": "Xylophone me alag-alag lambai ki colorful bars hoti hain jinhe chhotu lakdi ke mallet se bajaya jata hai!",
+      "speech": "Ye hai bachon ka sabse favorite Rainbow Xylophone! Iske har color par alag sur bajta hai. Tap karo kisi bhi rang par!"
+    },
+    {
+      "id": "inst_dholak",
+      "name": "Dholak",
+      "hindi_name": "ढोलक (Dholak)",
+      "family": "Percussion / Taal (ताल वाद्य)",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=700&q=80",
+      "sound_desc": "Dhum dhum dhumak dhum!",
+      "interactive_keys": [
+        {
+          "note": "Dhum",
+          "eng": "Bass",
+          "color": "#A0522D",
+          "sound_freq": 110.0,
+          "sound_text": "Dhummm!",
+          "solfege": "Bass"
+        },
+        {
+          "note": "Chak",
+          "eng": "Treble",
+          "color": "#F4A460",
+          "sound_freq": 220.0,
+          "sound_text": "Chakkk!",
+          "solfege": "Snap"
+        }
+      ],
+      "fun_fact": "Dholak har tyohar, shadi aur khushi ke gaano me bajayi jaati hai. Dono hatho se bajti hai!",
+      "speech": "Ye dekhiye Dholak! Dhum dhum dhumak dhum! Iske bajte hi sabka dance karne ka man karta hai!"
+    },
+    {
+      "id": "inst_harmonium",
+      "name": "Harmonium",
+      "hindi_name": "हारमोनियम (Harmonium)",
+      "family": "Keys & Wind (हवा और कुंजी)",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=700&q=80",
+      "sound_desc": "Paaaa saaaa reeee! Surila aalaap.",
+      "interactive_keys": [
+        {
+          "note": "Sa",
+          "eng": "C",
+          "color": "#FF4B4B",
+          "sound_freq": 261.63,
+          "sound_text": "Saaaa",
+          "solfege": "Do"
+        },
+        {
+          "note": "Re",
+          "eng": "D",
+          "color": "#FF8C00",
+          "sound_freq": 293.66,
+          "sound_text": "Reeee",
+          "solfege": "Re"
+        },
+        {
+          "note": "Ga",
+          "eng": "E",
+          "color": "#FFD700",
+          "sound_freq": 329.63,
+          "sound_text": "Gaaaa",
+          "solfege": "Mi"
+        },
+        {
+          "note": "Ma",
+          "eng": "F",
+          "color": "#32CD32",
+          "sound_freq": 349.23,
+          "sound_text": "Maaaa",
+          "solfege": "Fa"
+        },
+        {
+          "note": "Pa",
+          "eng": "G",
+          "color": "#00CED1",
+          "sound_freq": 392.0,
+          "sound_text": "Paaaa",
+          "solfege": "Sol"
+        },
+        {
+          "note": "Dha",
+          "eng": "A",
+          "color": "#4169E1",
+          "sound_freq": 440.0,
+          "sound_text": "Dhaaa",
+          "solfege": "La"
+        },
+        {
+          "note": "Ni",
+          "eng": "B",
+          "color": "#8A2BE2",
+          "sound_freq": 493.88,
+          "sound_text": "Niiii",
+          "solfege": "Ti"
+        },
+        {
+          "note": "Sa^",
+          "eng": "C^",
+          "color": "#FF1493",
+          "sound_freq": 523.25,
+          "sound_text": "Saaaa high!",
+          "solfege": "Do^"
+        }
+      ],
+      "fun_fact": "Harmonium me pichhe se bhatthi (bellows) se hawa bharte hain aur aage se keys dabate hain. Bhajan aur kavita gaane ke liye sabse best!",
+      "speech": "Ye hai Harmonium! School ki prayer aur bhajan me harmonium bajta hai. Chalo sur lagate hain: Saaaaa!"
+    },
+    {
+      "id": "inst_drums",
+      "name": "Drum Kit",
+      "hindi_name": "ड्रम्स (Drums)",
+      "family": "Percussion (ताल वाद्य)",
+      "image_url": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=700&q=80",
+      "sound_desc": "Dum-dum tishhh! Boom-boom!",
+      "interactive_keys": [
+        {
+          "note": "Bass Drum",
+          "eng": "Kick",
+          "color": "#B22222",
+          "sound_freq": 80.0,
+          "sound_text": "Boom!",
+          "solfege": "Kick"
+        },
+        {
+          "note": "Snare",
+          "eng": "Snare",
+          "color": "#4682B4",
+          "sound_freq": 200.0,
+          "sound_text": "Crack!",
+          "solfege": "Snare"
+        },
+        {
+          "note": "Hi-Hat",
+          "eng": "Cymbal",
+          "color": "#FFD700",
+          "sound_freq": 600.0,
+          "sound_text": "Tishhh!",
+          "solfege": "Hat"
+        }
+      ],
+      "fun_fact": "Drums band ka sabse energetic instrument hota hai! Pair se bass drum bajta hai aur hath se sticks chalte hain!",
+      "speech": "Ye hai rocking Drums! Boom-boom tish! Iski beat sunkar sab jhoom uthte hain!"
+    },
+    {
+      "id": "inst_violin",
+      "name": "Violin",
+      "hindi_name": "वायलिन (Violin)",
+      "family": "String (तार वाद्य)",
+      "image_url": "https://images.unsplash.com/photo-1612225330812-01a9c6b355ec?w=700&q=80",
+      "sound_desc": "Veeen veeen! Bohot hi emotional aur meethi aawaz.",
+      "interactive_keys": [
+        {
+          "note": "Sa",
+          "eng": "C",
+          "color": "#FF4B4B",
+          "sound_freq": 261.63,
+          "sound_text": "Saaaa",
+          "solfege": "Do"
+        },
+        {
+          "note": "Re",
+          "eng": "D",
+          "color": "#FF8C00",
+          "sound_freq": 293.66,
+          "sound_text": "Reeee",
+          "solfege": "Re"
+        },
+        {
+          "note": "Ga",
+          "eng": "E",
+          "color": "#FFD700",
+          "sound_freq": 329.63,
+          "sound_text": "Gaaaa",
+          "solfege": "Mi"
+        },
+        {
+          "note": "Ma",
+          "eng": "F",
+          "color": "#32CD32",
+          "sound_freq": 349.23,
+          "sound_text": "Maaaa",
+          "solfege": "Fa"
+        },
+        {
+          "note": "Pa",
+          "eng": "G",
+          "color": "#00CED1",
+          "sound_freq": 392.0,
+          "sound_text": "Paaaa",
+          "solfege": "Sol"
+        },
+        {
+          "note": "Dha",
+          "eng": "A",
+          "color": "#4169E1",
+          "sound_freq": 440.0,
+          "sound_text": "Dhaaa",
+          "solfege": "La"
+        },
+        {
+          "note": "Ni",
+          "eng": "B",
+          "color": "#8A2BE2",
+          "sound_freq": 493.88,
+          "sound_text": "Niiii",
+          "solfege": "Ti"
+        },
+        {
+          "note": "Sa^",
+          "eng": "C^",
+          "color": "#FF1493",
+          "sound_freq": 523.25,
+          "sound_text": "Saaaa high!",
+          "solfege": "Do^"
+        }
+      ],
+      "fun_fact": "Violin ko 'Bow' (dhanush jaisi lakdi) se ghis kar bajate hain. Iske sur sidhe dil ko chhoote hain!",
+      "speech": "Ye hai Violin! Gale ke paas rakh kar ise bow se bajate hain. Suno kitna shant aur sundar bajta hai!"
+    },
+    {
+      "id": "inst_sitar",
+      "name": "Sitar",
+      "hindi_name": "सितार (Sitar)",
+      "family": "String (तार वाद्य)",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=700&q=80",
+      "sound_desc": "Jhing jhing tring! Shastriya sangeet ki rani.",
+      "interactive_keys": [
+        {
+          "note": "Sa",
+          "eng": "C",
+          "color": "#FF4B4B",
+          "sound_freq": 261.63,
+          "sound_text": "Saaaa",
+          "solfege": "Do"
+        },
+        {
+          "note": "Re",
+          "eng": "D",
+          "color": "#FF8C00",
+          "sound_freq": 293.66,
+          "sound_text": "Reeee",
+          "solfege": "Re"
+        },
+        {
+          "note": "Ga",
+          "eng": "E",
+          "color": "#FFD700",
+          "sound_freq": 329.63,
+          "sound_text": "Gaaaa",
+          "solfege": "Mi"
+        },
+        {
+          "note": "Ma",
+          "eng": "F",
+          "color": "#32CD32",
+          "sound_freq": 349.23,
+          "sound_text": "Maaaa",
+          "solfege": "Fa"
+        },
+        {
+          "note": "Pa",
+          "eng": "G",
+          "color": "#00CED1",
+          "sound_freq": 392.0,
+          "sound_text": "Paaaa",
+          "solfege": "Sol"
+        },
+        {
+          "note": "Dha",
+          "eng": "A",
+          "color": "#4169E1",
+          "sound_freq": 440.0,
+          "sound_text": "Dhaaa",
+          "solfege": "La"
+        },
+        {
+          "note": "Ni",
+          "eng": "B",
+          "color": "#8A2BE2",
+          "sound_freq": 493.88,
+          "sound_text": "Niiii",
+          "solfege": "Ti"
+        },
+        {
+          "note": "Sa^",
+          "eng": "C^",
+          "color": "#FF1493",
+          "sound_freq": 523.25,
+          "sound_text": "Saaaa high!",
+          "solfege": "Do^"
+        }
+      ],
+      "fun_fact": "Pandit Ravi Shankar ji ne pure vishwa me Bharat ke Sitar ka naam roshan kiya tha. Isme kaddu (gourd) ka base hota hai!",
+      "speech": "Ye hai shandar Sitar! Bharat ka paramparik vadya. Iski jhankhar man ko anand se bhar deti hai."
+    }
+  ]
+}

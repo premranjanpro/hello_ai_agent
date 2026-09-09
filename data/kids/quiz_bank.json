@@ -1,0 +1,308 @@
+[
+  {
+    "id": "q_animal_01",
+    "category": "Animals",
+    "question": "Duniya ka sabse bada janwar kaun sa hai?",
+    "options": [
+      "Hathi (Elephant)",
+      "Blue Whale",
+      "Giraffe",
+      "Sher (Lion)"
+    ],
+    "correct_index": 1,
+    "voice_hint": "Ye zameen par nahi, samundar me rehti hai!",
+    "explanation": "Blue Whale samundar aur poori duniya ka sabse bada jeev hai.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "q_animal_02",
+    "category": "Animals",
+    "question": "Duniya ka sabse tez daudne wala janwar kaun sa hai?",
+    "options": [
+      "Cheetah",
+      "Ghoda (Horse)",
+      "Hiran (Deer)",
+      "Kutta (Dog)"
+    ],
+    "correct_index": 0,
+    "voice_hint": "Iski body par black spots hote hain!",
+    "explanation": "Cheetah 110 se 120 km/hr ki speed se daud sakta hai.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "q_animal_03",
+    "category": "Animals",
+    "question": "Jungle ka raja kise kaha jata hai?",
+    "options": [
+      "Tiger (Bagh)",
+      "Bhalu (Bear)",
+      "Sher (Lion)",
+      "Hathi (Elephant)"
+    ],
+    "correct_index": 2,
+    "voice_hint": "Iski gardan par bade baal (mane) hote hain aur ye tez dahadta hai!",
+    "explanation": "Sher (Lion) ko jungle ka raja kaha jata hai.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "q_animal_04",
+    "category": "Animals",
+    "question": "Kaun sa pakshi peechhe ki taraf bhi ud sakta hai?",
+    "options": [
+      "Tota (Parrot)",
+      "Hummingbird",
+      "Cheel (Eagle)",
+      "Kabootar (Pigeon)"
+    ],
+    "correct_index": 1,
+    "voice_hint": "Ye phoolon ka ras peeta hai aur bahut chhota hota hai!",
+    "explanation": "Hummingbird aage aur peeche dono dishao me ud sakta hai.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "q_space_01",
+    "category": "Space",
+    "question": "Solar system me 'Red Planet' (Laal Grah) kise kehte hain?",
+    "options": [
+      "Mercury (Budh)",
+      "Venus (Shukra)",
+      "Mars (Mangal)",
+      "Jupiter (Brihaspati)"
+    ],
+    "correct_index": 2,
+    "voice_hint": "Is par ISRO ka Mangalyaan mission gaya tha!",
+    "explanation": "Mars (Mangal) ki mitti me iron oxide hone se wo laal dikhta hai.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "q_space_02",
+    "category": "Space",
+    "question": "Duniya ki sabse paas wali star (sitara) kaun si hai?",
+    "options": [
+      "Suraj (Sun)",
+      "Polaris (Dhruvtara)",
+      "Sirius",
+      "Proxima Centauri"
+    ],
+    "correct_index": 0,
+    "voice_hint": "Ye din me aasman me chamakta hai aur hume roshni deta hai!",
+    "explanation": "Suraj (Sun) hamari zameen ke sabse kareeb ka tara hai.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "q_space_03",
+    "category": "Space",
+    "question": "Chaand (Moon) par sabse pehla kadam kisne rakha tha?",
+    "options": [
+      "Rakesh Sharma",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin"
+    ],
+    "correct_index": 1,
+    "voice_hint": "Unhone saal 1969 me Apollo 11 mission se chaand par kadam rakha tha!",
+    "explanation": "Neil Armstrong ne chaand par sabse pehla kadam rakha tha.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "q_math_01",
+    "category": "Math Puzzles",
+    "question": "Batao: 5 aur 5 kitne hote hain?",
+    "options": [
+      "8",
+      "10",
+      "15",
+      "20"
+    ],
+    "correct_index": 1,
+    "voice_hint": "Dono haathon ki ungliyon ko gino!",
+    "explanation": "5 + 5 = 10 hota hai.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "q_math_02",
+    "category": "Math Puzzles",
+    "question": "Ek triangle (tribhuj) me kitne sides (bhujaayein) hoti hain?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_index": 1,
+    "voice_hint": "Tri ka matlab hota hai teen!",
+    "explanation": "Triangle me 3 sides hoti hain.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "q_math_03",
+    "category": "Math Puzzles",
+    "question": "Agar aapke paas 6 chocolate hain aur aapne 2 khaa li, to kitni bachi?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "8"
+    ],
+    "correct_index": 1,
+    "voice_hint": "6 me se 2 kam kar do!",
+    "explanation": "6 minus 2 equals 4 chocolates.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "q_riddle_01",
+    "category": "Riddles",
+    "question": "Aisi kaun si cheez hai jiske paas do haath hain par taali nahi baja sakti?",
+    "options": [
+      "Khilauna (Toy)",
+      "Ghadi (Clock)",
+      "Robot",
+      "Chashma"
+    ],
+    "correct_index": 1,
+    "voice_hint": "Ye deewar par latakti hai aur samay batati hai!",
+    "explanation": "Ghadi (Clock) ke paas ghante aur minute ki sui hoti hai jinhe hands kehte hain.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "q_riddle_02",
+    "category": "Riddles",
+    "question": "Aisi kaun si cheez hai jiske paas daant hain par wo kaat nahi sakti?",
+    "options": [
+      "Kanghi (Comb)",
+      "Chammach (Spoon)",
+      "Pankha",
+      "Katori"
+    ],
+    "correct_index": 0,
+    "voice_hint": "Isse hum subah apne baal banate hain!",
+    "explanation": "Kanghi (Comb) ke teethes hote hain par wo kaat nahi sakti.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "q_gk_01",
+    "category": "General Knowledge",
+    "question": "Bharat ka National Fruit (Rashtriya Phal) kaun sa hai?",
+    "options": [
+      "Seb (Apple)",
+      "Kela (Banana)",
+      "Aam (Mango)",
+      "Santra (Orange)"
+    ],
+    "correct_index": 2,
+    "voice_hint": "Ise phalon ka raja bhi kehte hain, peela peela meetha meetha!",
+    "explanation": "Aam (Mango) Bharat ka rashtriya phal hai.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "q_gk_02",
+    "category": "General Knowledge",
+    "question": "Rainbow (Indradhanush) me kitne colours hote hain?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_index": 2,
+    "voice_hint": "VIBGYOR yaad karo!",
+    "explanation": "Indradhanush me total 7 rang hote hain.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "q_gk_03",
+    "category": "General Knowledge",
+    "question": "Ek saal me kitne mahine (months) hote hain?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "correct_index": 2,
+    "voice_hint": "January se shuru hokar December tak gino!",
+    "explanation": "Ek saal me 12 mahine hote hain.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "q_science_01",
+    "category": "Science",
+    "question": "Paudhe (Plants) din me kaun si gas chhodte hain jo hum saans lene ke liye use karte hain?",
+    "options": [
+      "Carbon Dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "correct_index": 1,
+    "voice_hint": "Ye gas hamare jeene ke liye sabse zaroori hai!",
+    "explanation": "Paudhe photosynthesis me Oxygen chhodte hain.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "q_science_02",
+    "category": "Science",
+    "question": "Paani (Water) ka scientific formula kya hota hai?",
+    "options": [
+      "CO2",
+      "O2",
+      "H2O",
+      "NaCl"
+    ],
+    "correct_index": 2,
+    "voice_hint": "Isme 2 Hydrogen aur 1 Oxygen hota hai!",
+    "explanation": "Water ka chemical formula H2O hota hai.",
+    "time_limit_sec": 10,
+    "points": 10,
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  }
+]

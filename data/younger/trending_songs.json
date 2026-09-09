@@ -1,0 +1,42 @@
+[
+  {
+    "id": "song_softly",
+    "title": "Softly",
+    "singer": "Karan Aujla & Ikky",
+    "duration": "2:36",
+    "youtube_id": "cWMxCE2HTag",
+    "stream_url": "https://www.youtube.com/embed/cWMxCE2HTag?autoplay=1",
+    "thumbnail_url": "https://img.youtube.com/vi/cWMxCE2HTag/hqdefault.jpg",
+    "genre": "punjabi_pop"
+  },
+  {
+    "id": "song_cheques",
+    "title": "Cheques",
+    "singer": "Shubh",
+    "duration": "3:04",
+    "youtube_id": "4tywp83zkmk",
+    "stream_url": "https://www.youtube.com/embed/4tywp83zkmk?autoplay=1",
+    "thumbnail_url": "https://img.youtube.com/vi/4tywp83zkmk/hqdefault.jpg",
+    "genre": "punjabi_hiphop"
+  },
+  {
+    "id": "song_mi_amor",
+    "title": "Mi Amor",
+    "singer": "Sharn, 40k & The Paul",
+    "duration": "3:18",
+    "youtube_id": "vX2cDW8LUWk",
+    "stream_url": "https://www.youtube.com/embed/vX2cDW8LUWk?autoplay=1",
+    "thumbnail_url": "https://img.youtube.com/vi/vX2cDW8LUWk/hqdefault.jpg",
+    "genre": "pop_chill"
+  },
+  {
+    "id": "song_with_you",
+    "title": "With You",
+    "singer": "AP Dhillon",
+    "duration": "2:35",
+    "youtube_id": "VNs_cCtdbPc",
+    "stream_url": "https://www.youtube.com/embed/VNs_cCtdbPc?autoplay=1",
+    "thumbnail_url": "https://img.youtube.com/vi/VNs_cCtdbPc/hqdefault.jpg",
+    "genre": "romantic_chill"
+  }
+]

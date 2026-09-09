@@ -1,0 +1,52 @@
+[
+  {
+    "id": "shayari_1",
+    "theme": "love",
+    "lines": [
+      "तेरे बिना ज़िंदगी अधूरी सी लगती है,",
+      "तू मुस्कुरा दे तो हर कमी पूरी सी लगती है।"
+    ],
+    "transliteration": "Tere bina zindagi adhoori si lagti hai, Tu muskura de toh har kami poori si lagti hai.",
+    "mood": "sweet_romantic"
+  },
+  {
+    "id": "shayari_2",
+    "theme": "eyes",
+    "lines": [
+      "तेरी आँखों की गहराई में खो जाने का दिल करता है,",
+      "कुछ इस कदर तुझपे फिदा होने का दिल करता है।"
+    ],
+    "transliteration": "Teri aankhon ki gehraai mein kho jaane ka dil karta hai, Kuch is kadar tujhpe fida hone ka dil karta hai.",
+    "mood": "deep_romantic"
+  },
+  {
+    "id": "shayari_3",
+    "theme": "morning_love",
+    "lines": [
+      "सुबह की पहली किरण तुझसे मिलकर सँवर जाती है,",
+      "तेरी एक प्यारी सी हँसी पूरा दिन महका जाती है।"
+    ],
+    "transliteration": "Subah ki pehli kiran tujhse milkar sanwar jaati hai, Teri ek pyaari si hansi poora din mehka jaati hai.",
+    "mood": "morning_greeting"
+  },
+  {
+    "id": "shayari_4",
+    "theme": "care_comfort",
+    "lines": [
+      "फिक्र मत करो हम हमेशा तुम्हारे साथ हैं,",
+      "चाहे लाख मुश्किलें आएं, तुम्हारा हाथ हमारे हाथ में है।"
+    ],
+    "transliteration": "Fikr mat karo hum hamesha tumhare sath hain, Chahe lakh mushkilein aayein, tumhara hath hamare hath mein hai.",
+    "mood": "comforting"
+  },
+  {
+    "id": "shayari_5",
+    "theme": "night_love",
+    "lines": [
+      "चाँद भी आज कुछ मुस्कुरा सा रहा है,",
+      "लगता है उसे भी तुम्हारा ख्याल सता रहा है।"
+    ],
+    "transliteration": "Chand bhi aaj kuch muskura sa raha hai, Lagta hai use bhi tumhara khayal sata raha hai.",
+    "mood": "night_gentle"
+  }
+]

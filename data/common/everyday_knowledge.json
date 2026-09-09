@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ek_traffic_lights",
+    "topic": "safety",
+    "question": "Traffic lights ke 3 rangon ka kya matlab hota hai?",
+    "answer": "Laal (Red) ka matlab 'Ruko' (Stop), Peela (Yellow) ka matlab 'Taiyar raho' (Get Ready), aur Hara (Green) ka matlab 'Chalo' (Go). Sadak par Zebra Crossing se hi cross karein."
+  },
+  {
+    "id": "ek_emergency_112",
+    "topic": "safety",
+    "question": "Emergency me Bharat me kaun sa number dial karte hain?",
+    "answer": "Bharat me sabhi aapatkaaleen (emergency) suvidhaon ke liye '112' dial karte hain. Police ke liye 100, Fire ke liye 101, Ambulance ke liye 102/108, aur Childline ke liye 1098 hota hai."
+  },
+  {
+    "id": "ek_national_symbols",
+    "topic": "india",
+    "question": "Bharat ke mukhya rashtriya prateek kaun se hain?",
+    "answer": "Rashtriya Pashu: Bagh (Tiger), Rashtriya Pakshi: Mor (Peacock), Rashtriya Phool: Kamal (Lotus), Rashtriya Phal: Aam (Mango), Rashtriya Jaliye Jeev: Dolphin, aur Rashtriya Geet: Vande Mataram."
+  },
+  {
+    "id": "ek_four_directions",
+    "topic": "geography",
+    "question": "Char mukhya dishayein kaun si hoti hain?",
+    "answer": "Char mukhya dishayein hain: Poorva (East - jahan se sooraj nikalta hai), Pashchim (West - jahan sooraj dhalta hai), Uttar (North) aur Dakshin (South)."
+  },
+  {
+    "id": "ek_five_senses",
+    "topic": "science",
+    "question": "Hamari 5 gyanendriyan (Sense Organs) kaun si hain?",
+    "answer": "Aankh (dekhne ke liye), Kaan (sunne ke liye), Naak (soonghne ke liye), Jeebh (swaad chakne ke liye), aur Twacha/Skin (chhoone aur mehsoos karne ke liye)."
+  },
+  {
+    "id": "ek_rainbow_colors",
+    "topic": "science",
+    "question": "Indradhanush me kaun se 7 rang hote hain?",
+    "answer": "VIBGYOR: Baingani (Violet), Jamuni (Indigo), Neela (Blue), Hara (Green), Peela (Yellow), Narangi (Orange), aur Laal (Red)."
+  },
+  {
+    "id": "ek_water_cycle",
+    "topic": "nature",
+    "question": "Barish kaise hoti hai (Water Cycle)?",
+    "answer": "Sooraj ki garmi se nadi aur samundar ka paani bhaap bankar aakash me udta hai (evaporation). Upar jakar ye baadal banta hai (condensation) aur thanda hokar barish bankar barasta hai (precipitation)."
+  },
+  {
+    "id": "ek_solar_system",
+    "topic": "space",
+    "question": "Hamare saur mandal me kitne grah hain?",
+    "answer": "Hamare Saur Mandal (Solar System) me 8 grah hain: Budh (Mercury), Shukra (Venus), Prithvi (Earth), Mangal (Mars), Brihaspati (Jupiter), Shani (Saturn), Arun (Uranus) aur Varun (Neptune)."
+  },
+  {
+    "id": "ek_earth_rotation",
+    "topic": "space",
+    "question": "Din aur raat kaise bante hain?",
+    "answer": "Prithvi apni dhuri par 24 ghante me ek chakkar lagati hai (Rotation). Jo hissa sooraj ke samne hota hai wahan din, aur peeche wale hisse me raat hoti hai."
+  },
+  {
+    "id": "ek_photosynthesis",
+    "topic": "plants",
+    "question": "Paudhe apna khana kaise banate hain?",
+    "answer": "Paudhe sooraj ki roshni, hawa se carbon dioxide aur jadd se paani lekar 'Photosynthesis' vidhi se khana banate hain aur hame saaf Oxygen dete hain."
+  },
+  {
+    "id": "ek_honey_never_spoils",
+    "topic": "science",
+    "question": "Kya asli shahad kabhi kharab hota hai?",
+    "answer": "Nahi, asli shahad hazaron saal tak kharab nahi hota kyunki isme moisture bohot kam hota hai aur bacteria panap nahi sakte."
+  },
+  {
+    "id": "ek_bones_in_body",
+    "topic": "human_body",
+    "question": "Insaan ke shareer me kitni haddiyan hoti hain?",
+    "answer": "Ek vayask (adult) insaan ke shareer me 206 haddiyan hoti hain, jabki ek nanhe bache me lagbhag 300 haddiyan hoti hain jo bade hote-hote jud jati hain."
+  },
+  {
+    "id": "ek_heart_pumping",
+    "topic": "human_body",
+    "question": "Hamara dil (Heart) kya kaam karta hai?",
+    "answer": "Hamara dil ek pump ki tarah kaam karta hai jo poore shareer me khoon (blood) aur oxygen pahunchata hai. Ye ek minute me lagbhag 72 baar dhadakta hai."
+  },
+  {
+    "id": "ek_three_states_matter",
+    "topic": "science",
+    "question": "Padarth ki teen mukhya avasthayein kaun si hain?",
+    "answer": "Thos (Solid - jaise baraf), Drav (Liquid - jaise paani), aur Gas (jaise bhaap aur hawa)."
+  },
+  {
+    "id": "ek_indian_currency",
+    "topic": "general",
+    "question": "Bharat ki mudra (currency) kya hai?",
+    "answer": "Bharat ki mudra Bharatiya Rupaya (₹ - INR) hai. Iska prateek chinnh (₹) Udaya Kumar ne design kiya tha."
+  },
+  {
+    "id": "ek_seasons_india",
+    "topic": "weather",
+    "question": "Bharat me mukhya mausam kaun se hote hain?",
+    "answer": "Garmi (Summer), Barish / Monsoon, Sharad (Autumn), Sardi (Winter) aur Vasant (Spring). Vasant ritu me phool khilte hain."
+  },
+  {
+    "id": "ek_teeth_care",
+    "topic": "health",
+    "question": "Daanto ko swasth rakhne ke niyam kya hain?",
+    "answer": "Din me do baar (subah uthkar aur raat ko sone se pehle) 2 minute tak brush karein. Zyada meetha aur chocolate khane ke baad kulla karein."
+  },
+  {
+    "id": "ek_handwashing_steps",
+    "topic": "health",
+    "question": "Haath dhone ka sahi tareeka kya hai?",
+    "answer": "Khane se pehle aur toilet ke baad sabun se 20 second tak haathon ko aage, peeche aur ungliyon ke beech achhi tarah ragad kar dhona chahiye."
+  },
+  {
+    "id": "ek_largest_ocean",
+    "topic": "geography",
+    "question": "Duniya ka sabse bada mahasagar kaun sa hai?",
+    "answer": "Prashant Mahasagar (Pacific Ocean) duniya ka sabse bada aur sabse gehra mahasagar hai."
+  },
+  {
+    "id": "ek_highest_mountain",
+    "topic": "geography",
+    "question": "Duniya ki sabse unchi choti kaun si hai?",
+    "answer": "Mount Everest (Himalaya parvat) duniya ki sabse unchi choti hai, jiski unchai 8,848.86 meter hai."
+  },
+  {
+    "id": "ek_longest_river_india",
+    "topic": "geography",
+    "question": "Bharat ki sabse lambi aur pavitra nadi kaun si hai?",
+    "answer": "Ganga nadi Bharat ki sabse lambi nadi hai (2,525 km). Ye Gangotri se nikal kar Bay of Bengal me milti hai."
+  },
+  {
+    "id": "ek_moon_light",
+    "topic": "space",
+    "question": "Chandrama ki roshni kahan se aati hai?",
+    "answer": "Chandrama ke paas apni roshni nahi hoti. Wo sooraj ki roshni ko aaine ki tarah reflect karke chamakta hai."
+  },
+  {
+    "id": "ek_gravity",
+    "topic": "science",
+    "question": "Har cheez zameen par hi kyun girti hai?",
+    "answer": "Prithvi ke paas ek jadoo jaisi taqat hoti hai jise 'Gurutwakarshan' (Gravity) kehte hain. Ye har cheez ko apni taraf kheenchti hai."
+  },
+  {
+    "id": "ek_clean_india",
+    "topic": "civics",
+    "question": "Swachh Bharat ka kya sankalp hai?",
+    "answer": "Kachra hamesha dustbin me daalein (Geela kachra hare dustbin me, sukha kachra neele dustbin me). Apne ghar, school aur sadak ko saaf rakhein."
+  },
+  {
+    "id": "ek_save_water",
+    "topic": "nature",
+    "question": "Paani ki bachat kaise karein?",
+    "answer": "Brush karte waqt nal khula na chhodein, baalti se nahayein, aur tapakte hue nal ko turant theek karwayein."
+  },
+  {
+    "id": "ek_good_touch_bad_touch",
+    "topic": "safety",
+    "question": "Suraksha ka 'Good Touch aur Bad Touch' niyam kya hai?",
+    "answer": "Aapke swim-suit wale parts private hote hain. Agar koi wahan chhue ya aapko uncomfortable lage, to zor se 'NO' bolein aur turant mummy-papa ya teacher ko batayein."
+  },
+  {
+    "id": "ek_national_flag",
+    "topic": "india",
+    "question": "Tirange jhande ke rang kya sandesh dete hain?",
+    "answer": "Kesariya (Saffron): Balidaan aur shaurya, Safed (White): Shanti aur sachchai, Hara (Green): Khushhali aur vikas. Beech me 24 tiliyon wala Ashoka Chakra lagatar aage badhne ka prateek hai."
+  },
+  {
+    "id": "ek_why_sleep",
+    "topic": "health",
+    "question": "Raat ko 8 ghante sona kyun zaroori hai?",
+    "answer": "Sone se hamara dimag din bhar ki baatein yaad rakhta hai, shareer ki thakan door hoti hai aur growth hormones release hokar lambai badhate hain."
+  },
+  {
+    "id": "ek_air_composition",
+    "topic": "science",
+    "question": "Hawa me sabse zyada kaun si gas hoti hai?",
+    "answer": "Hawa me lagbhag 78% Nitrogen, 21% Oxygen (jo hum saans lete hain), aur 1% me anya gasein hoti hain."
+  },
+  {
+    "id": "ek_ant_superpower",
+    "topic": "animals",
+    "question": "Cheenti ki kya khasiyat hoti hai?",
+    "answer": "Cheenti apne wajan se 50 guna zyada bhaar utha sakti hai aur hamesha ek seedhi line me miljul kar mehnat karti hai."
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "habit_brushing",
+    "title": "Daanton Ki Safai (Brushing)",
+    "good": {
+      "title": "Subah-Shaam Brush Karna",
+      "image_url": "https://images.unsplash.com/photo-1559599101-f09722fb4948?w=600&q=80",
+      "desc": "Daant motiyon jaise chamakte hain aur germs door bhagte hain."
+    },
+    "bad": {
+      "title": "Bina Brush Kiye Sona",
+      "image_url": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?w=600&q=80",
+      "desc": "Daanton me keede lag jate hain aur dard hota hai."
+    },
+    "marquee_text": "⭐ Subah uth kar aur raat ko sone se pehle 2 minute brush karein ⭐ Daant rahenge swasth aur chamkile ⭐",
+    "rhyme": "Brush brush brush your teeth, keep them clean and bright! Subah bhi karo, shaam bhi karo, day and night!"
+  },
+  {
+    "id": "habit_handwashing",
+    "title": "Haath Dhona (Hand Washing)",
+    "good": {
+      "title": "Sabun Se Haath Dhona",
+      "image_url": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?w=600&q=80",
+      "desc": "Bimariyan aur kitanu pet me nahi jaate."
+    },
+    "bad": {
+      "title": "Gande Haathon Se Khana",
+      "image_url": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=600&q=80",
+      "desc": "Pet me dard aur infection ho sakta hai."
+    },
+    "marquee_text": "⭐ Khane se pehle aur toilet ke baad 20 second tak sabun se haath dhoyen ⭐",
+    "rhyme": "Wash wash wash your hands, soap and water play! Saaf haath se khana khao, beemari bhagaye!"
+  },
+  {
+    "id": "habit_wake_early",
+    "title": "Subah Jaldi Uthna (Early Rising)",
+    "good": {
+      "title": "Early To Rise",
+      "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&q=80",
+      "desc": "Sharir me taazgi aati hai aur dimaag khush rehta hai."
+    },
+    "bad": {
+      "title": "Der Tak Sote Rehna",
+      "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=600&q=80",
+      "desc": "Alas rehta hai aur school ke liye late ho jate hain."
+    },
+    "marquee_text": "⭐ Early to bed and early to rise, makes a child healthy, wealthy and wise ⭐",
+    "rhyme": "Suraj nikla mita andhera, dekho bacho hua savera! Jaldi uthkar karo pranam, banenge sare bigde kaam!"
+  },
+  {
+    "id": "habit_healthy_eating",
+    "title": "Paushtik Aahar (Healthy Eating)",
+    "good": {
+      "title": "Hari Sabziyan Aur Phal Khana",
+      "image_url": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=600&q=80",
+      "desc": "Taqat milti hai aur shareer superhero jaisa banta hai."
+    },
+    "bad": {
+      "title": "Sirf Junk Food Aur Chips Khana",
+      "image_url": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=600&q=80",
+      "desc": "Pet kharab hota hai aur shareer kamzor ho jata hai."
+    },
+    "marquee_text": "⭐ Roti, daal, hari sabzi aur doodh roz lein ⭐ Junk food kabhi-kabhi hi khayein ⭐",
+    "rhyme": "Green vegetables taaza phal, dete humko taqat kal! Junk food ko kaho bye-bye, sehat se dosti banaye!"
+  },
+  {
+    "id": "habit_water_drinking",
+    "title": "Paani Peena (Hydration)",
+    "good": {
+      "title": "Din Bhar Khoob Paani Peena",
+      "image_url": "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?w=600&q=80",
+      "desc": "Shareer active rehta hai aur digestion behtar hota hai."
+    },
+    "bad": {
+      "title": "Paani Ki Jagah Soda Peena",
+      "image_url": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=600&q=80",
+      "desc": "Dehydration aur daanto me cavity hoti hai."
+    },
+    "marquee_text": "⭐ Roz 6 se 8 glass saaf paani peena swasthya ke liye amrit hai ⭐",
+    "rhyme": "Pani pani pyara paani, jeevan ki ye meethi nani! Khoob piyo thanda jal, active rahoge har pal!"
+  },
+  {
+    "id": "habit_screen_time",
+    "title": "Screen Time Control",
+    "good": {
+      "title": "Bahar Park Me Khelna",
+      "image_url": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&q=80",
+      "desc": "Aankhein swasth rehti hain aur dosto ke sath masti hoti hai."
+    },
+    "bad": {
+      "title": "Ghanton Mobile/TV Dekhna",
+      "image_url": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?w=600&q=80",
+      "desc": "Aankhein thak jati hain aur sar me dard hota hai."
+    },
+    "marquee_text": "⭐ Din me sirf 30-40 minute screen time! Sham ko doston ke sath ground me khelein ⭐",
+    "rhyme": "Chhodo mobile aao maidan, dhoop hawa me hai vardaan! Daud lagao ball chalao, tandurust body banao!"
+  },
+  {
+    "id": "habit_respect_elders",
+    "title": "Bado Ka Aadar (Respect Elders)",
+    "good": {
+      "title": "Namaste Aur Dhanyawaad Bolna",
+      "image_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "desc": "Sabhi ka aashirwaad aur pyar milta hai."
+    },
+    "bad": {
+      "title": "Chilakar Ya Gusse Me Bolna",
+      "image_url": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=600&q=80",
+      "desc": "Bado ka dil dukhta hai aur sab udaas hote hain."
+    },
+    "marquee_text": "⭐ Hamesha 'Please', 'Thank You' aur 'Sorry' ka pyara prayog karein ⭐",
+    "rhyme": "Mummy papa ko pranam, guru janon ka lo naam! Meethi vani sabko bhaye, sabka dulara bacha kehlaye!"
+  },
+  {
+    "id": "habit_cleanliness",
+    "title": "Kachra Dustbin Me (Cleanliness)",
+    "good": {
+      "title": "Kachra Dustbin Me Daalna",
+      "image_url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&q=80",
+      "desc": "Ghar aur sadak saaf-suthri aur sundar rehti hai."
+    },
+    "bad": {
+      "title": "Idhar-Udhar Wrappers Phekna",
+      "image_url": "https://images.unsplash.com/photo-1518843875459-f738682238a6?w=600&q=80",
+      "desc": "Gandagi phailti hai aur makkhiyan aati hain."
+    },
+    "marquee_text": "⭐ Mera Bharat Swachh Bharat! Wrappers hamesha dustbin me hi daalein ⭐",
+    "rhyme": "Saaf safai apnao, gandagi door bhagao! Chhilka dabba dalo bin me, khushiyan aayengi aagan me!"
+  },
+  {
+    "id": "habit_sharing",
+    "title": "Mil Baant Kar Khana (Sharing)",
+    "good": {
+      "title": "Dosto Ke Sath Share Karna",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+      "desc": "Dosti mazboot hoti hai aur khushi dugni ho jati hai."
+    },
+    "bad": {
+      "title": "Akele Sab Khana Ya Chheen-na",
+      "image_url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&q=80",
+      "desc": "Dost naraz hote hain aur akelepan lagta hai."
+    },
+    "marquee_text": "⭐ Sharing is Caring! Apne khilone aur snacks doston ke sath baatein ⭐",
+    "rhyme": "Sharing brings a happy smile, dosti chalti meelon mile! Jo baate apna aahar, uspar barse sabka pyar!"
+  },
+  {
+    "id": "habit_homework",
+    "title": "Samay Par Padhai (Study Time)",
+    "good": {
+      "title": "Roz Time Par Homework Karna",
+      "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80",
+      "desc": "Class me first aate hain aur exam ka dar nahi rehta."
+    },
+    "bad": {
+      "title": "Padhai Kal Par Taalna",
+      "image_url": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=600&q=80",
+      "desc": "Bohot sara kaam jama ho jata hai aur tension hoti hai."
+    },
+    "marquee_text": "⭐ Roz thoda samay padhai ko dein, revision hamesha aage rakhta hai ⭐",
+    "rhyme": "Padhoge likhoge banoge nawaab, khele koodoge banoge kharab! Samay par karo apna kaam, chamkega tabhi tumhara naam!"
+  },
+  {
+    "id": "habit_speaking_truth",
+    "title": "Sach Bolna (Honesty)",
+    "good": {
+      "title": "Hamesha Sach Bolna",
+      "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "desc": "Man bilkul shant aur nidar rehta hai."
+    },
+    "bad": {
+      "title": "Galti Chhupane Ke Liye Jhooth Bolna",
+      "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=600&q=80",
+      "desc": "Ek jhooth ke liye 100 jhooth bolne padte hain aur vishwas toot-ta hai."
+    },
+    "marquee_text": "⭐ Sach bolne wale hamesha sachhe veer hote hain ⭐",
+    "rhyme": "Sach ki raah par chalna seekho, jhooth se hamesha bachna seekho! Sachha bacha fearless rehta, sabka aadar samman paata!"
+  },
+  {
+    "id": "habit_bedtime_story",
+    "title": "Raat Ko Samay Par Sona (Sleeping Early)",
+    "good": {
+      "title": "9 Baje Sona",
+      "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=600&q=80",
+      "desc": "Subah bina roye chehre par muskan ke sath aankh khulti hai."
+    },
+    "bad": {
+      "title": "Raat 12 Baje Tak Jagna",
+      "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&q=80",
+      "desc": "Subah thakan rehti hai aur school me neend aati hai."
+    },
+    "marquee_text": "⭐ Bacha agar 8-9 ghante soye to dimag tez aur body tall banti hai ⭐",
+    "rhyme": "Chanda mama so gaye, taare bhi chup ho gaye! Tum bhi so jao pyare bachhe, aayenge sapne sachhe-sachhe!"
+  }
+]

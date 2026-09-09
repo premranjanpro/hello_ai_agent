@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "place_darjeeling_toy_train",
+    "name": "Darjeeling Toy Train",
+    "city": "Darjeeling",
+    "state": "West Bengal",
+    "category": "toy_train",
+    "emoji": "🚂",
+    "kids_hook": "Chalo aaj Darjeeling ghoomte hain! Ye dekho Darjeeling ki Toy Train! Kya aap aisi chhook-chhook train me baithe ho?",
+    "voice_speech": "Arrey waah champ! Chalo aaj Darjeeling ghoomte hain! Ye dekho Darjeeling ki pyari Toy Train! Ye pahadon ke beech chhook-chhook karke chalti hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1509749837427-ac94a2553d0e?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh train 140 saal purani hai aur isko World Heritage Wonder mana jata hai!",
+      "Train pahad par gol-gol ghoomti hai jise Batasia Loop kehte hain!",
+      "Yahan se barf se dhaki Kanchenjunga pahadiyan dikhti hain!"
+    ],
+    "curiosity_question": "Kya aapko pata hai toy train bina phisle pahad par kaise chadhti hai?",
+    "action_chips": [
+      {
+        "id": "sound_train",
+        "label": "🚂 Chhook Chhook",
+        "action": "sound_train"
+      },
+      {
+        "id": "next_place",
+        "label": "Agla Place ➡️",
+        "action": "next_place"
+      },
+      {
+        "id": "show_all_places",
+        "label": "🗺️ Saare Places",
+        "action": "show_all_places"
+      }
+    ]
+  },
+  {
+    "id": "place_ooty_toy_train",
+    "name": "Ooty Nilgiri Mountain Train",
+    "city": "Ooty",
+    "state": "Tamil Nadu",
+    "category": "toy_train",
+    "emoji": "🌲",
+    "kids_hook": "Nilgiri pahadon ki Ooty Toy Train me chadhne chalein? Yahan chocolate factory bhi hai!",
+    "voice_speech": "Yaaay! Chalo Ooty chalte hain! Nilgiri pahadon me neeli toy train aur yummy handmade chocolates!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548625361-19590623ec85?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh train Asia ki sabse steep dhalan par chalti hai!",
+      "Raste me 16 tunnels aur 250 se zyada pul aate hain!",
+      "Ooty me bache homemade chocolates aur boat ride bohot enjoy karte hain!"
+    ],
+    "curiosity_question": "Pahadon me toy train ke neeche special teeth (gears) kyun hote hain?",
+    "action_chips": [
+      {
+        "id": "place_ooty_toy_train",
+        "label": "🍫 Chocolate",
+        "action": "place_ooty_toy_train"
+      },
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_shimla_kalka_train",
+    "name": "Shimla Kalka Heritage Railway",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "category": "toy_train",
+    "emoji": "🏔️",
+    "kids_hook": "Shimla ki barfili wadiyon me 103 tunnels wali toy train dekho!",
+    "voice_speech": "Wah champ! Shimla chalo! Yahan toy train 103 gufao yani tunnels se gujarti hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1580974852861-c381510bc98a?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Barog tunnel is raste ki sabse lambi tunnel hai jo 1 kilometer lambi hai!",
+      "Winter me train ke aage barf hatane wala special plough lagta hai!"
+    ],
+    "curiosity_question": "Tunnel ke andar train horn kyun bajati hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_gulmarg_gondola",
+    "name": "Gulmarg Gondola & Snow Peaks",
+    "city": "Gulmarg",
+    "state": "Jammu & Kashmir",
+    "category": "snow_adventure",
+    "emoji": "🚡",
+    "kids_hook": "Duniya ki sabse unchi cable car me baith kar barf ke gole fekne chalna hai?",
+    "voice_speech": "Woohoo! Chalo Kashmir ke Gulmarg me! Cable car me hawa me udo aur baraf ka snowman banao!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1566837945700-30057527ade0?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1579619569724-4f8155913e70?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh duniya ki second sabse unchi cable car hai jo 14,000 feet par le jati hai!",
+      "Yahan bache snow sledging aur snow scooter ride karte hain!"
+    ],
+    "curiosity_question": "Snowman banane ke liye baraf ko kaise roll karte hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_manali_rohtang",
+    "name": "Manali & Rohtang Pass",
+    "city": "Manali",
+    "state": "Himachal Pradesh",
+    "category": "snow_adventure",
+    "emoji": "⛄",
+    "kids_hook": "Manali me fluffy Yak par baitho aur snow scooter chalao!",
+    "voice_speech": "Arrey wah! Manali me barf ki chadar bichi hai! Chalo Yak par baith kar photo khinchwayein!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1605649487212-47bdab064df8?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yak ke lambe baal hote hain jo use thandi se bachate hain!",
+      "Atal Tunnel se nikalte hi achanak chaaron taraf baraf hi baraf dikhti hai!"
+    ],
+    "curiosity_question": "Pahadi bhaloo aur Yak thand me kaise garam rehte hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_nainital_lake",
+    "name": "Nainital Mango Lake & Ropeway",
+    "city": "Nainital",
+    "state": "Uttarakhand",
+    "category": "lakes_hills",
+    "emoji": "⛵",
+    "kids_hook": "Aam (Mango) jaisi shape wali lake me boat chalayein aur ropeway se pahad dekhein!",
+    "voice_speech": "Chalo Nainital! Naini jheel me colourful swan boat chalayein aur pahadi par ropeway se jayein!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Nainital jheel upar se bilkul ek meethhe Aam jaisi shape me dikhti hai!",
+      "Yahan Mall Road par colorful candles milti hain!"
+    ],
+    "curiosity_question": "Boat paani ke upar float kaise karti hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_ladakh_magnetic_hill",
+    "name": "Ladakh Pangong Lake & Magnetic Hill",
+    "city": "Leh Ladakh",
+    "state": "Ladakh",
+    "category": "snow_adventure",
+    "emoji": "🌌",
+    "kids_hook": "Jaadui pahad jahan gaadi bina chalu kiye apne aap upar chadhne lagti hai!",
+    "voice_speech": "Dekhiye Ladakh ka jadoo! Magnetic hill par gaadi apne aap chalti hai aur Pangong lake ka paani rang badalta hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Pangong Lake ka paani neela, hara aur laal rang badalta rehta hai!",
+      "Yahan do-kubad (double hump) wale camel milte hain!"
+    ],
+    "curiosity_question": "Double hump wale camel regular camel se alag kaise hote hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_kempty_falls",
+    "name": "Mussoorie Kempty Falls",
+    "city": "Mussoorie",
+    "state": "Uttarakhand",
+    "category": "lakes_hills",
+    "emoji": "🌊",
+    "kids_hook": "Pahad se girte jharne me chham-chham nahao aur cable car me jhoolo!",
+    "voice_speech": "Pahadon ki rani Mussoorie me Kempty falls ka thanda jharana aur fun water splash!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh jharna 40 feet unchai se girta hai aur cable car se seedha jharne tak jate hain!"
+    ],
+    "curiosity_question": "Jharna pahad ke upar se kahan se aata hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_delhi_zoo",
+    "name": "National Zoological Park (Delhi Zoo)",
+    "city": "New Delhi",
+    "state": "Delhi NCR",
+    "category": "zoo",
+    "emoji": "🐯",
+    "kids_hook": "White Tiger aur giant Hippopotamus dekhne Delhi Zoo chalein!",
+    "voice_speech": "Arrey wah! Delhi Zoo chalo! Dekho safed sher kitna shandar roar karta hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1547721064-da6cfb341d50?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "White tiger ka colour ek rare genetic magic ki wajah se white aur black stripes wala hota hai!",
+      "Zoo me bache battery wali open safari car me ghoomte hain!"
+    ],
+    "curiosity_question": "Sher din me kitne ghante sota hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_mysore_zoo",
+    "name": "Mysore Zoo & Giraffe Enclave",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "category": "zoo",
+    "emoji": "🦒",
+    "kids_hook": "Lambi gardan wale Giraffe ko apne haath se grass khilayein!",
+    "voice_speech": "Dekhiye Mysore Zoo! Yahan Giraffe itna lamba hai ki second floor tak pahuche!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1538121609141-86084cb95d85?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1547721064-da6cfb341d50?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Giraffe ki jeebh 45 cm lambi aur dark purple hoti hai taaki sooraj se dhoop na lage!",
+      "Mysore Zoo India ke sabse purane aur cleanest zoos me se ek hai!"
+    ],
+    "curiosity_question": "Giraffe soye bina khade-khade kaise rehta hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_kaziranga_rhino",
+    "name": "Kaziranga National Park",
+    "city": "Kaziranga",
+    "state": "Assam",
+    "category": "safari",
+    "emoji": "🦏",
+    "kids_hook": "Ek seeng wala giant Rhinoceros (Genda) dekhne jungle safari chalein!",
+    "voice_speech": "Balle balle! Kaziranga chalte hain! Yahan milta hai shandar ek seeng wala Genda!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Rhino ka seeng haddi nahi, balki hamare naakhun jaise keratin se bana hota hai!",
+      "Kaziranga me bache haathi ki peeth par baith kar ghaas me ghoomte hain!"
+    ],
+    "curiosity_question": "Genda itna bada hone ke bawjood tez daud sakta hai kya?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_ranthambore_safari",
+    "name": "Ranthambore Tiger Safari",
+    "city": "Sawai Madhopur",
+    "state": "Rajasthan",
+    "category": "safari",
+    "emoji": "🐅",
+    "kids_hook": "Open Gypsy car me Royal Bengal Tiger ko uske jungle mahal me dekho!",
+    "voice_speech": "Chalo Ranthambore safari par! Khuli Gypsy me baitho aur tiger ko dhoondo!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1549366021-9f761d450615?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Ranthambore me tiger purane qile ke mandiron aur jheel me nahane aate hain!",
+      "Har tiger ke sharir ki stripes fingerprint ki tarah bilkul unique hoti hain!"
+    ],
+    "curiosity_question": "Tiger paani me swimming kar sakta hai ya nahi?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_jim_corbett",
+    "name": "Jim Corbett Jungle Safari",
+    "city": "Nainital",
+    "state": "Uttarakhand",
+    "category": "safari",
+    "emoji": "🦌",
+    "kids_hook": "India ka sabse pehla National Park jahan jungle me spotted deer khelte hain!",
+    "voice_speech": "Dekhiye Jim Corbett jungle! Yahan chital deer, haathi aur peacock jungle me ghoomte hain!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1549366021-9f761d450615?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh India ka sabse pehla national park hai jo 1936 me bana tha!"
+    ],
+    "curiosity_question": "Hiran jungle me sher ke aane par sabko signal kaise dete hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_gir_lion_safari",
+    "name": "Gir Forest Asiatic Lions",
+    "city": "Junagadh",
+    "state": "Gujarat",
+    "category": "safari",
+    "emoji": "🦁",
+    "kids_hook": "Duniya me Africa ke bahar akeli aisi jagah jahan jungle ka Asli Raja Lion rehta hai!",
+    "voice_speech": "Aao Gir jungle! Yahan rehte hain Asiatic Lions! Unki daadh kitni buland hoti hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Asiatic lion ke gale ke baal (mane) African lion se thode chhote hote hain!"
+    ],
+    "curiosity_question": "Sher ki dahad kitni door tak sunai deti hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_chennai_vandaloor_zoo",
+    "name": "Arignar Anna Vandalur Zoo",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "category": "zoo",
+    "emoji": "🦋",
+    "kids_hook": "India ka sabse bada zoo jahan colorful butterfly park aur lion safari hai!",
+    "voice_speech": "Chennai ke Vandalur zoo me colorful titliyan aur lion safari dekhiye!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh 1500 acres me phaila India ka sabse bada zoo park hai!"
+    ],
+    "curiosity_question": "Titli phoolon ka ras kaise peeti hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_hyderabad_nehru_zoo",
+    "name": "Nehru Zoological Park",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "category": "zoo",
+    "emoji": "🐊",
+    "kids_hook": "Nocturnal Animal House jahan ullu aur chamgadar din me jaagte hain!",
+    "voice_speech": "Hyderabad ke Nehru Zoo me toy train ride aur nocturnal animal house ka maza lijiye!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1538121609141-86084cb95d85?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1547721064-da6cfb341d50?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yahan din me raat ki light banakar nocturnal animals ko dikhaya jata hai!"
+    ],
+    "curiosity_question": "Chamgadar andhere me bina takraye kaise udte hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_sunderbans_mangrove",
+    "name": "Sundarbans Floating Forest",
+    "city": "Sundarbans",
+    "state": "West Bengal",
+    "category": "safari",
+    "emoji": "🐊",
+    "kids_hook": "Paani me tairte jungle me boat safari aur Royal Bengal Tiger!",
+    "voice_speech": "Dekho Sundarbans! Yahan ped paani ke andar ugte hain aur boat se jungle ghoomte hain!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1549366021-9f761d450615?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Duniya ka sabse bada mangrove forest hai jahan pedon ki jadein hawa me saans leti hain!"
+    ],
+    "curiosity_question": "Paani me ped kaise zinda rehte hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_periyar_wildlife",
+    "name": "Periyar Elephant Lake Sanctuary",
+    "city": "Thekkady",
+    "state": "Kerala",
+    "category": "safari",
+    "emoji": "🐘",
+    "kids_hook": "Jheel me boat par baith kar jungle ke haathiyon ko paani peete dekho!",
+    "voice_speech": "Chalo Kerala ke Periyar! Jheel me boat se wild haathiyo ke jhund ko dekhein!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548625361-19590623ec85?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Haathi apni soond se 8 litre paani ek baar me pee sakte hain!"
+    ],
+    "curiosity_question": "Baby haathi apni soond ka use kab seekhta hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_nehru_planetarium",
+    "name": "Nehru Planetarium & Space Dome",
+    "city": "New Delhi",
+    "state": "Delhi NCR",
+    "category": "space_science",
+    "emoji": "🚀",
+    "kids_hook": "Giant dome theatre me chhat par taare, chanda mama aur black hole dekhein!",
+    "voice_speech": "Woohoo! Space rocket me baitho! Nehru Planetarium ke dome me taaron ke beech ghoomein!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Planetarium ke chhat par gol aasmaan banta hai jahan 8 planets ghoomte dikhte hain!",
+      "Yahan Rakesh Sharma ji ka asli space suit aur capsule rakha hua hai!"
+    ],
+    "curiosity_question": "Space me awaz kyun nahi aati champ?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_science_city_kolkata",
+    "name": "Science City & Dinosaur Park",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "category": "space_science",
+    "emoji": "🦖",
+    "kids_hook": "Hilti-dulti giant T-Rex dinosaur aur Space Odyssey ride!",
+    "voice_speech": "Science City Kolkata me welcome! Yahan aawaz nikalne wale zinda jaise dinosaur milte hain!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1525877442103-5dd522936e9c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Dinosaur Enclave me robotic dinosaur hilte hain aur roar karte hain!",
+      "Time Machine ride me baith kar bache hawa me jhhoolte hain!"
+    ],
+    "curiosity_question": "Dinosaur itne hazaron saal pehle kaise gayab ho gaye?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_gujarat_science_city",
+    "name": "Gujarat Science City & Robotics Gallery",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "category": "space_science",
+    "emoji": "🤖",
+    "kids_hook": "Robots se chai pilwayein aur unke sath badminton khelein!",
+    "voice_speech": "Aao Gujarat Science City! Yahan humanoid robots baat karte hain aur dance karte hain!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Robotics gallery me robot waiter khana serve karta hai!",
+      "India ka sabse bada Aquatic Gallery yahan hai jahan shark ke neeche tunnel hai!"
+    ],
+    "curiosity_question": "Robot bina dimaag ke kaise kaam karta hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_national_rail_museum",
+    "name": "National Rail Museum",
+    "city": "New Delhi",
+    "state": "Delhi NCR",
+    "category": "toy_train",
+    "emoji": "🚂",
+    "kids_hook": "170 saal purane steam engine aur rajaon ki royal train me chadh kar dekho!",
+    "voice_speech": "Chalo National Rail Museum! Yahan chalti hai Joy Train aur milte hain asli purane steam engines!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1509749837427-ac94a2553d0e?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yahan Fairy Queen rakhi hai jo duniya ka sabse purana working steam engine hai!",
+      "Raja Maharajaon ki train me sone-chandi ke bartan hote the!"
+    ],
+    "curiosity_question": "Pehle train me koyla kyun daalte the?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_visvesvaraya_museum",
+    "name": "Visvesvaraya Science Engine Park",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "category": "space_science",
+    "emoji": "⚙️",
+    "kids_hook": "Apne haathon se lever ghuma kar bijli banao aur giant pulleys kheecho!",
+    "voice_speech": "Bengaluru ke science museum me khud scientist baniye! Pulleys ghuma kar car uthao!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1525877442103-5dd522936e9c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yahan ek full-scale engine model hai jise bache button daba kar chala sakte hain!"
+    ],
+    "curiosity_question": "Gears ek dusre ko ghuma kar speed kaise badhate hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_ramoji_film_city",
+    "name": "Ramoji Film City",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "category": "space_science",
+    "emoji": "🎬",
+    "kids_hook": "Bahubali ka jadooi mahal, fake airport aur magic stunt show dekhein!",
+    "voice_speech": "Yaaay! Ramoji Film City me shooting dekho! Yahan banta hai magic movie world!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1518173946687-a4c8a383392e?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Duniya ka sabse bada film studio complex hai jo 2000 acres me bana hai!",
+      "Yahan Fundustan naam ka special kids amusement zone hai!"
+    ],
+    "curiosity_question": "Movie me fake barish aur fake aag kaise banate hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_jantar_mantar",
+    "name": "Jantar Mantar Giant Sun-Dial",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "category": "space_science",
+    "emoji": "☀️",
+    "kids_hook": "Duniya ki sabse badi patthar ki ghadi jo dhoop se bilkul accurate time batati hai!",
+    "voice_speech": "Jaipur ke Jantar Mantar me dhoop se time dekhne wali jadooi ghadi dekhiye!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Vrihat Samrat Yantra 27 meter uncha hai jo 2 seconds tak accurate time batata hai!"
+    ],
+    "curiosity_question": "Suraj ki parchain se time kaise pata chalta hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_taj_mahal",
+    "name": "Taj Mahal (Agra)",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "category": "fort_palace",
+    "emoji": "🕌",
+    "kids_hook": "Safed sangmarmar ka jadooi mahal jo subah pink, din me white aur raat ko golden chamakta hai!",
+    "voice_speech": "Arrey wah! Agra ka Taj Mahal! Dhoop me ye safed chamakta hai aur chandni raat me heere jaisa!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Taj Mahal ko banane me 20,000 workers aur 1000 haathiyon ne 22 saal tak kaam kiya!",
+      "Iski 4 minarein thodi si bahar ki taraf jhuki hain taaki earthquake me girne par main dome bach jaye!"
+    ],
+    "curiosity_question": "Sangmarmar ka patthar dhoop me garm kyun nahi hota?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_red_fort",
+    "name": "Red Fort (Lal Qila)",
+    "city": "Delhi",
+    "state": "Delhi NCR",
+    "category": "fort_palace",
+    "emoji": "🚩",
+    "kids_hook": "Lal balua patthar ka vishal qila jahan se 15 August ko Tiranga phahrata hai!",
+    "voice_speech": "Dilli ke Lal Qila chalo champ! Yahan se pradhan mantri Tiranga phahrata hain aur tope chalti hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1598324789736-4861f89564a0?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Lal Qila ke andar Meena Bazaar aur sound & light laser show hota hai!"
+    ],
+    "curiosity_question": "Qile ki deewar itni moti kyun banai gayi thi?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_india_gate",
+    "name": "India Gate & Kartavya Path",
+    "city": "New Delhi",
+    "state": "Delhi NCR",
+    "category": "fort_palace",
+    "emoji": "🪔",
+    "kids_hook": "Shaam ko ice-cream khao, fountain dekho aur Amar Jawan Jyoti ko salute karo!",
+    "voice_speech": "Dekhiye India Gate! Shaam ko yahan fountains chalte hain aur boat ride hoti hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1598324789736-4861f89564a0?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "India Gate 42 meter uncha hai aur iski deewaron par 13,000 veer sainikon ke naam likhe hain!"
+    ],
+    "curiosity_question": "Amar Jawan Jyoti bina bujhe lagatar kaise jalti rehti hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_hawa_mahal",
+    "name": "Hawa Mahal (Wind Palace)",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "category": "fort_palace",
+    "emoji": "🏰",
+    "kids_hook": "953 jharokhon wala pink palace jahan bina fan aur AC ke thandi hawa aati hai!",
+    "voice_speech": "Pink City Jaipur me Hawa Mahal dekho! 953 chhotte jharokhon se thandi hawa aati hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Hawa Mahal me aage se koi seedhiyan nahi hain, balki dhalan (ramps) hain!"
+    ],
+    "curiosity_question": "Bina pankhe ke mahal ke andar thandi hawa kaise aati hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_amer_fort",
+    "name": "Amer Fort & Sheesh Mahal",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "category": "fort_palace",
+    "emoji": "🐘",
+    "kids_hook": "Haathi ki ride aur kanch ka bana Sheesh Mahal jahan ek mombatti se hazaron sitare chamakte hain!",
+    "voice_speech": "Chalo Amer Fort! Sheesh Mahal me hazaron kaanch chamak kar taaron jaisa aasmaan banate hain!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Sheesh Mahal Belgium se mangwaye gaye convex mirrors se bana hai!"
+    ],
+    "curiosity_question": "Kaanch par roshni padte hi pure room me kaise phail jati hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_mysore_palace",
+    "name": "Mysore Palace Golden Lights",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "category": "fort_palace",
+    "emoji": "💡",
+    "kids_hook": "Ek lakh sunhari lighton se jagmagata asli Raja ka mahal!",
+    "voice_speech": "Dekhiye Mysore Palace! Sunday shaam ko yahan 1 lakh bulbs ek sath jal kar mahal ko sonaa bana dete hain!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1538121609141-86084cb95d85?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yahan Dussehra par 750 kilo ka pure gold ka hauda haathi par rakha jata hai!"
+    ],
+    "curiosity_question": "1 lakh bulbs ko chalane ke liye kitni bijli lagti hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_gateway_of_india",
+    "name": "Gateway of India & Mumbai Sea",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "category": "fort_palace",
+    "emoji": "🚢",
+    "kids_hook": "Samundar ke kinaray vishal dwar jahan se ferry boat me baith kar Elephanta caves jate hain!",
+    "voice_speech": "Aamchi Mumbai me Gateway of India dekho! Yahan samundar ki lehrein aur flying sea-gulls hain!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh 1911 me King George V ke swagat ke liye banaya gaya tha!"
+    ],
+    "curiosity_question": "Samundari chidiya (Sea-gulls) boat ke peeche kyun udti hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_charminar",
+    "name": "Charminar",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "category": "fort_palace",
+    "emoji": "🕌",
+    "kids_hook": "Chaar minaron wala qila jahan colorful bangles aur Irani chai milti hai!",
+    "voice_speech": "Hyderabad ke Charminar dekhiye! 4 unchi minarein aur vibrant Laad Bazaar!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1572445271230-a78b5944a659?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Charminar ke 4 grand arches chaaro dishaon me khulte hain!"
+    ],
+    "curiosity_question": "Minar ke andar upar jane ke liye kitni seedhiyan hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_golden_temple",
+    "name": "Golden Temple (Harmandir Sahib)",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "category": "fort_palace",
+    "emoji": "✨",
+    "kids_hook": "Sone se chamakta mandir jahan pavitra sarovar me colorful machhliyan tairti hain!",
+    "voice_speech": "Sat Sri Akal champ! Amritsar ke Golden Temple me sarovar aur tasty kadha prasad ka anand lo!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1588096344356-9b4317650f99?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yahan duniya ka sabse bada free kitchen (Langar) hai jahan roz 1 lakh log khana khate hain!",
+      "Iski chhat aur deewaron par 500 kilo pure gold ki plating hai!"
+    ],
+    "curiosity_question": "Langar me itna saara khana sabke sath milkar kaise banate hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_wagah_border",
+    "name": "Wagah Border Parade",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "category": "fort_palace",
+    "emoji": "🇮🇳",
+    "kids_hook": "Shaandar BSF jawanon ka high-kick march aur 'Bharat Mata Ki Jai' ke naare!",
+    "voice_speech": "Jai Hind! Wagah Border par Tiranga jhanda utaarne ki high-energy parade dekhiye!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "BSF soldiers 6 feet se uncha leg-kick karke march karte hain!"
+    ],
+    "curiosity_question": "Sainik border par din-raat pehra kaise dete hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_statue_of_unity",
+    "name": "Statue of Unity (World's Tallest)",
+    "city": "Kevadia",
+    "state": "Gujarat",
+    "category": "fort_palace",
+    "emoji": "🗽",
+    "kids_hook": "Poori duniya ki sabse unchi murti jo America ke Statue of Liberty se bhi 2 times badi hai!",
+    "voice_speech": "Dekhiye Sardar Patel ji ki Statue of Unity! 182 meter unchi murti ke chest tak lift jati hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh itni unchi hai ki 7 kilometer door se bhi saaf dikhai deti hai!",
+      "Yahan bache Valley of Flowers aur Jungle Safari park me ghoomte hain!"
+    ],
+    "curiosity_question": "Itni badi murti ko tezz toofan se hilne se kaise bachate hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_qutub_minar",
+    "name": "Qutub Minar & Iron Pillar",
+    "city": "New Delhi",
+    "state": "Delhi NCR",
+    "category": "fort_palace",
+    "emoji": "🗼",
+    "kids_hook": "India ka sabse uncha eent ka tower aur 1600 saal purana loha jisme kabhi rust nahi lagta!",
+    "voice_speech": "Dilli ke Qutub Minar dekho champ! 73 meter uncha tower aur jaadui lohe ka khamba!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Iron Pillar 1600 saalon se dhoop-barish me khada hai par usme zang nahi lagta!"
+    ],
+    "curiosity_question": "Itni purani eenton ka tower gira kyun nahi?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_jaisalmer_fort",
+    "name": "Jaisalmer Golden Sand Fort",
+    "city": "Jaisalmer",
+    "state": "Rajasthan",
+    "category": "fort_palace",
+    "emoji": "🏜️",
+    "kids_hook": "Registan me sonaa jaisa chamakta fort aur camel safari!",
+    "voice_speech": "Thar registan me Sonar Qila dekho! Oont ki safari aur sand dunes par sliding karo!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh duniya ke gine-chune 'Living Forts' me se ek hai jahan log qile ke andar hi rehte hain!"
+    ],
+    "curiosity_question": "Registan me ret ke pahad (sand dunes) hawa se kaise chalte hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_victoria_memorial",
+    "name": "Victoria Memorial & Horse Carriage",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "category": "fort_palace",
+    "emoji": "🐎",
+    "kids_hook": "White marble palace ke samne sundar ghoda-gaadi (Tanga) ride!",
+    "voice_speech": "Kolkata ke Victoria Memorial me pyari ghoda-gaadi me baith kar ghoomiye!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1558431382-27e303142255?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Iske top dome par ek 16 feet unchi Pari (Angel of Victory) hawa ke sath ghoomti hai!"
+    ],
+    "curiosity_question": "Weather cock ki tarah pari hawa ki disha kaise batati hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_gwalior_fort",
+    "name": "Gwalior Fort & Musical Tansen",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "category": "fort_palace",
+    "emoji": "🛡️",
+    "kids_hook": "Pahad ke top par bana qila jiske deewaron par neeli aur peeli ceramic tiles chamakti hain!",
+    "voice_speech": "Dekho Gwalior ka shandar qila! Yahan colourful haathi aur batakh ki tiles lagi hain!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Is qile ko Babur ne 'Hind ke qilon ka moti' (Pearl of Indian Forts) kaha tha!"
+    ],
+    "curiosity_question": "Qile ke andar secret underground baoli (well) kyun banate the?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_csmt_mumbai",
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "category": "fort_palace",
+    "emoji": "🏛️",
+    "kids_hook": "Ek aisa railway station jo kisi raja ke jaadui mahal jaisa dikhta hai!",
+    "voice_speech": "Mumbai ka CSMT station dekho! Yahan mahal jaisi gumbad me lakho trains chalti hain!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Is station ke pattharon par sher, ghode aur peacocks ki carvers hain!"
+    ],
+    "curiosity_question": "Ek station par 18 platforms ek sath kaise manage hote hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_goa_dolphin_beach",
+    "name": "Goa Beach & Dolphin Safari",
+    "city": "North Goa",
+    "state": "Goa",
+    "category": "beach_marine",
+    "emoji": "🐬",
+    "kids_hook": "Samundar me boat par baith kar friendly Dolphins ko koodte hue dekho aur sandcastle banao!",
+    "voice_speech": "Yaaay Goa beach chalo! Ret me sandcastle banao aur samundar me jump karti Dolphin dekho!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Dolphins bohot smart hoti hain aur seeti (whistle) baja kar baat karti hain!",
+      "Goa ke beach par bache shell collection aur sand castle competition karte hain!"
+    ],
+    "curiosity_question": "Dolphin machhli hoti hai ya mammal jo hawa me saans leti hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_andaman_radhanagar",
+    "name": "Andaman Island & Coral Reefs",
+    "city": "Havelock Island",
+    "state": "Andaman & Nicobar",
+    "category": "beach_marine",
+    "emoji": "🤿",
+    "kids_hook": "Glass bottom boat se samundar ke andar colorful corals aur clownfish dekho!",
+    "voice_speech": "Andaman chalo! Glass bottom boat se samundar ke andar Nemo machhli aur sea turtle dekhiye!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Havelock ka Radhanagar beach Asia ka number one cleanest beach mana gaya hai!",
+      "Corals living sea animals hote hain jo colorful pahaad banate hain!"
+    ],
+    "curiosity_question": "Glass bottom boat me paani andar kyun nahi aata?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_kerala_houseboat",
+    "name": "Alleppey Kerala Houseboat Cruise",
+    "city": "Alleppey",
+    "state": "Kerala",
+    "category": "beach_marine",
+    "emoji": "🛶",
+    "kids_hook": "Tairte hue lakdi ke ghar (Houseboat) me baith kar coconut trees ke beech soyein!",
+    "voice_speech": "Kerala backwaters me Houseboat par chalo! Paani par tairta ghar aur taaza nariyal paani!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548625361-19590623ec85?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Houseboat ko bamboo aur coconut ki rassi se banate hain bina ek bhi keel (nail) thoke!",
+      "Boat ke andar bed, kitchen aur balcony sab paani ke upar float karta hai!"
+    ],
+    "curiosity_question": "Bina keel ke lakdi ki itni badi boat kaise judti hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_kanyakumari_sangam",
+    "name": "Kanyakumari Triveni Sangam",
+    "city": "Kanyakumari",
+    "state": "Tamil Nadu",
+    "category": "beach_marine",
+    "emoji": "🌅",
+    "kids_hook": "Jahan 3 bade samundar aapas me milte hain aur ek hi jagah sooraj ugta aur doobta dikhta hai!",
+    "voice_speech": "Dekhiye India ka southernmost point Kanyakumari! Teen samundaron ka milan aur sunrise!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yahan Arab Sagar, Bay of Bengal aur Indian Ocean teeno samundar aapas me milte hain!"
+    ],
+    "curiosity_question": "Teen samundar ke paani ka rang alag alag kyun dikhta hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_pamban_bridge",
+    "name": "Rameswaram Pamban Sea Bridge",
+    "city": "Rameswaram",
+    "state": "Tamil Nadu",
+    "category": "toy_train",
+    "emoji": "🌉",
+    "kids_hook": "Samundar ke upar chalne wali train aur beech me se khulne wala bridge!",
+    "voice_speech": "Samundar ke upar train dekho! Pamban bridge bada jahaz aane par beech se do tukdon me khul jata hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh 100 saal se zyada purana sea train bridge hai jo cyclone me bhi tike rehta hai!"
+    ],
+    "curiosity_question": "Bada ship aane par bridge upar kaise uthta hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_marine_drive",
+    "name": "Mumbai Marine Drive & Chowpatty",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "category": "beach_marine",
+    "emoji": "🍦",
+    "kids_hook": "Samundar ke kinare Queen's Necklace lights aur yummy Chowpatty Kulfi!",
+    "voice_speech": "Mumbai ki Marine Drive par chaliye! Samundar ki thandi hawa aur chocolate kulfi!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Raat ko street lights ki curve bilkul heeron ke haar (Queen's Necklace) jaisi chamakti hai!"
+    ],
+    "curiosity_question": "Marine drive par jo giant 4-legged pathhar (Tetrapods) hain, wo kya karte hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_konark_sun_temple",
+    "name": "Konark Sun Temple Giant Chariot",
+    "city": "Konark",
+    "state": "Odisha",
+    "category": "fort_palace",
+    "emoji": "🎡",
+    "kids_hook": "Patthar ka bana vishal rath jisme 24 giant wheels hain jo time batate hain!",
+    "voice_speech": "Odisha ke Konark chalte hain! Suraj bhagwan ka vishal pahiya rath aur puri beach!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Iske wheels par 8 spokes hain jo din ke 8 pahar (hours) batate hain!"
+    ],
+    "curiosity_question": "Pathhar ke pahiye dhoop se time kaise batate hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_mahabalipuram_butterball",
+    "name": "Krishna's Butterball & Shore Temple",
+    "city": "Mahabalipuram",
+    "state": "Tamil Nadu",
+    "category": "fort_palace",
+    "emoji": "🪨",
+    "kids_hook": "250 ton ka vishal patthar jo dhalan par bina phisle 1200 saal se khada hai!",
+    "voice_speech": "Dekho Krishna's Butterball! 250 ton ka patthar pahaad ki dhalan par ajeeb tarah se tika hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "7 haathiyo ne milkar bhi is patthar ko hilane ki koshish ki par ye hila nahi!"
+    ],
+    "curiosity_question": "Itna bada gol patthar dhalan par se neeche kyun nahi ludhakta?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_jog_falls",
+    "name": "Jog Falls (Roaring Waterfall)",
+    "city": "Shimoga",
+    "state": "Karnataka",
+    "category": "lakes_hills",
+    "emoji": "💦",
+    "kids_hook": "Pahad se seedha 830 feet neeche girne wala giant roaring jharna!",
+    "voice_speech": "Wah champ! Jog Falls me 4 jharne - Raja, Roarer, Rocket aur Rani ek sath girte hain!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Monsoon me yahan itni tezz dhuandhaar banti hai ki rainbow har ghante dikhta hai!"
+    ],
+    "curiosity_question": "Jharne ke paas rainbow kyun banta hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_dhuandhar_falls",
+    "name": "Dhuandhar Falls & Marble Rocks",
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "category": "lakes_hills",
+    "emoji": "🌫️",
+    "kids_hook": "Safed sangmarmar ki ghati me boat ride aur dhuen jaisa jharna!",
+    "voice_speech": "Jabalpur ke Bhedaghat chalo! Marble rocks ke beech boat ride aur dhuandhar jharna!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Jharna girte waqt paani ki itni baarik boondein udti hain ki lagta hai dhuan nikal raha ho!"
+    ],
+    "curiosity_question": "Narmada nadi sangmarmar ke pattharon ko kaise kaat kar nikalti hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_loktak_lake",
+    "name": "Loktak Lake (Floating Phumdis)",
+    "city": "Bishnupur",
+    "state": "Manipur",
+    "category": "lakes_hills",
+    "emoji": "🦌",
+    "kids_hook": "Duniya ka ekmatra Floating National Park jahan zameen paani me tairti hai!",
+    "voice_speech": "Dekhiye Manipur ka Loktak lake! Yahan zameen paani par tairti hai aur Sangai dancing deer rehta hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yahan tairti hui circular ghaas ke chhatte (Phumdis) hote hain jinke upar log ghar banate hain!"
+    ],
+    "curiosity_question": "Ghaas aur mitti paani ke upar tairti kaise rehti hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_varanasi_ghats",
+    "name": "Varanasi Ghats & Evening Ganga Aarti",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "category": "fort_palace",
+    "emoji": "🪔",
+    "kids_hook": "Ganga nadi me boat ride, hazaaron deepak aur giant aarti ke jadooi diyas!",
+    "voice_speech": "Har Har Mahadev! Kashi ke Dashashwamedh ghat par boat se hazaaron deepakon ki aarti dekhiye!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571536802807-30451e3955d8?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Varanasi duniya ke sabse purane continuous rehne wale shahron me se ek hai!"
+    ],
+    "curiosity_question": "Diye ke neeche patte (donas) paani me deepak ko kaise tairate hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_hampi_stone_chariot",
+    "name": "Hampi Stone Chariot & Musical Pillars",
+    "city": "Hampi",
+    "state": "Karnataka",
+    "category": "fort_palace",
+    "emoji": "🏛️",
+    "kids_hook": "Patthar ke khambe jinhe ungli se bajaane par musical notes Sa-Re-Ga-Ma ki sound aati hai!",
+    "voice_speech": "Hampi ke jadooi mandir me chaliye! Yahan patthar ke khambe bajakar sangeet bajaya jata hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1600100397608-f010f4340d82?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Vittala Temple ke 56 musical pillars ko tap karne par alag-alag sur nikalte hain!"
+    ],
+    "curiosity_question": "Solid stone pillar me se music ki ghanti jaisi awaz kaise aati hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_meenakshi_temple",
+    "name": "Madurai Meenakshi Temple Tower",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "category": "fort_palace",
+    "emoji": "🎨",
+    "kids_hook": "14 vishal towers jinke upar 33,000 colorful statues bani hui hain!",
+    "voice_speech": "Madurai ke Meenakshi temple me dekho hazaron colorful devi-devtaon aur haathiyo ki statues!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Temple ke gopuram towers par 33,000 se zyada hand-carved colourful sculptures hain!"
+    ],
+    "curiosity_question": "Itne unche tower par murtiyan kaise banayi gayi hongi?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_ajanta_ellora",
+    "name": "Ajanta & Ellora Kailash Cave",
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "category": "fort_palace",
+    "emoji": "⛏️",
+    "kids_hook": "Ek single giant pahaad ko upar se neeche kaat kar banaya gaya world-wonder mahal!",
+    "voice_speech": "Ellora ki Kailash cave dekhiye! Poora mahal ek single pahaad ko uupar se tarash kar bana hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Isko banane me 2 lakh ton patthar hathode aur chheni se kaat kar nikala gaya tha!"
+    ],
+    "curiosity_question": "Bina cement aur jod ke ek hi patthar ka mahal kaise bana?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_coorg_coffee",
+    "name": "Coorg Elephant Camp & Coffee Mist",
+    "city": "Coorg",
+    "state": "Karnataka",
+    "category": "lakes_hills",
+    "emoji": "☕",
+    "kids_hook": "Dubare Elephant Camp me haathi ko river me nahlao aur sugarcane khilao!",
+    "voice_speech": "Chalo Coorg! Yahan Kaveri river me baby haathiyo ko brush se nahlane ka maza milta hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548625361-19590623ec85?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Coorg ko 'Scotland of India' kaha jata hai kyunki yahan hamesha dhund aur barish rehti hai!"
+    ],
+    "curiosity_question": "Haathi paani me nahana itna kyun pasand karte hain?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_chinnar_giant_squirrel",
+    "name": "Chinnar Grizzled Giant Squirrel Sanctuary",
+    "city": "Munnar",
+    "state": "Kerala",
+    "category": "zoo",
+    "emoji": "🐿️",
+    "kids_hook": "Cat ke barabar badi giant colorful gilahri (squirrel) jo pedon par 20 feet lambi chhalang lagati hai!",
+    "voice_speech": "Munnar ke pass dekho Indian Giant Squirrel! Ye colorful gilahri pedon par super jump karti hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1507666405895-422eee7d517f?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548625361-19590623ec85?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh gilahri maroone, purple aur yellow rang ki hoti hai aur iski poonchh 2 feet lambi hoti hai!"
+    ],
+    "curiosity_question": "Gilahri itni unchi chhalang lagakar dhaal kaise banati hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_rishikesh_ram_jhula",
+    "name": "Rishikesh Ram Jhula & River Rafting",
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "category": "lakes_hills",
+    "emoji": "🌉",
+    "kids_hook": "Ganga nadi ke upar jhoomne wala suspenson suspension bridge aur monkeys!",
+    "voice_speech": "Rishikesh me Ram Jhula par chalo! Bridge thoda thoda jhoolta hai aur neeche Ganga nadi behti hai!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Ram Jhula lohe ki moti rassi (cables) se hawa me latka hua hai bina kisi pillar ke!"
+    ],
+    "curiosity_question": "Suspension bridge hawa me bina pillar ke kaise tikta hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_chittorgarh_fort",
+    "name": "Chittorgarh Fort & Vijay Stambh",
+    "city": "Chittorgarh",
+    "state": "Rajasthan",
+    "category": "fort_palace",
+    "emoji": "🏰",
+    "kids_hook": "India ka sabse bada fort jisme 84 paani ke ponds aur 9 manzil uncha Victory Tower hai!",
+    "voice_speech": "Chittorgarh qila dekhiye! Veer Maharana Pratap ji ki shaurya bhumi aur Vijay Stambh!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Vijay Stambh 9 manzil uncha hai aur iske top se 30 kilometer door tak registan dikhta hai!"
+    ],
+    "curiosity_question": "Qile ke andar 84 talab kyun banaye gaye the?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_khajuraho_sculptures",
+    "name": "Khajuraho Ancient Carved Temples",
+    "city": "Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "fort_palace",
+    "emoji": "🗿",
+    "kids_hook": "1000 saal purane mandir jinme naachte hue musician aur yoddhaon ki statues hain!",
+    "voice_speech": "Madhya Pradesh ke Khajuraho me balua patthar par bani shandar dancing sculptures dekho!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Mandiron me bina kisi cement ke mortise and tenon joint technique se patthar jode gaye hain!"
+    ],
+    "curiosity_question": "Pattharon ko interlocking karke bina cement kaise joda gaya?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  },
+  {
+    "id": "place_ran_of_kutch",
+    "name": "Rann of Kutch White Salt Desert",
+    "city": "Bhuj",
+    "state": "Gujarat",
+    "category": "snow_adventure",
+    "emoji": "🧂",
+    "kids_hook": "Door-door tak baraf jaisa safed namak ka registan jahan full-moon night me jadoo hota hai!",
+    "voice_speech": "Kutch ka Rann Utsav! Safed namak ka registan, colourful camels aur full moon night!",
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?w=800&auto=format&fit=crop&q=80"
+    ],
+    "kids_facts": [
+      "Yeh duniya ka sabse bada salt desert hai jahan winter me hazaron Flamingos aate hain!"
+    ],
+    "curiosity_question": "Zameen ke upar itna sara namak kahan se aata hai?",
+    "action_chips": [
+      {
+        "id": "next_place",
+        "label": "Next ➡️",
+        "action": "next_place"
+      }
+    ]
+  }
+]

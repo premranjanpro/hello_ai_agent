@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tech_python_async",
+    "topic": "Python AsyncIO",
+    "category": "software_developer",
+    "summary": "asyncio is a library to write concurrent code using the async/await syntax. Key concepts: Event Loop, Coroutines, Tasks, Futures.",
+    "interview_tip": "In voice agents and real-time streaming, asyncio allows non-blocking audio packet processing, VAD, and websocket coordination."
+  },
+  {
+    "id": "tech_system_design",
+    "topic": "Microservices vs Monolith",
+    "category": "software_developer",
+    "summary": "Monolith is simple to deploy initially with zero network hop latency. Microservices decouple domains (auth, calls, billing), scale horizontally independently, but require distributed tracing and API gateways.",
+    "interview_tip": "Highlight CAP theorem and database per service pattern with eventual consistency."
+  },
+  {
+    "id": "tech_webrtc_livekit",
+    "topic": "WebRTC & LiveKit Architecture",
+    "category": "voice_ai",
+    "summary": "WebRTC establishes peer-to-peer real-time media streams with sub-100ms latency using UDP/SRTP. LiveKit provides an SFU (Selective Forwarding Unit) that ingests, mixes, and dispatches media tracks and DataChannels.",
+    "interview_tip": "Emphasize low-latency Opus audio encoding (20ms packet frames) and reliable data channels for multimodal UI events."
+  }
+]

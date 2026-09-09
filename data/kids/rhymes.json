@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "rhyme_hi_1",
+    "language": "hindi",
+    "title": "Machli Jal Ki Rani Hai",
+    "lyrics": "Machli jal ki rani hai, jeevan uska paani hai! Haath lagao to darr jayegi, bahar nikalo to mar jayegi!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Machli Jal Ki Rani Hai! Machli jal ki rani hai, jeevan uska paani hai! Haath lagao to darr jayegi, bahar nikalo to mar jayegi!",
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "rhyme_hi_2",
+    "language": "hindi",
+    "title": "Chanda Mama Door Ke",
+    "lyrics": "Chanda mama door ke, puye pakayein boor ke! Aap khayein thaali me, munne ko dein pyaali me!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Chanda Mama Door Ke! Chanda mama door ke, puye pakayein boor ke! Aap khayein thaali me, munne ko dein pyaali me!",
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "rhyme_hi_3",
+    "language": "hindi",
+    "title": "Titli Udi Bus Pe Chadhi",
+    "lyrics": "Titli udi bus pe chadhi, seat na mili to rone lagi! Driver ne bola aaja mere paas, titli boli na baba na!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Titli Udi Bus Pe Chadhi! Titli udi bus pe chadhi, seat na mili to rone lagi! Driver ne bola aaja mere paas, titli boli na baba na!",
+    "curriculum_tier": "nursery",
+    "age_group": "2-4 years"
+  },
+  {
+    "id": "rhyme_hi_4",
+    "language": "hindi",
+    "title": "Nani Teri Morni Ko Mor Le Gaye",
+    "lyrics": "Nani teri morni ko mor le gaye, baaki jo bacha tha kaale chor le gaye! Khake pike mote hoke chor baithe rail me!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Nani Teri Morni Ko Mor Le Gaye! Nani teri morni ko mor le gaye, baaki jo bacha tha kaale chor le gaye! Khake pike mote hoke chor baithe rail me!",
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "rhyme_hi_5",
+    "language": "hindi",
+    "title": "Bandar Mama Pahan Pajama",
+    "lyrics": "Bandar mama pahan pajama, dawat khane aaye! Dheela kurta, topi, joota, pahan ke bohot itraye!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Bandar Mama Pahan Pajama! Bandar mama pahan pajama, dawat khane aaye! Dheela kurta, topi, joota, pahan ke bohot itraye!",
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "rhyme_hi_6",
+    "language": "hindi",
+    "title": "Lakdi Ki Kaathi",
+    "lyrics": "Lakdi ki kaathi, kaathi pe ghoda! Ghode ki dum pe jo maara hathoda, dauda dauda ghoda dum utha ke dauda!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Lakdi Ki Kaathi! Lakdi ki kaathi, kaathi pe ghoda! Ghode ki dum pe jo maara hathoda, dauda dauda ghoda dum utha ke dauda!",
+    "curriculum_tier": "primary",
+    "age_group": "5-7 years"
+  },
+  {
+    "id": "rhyme_hi_7",
+    "language": "hindi",
+    "title": "Aalu Kachaloo Beta Kahan Gaye The",
+    "lyrics": "Aalu kachaloo beta kahan gaye the? Baingan ki tokri me so rahe the! Baingan ne laat maari ro rahe the!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Aalu Kachaloo Beta Kahan Gaye The! Aalu kachaloo beta kahan gaye the? Baingan ki tokri me so rahe the! Baingan ne laat maari ro rahe the!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_8",
+    "language": "hindi",
+    "title": "Chunnu Munnu The Do Bhai",
+    "lyrics": "Chunnu munnu the do bhai, rasgulle par hui ladaai! Chunnu bola main khaunga, munnu bola main khaunga! Mummy aayi dono ko samjhaya!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Chunnu Munnu The Do Bhai! Chunnu munnu the do bhai, rasgulle par hui ladaai! Chunnu bola main khaunga, munnu bola main khaunga! Mummy aayi dono ko samjhaya!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_9",
+    "language": "hindi",
+    "title": "Ghar Aaya Mera Dost",
+    "lyrics": "Chidiya boli choon-choon-choon, gaaye geet khoob-khoob-khoob! Subah hui chalo uth jao, haso-gao aur muskurao!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Ghar Aaya Mera Dost! Chidiya boli choon-choon-choon, gaaye geet khoob-khoob-khoob! Subah hui chalo uth jao, haso-gao aur muskurao!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_10",
+    "language": "hindi",
+    "title": "Barish Aayi Cham Cham Cham",
+    "lyrics": "Barish aayi cham cham cham, chhata lekar nikle hum! Pair phisla gir gaye hum, neeche chhata upar hum!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Barish Aayi Cham Cham Cham! Barish aayi cham cham cham, chhata lekar nikle hum! Pair phisla gir gaye hum, neeche chhata upar hum!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_11",
+    "language": "hindi",
+    "title": "Tamatar Bada Mazedaar",
+    "lyrics": "Aaha tamatar bada mazedaar, wah tamatar bada mazedaar! Ek din isko chuhe ne khaya, billi ko bhi maar bhagaya!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Tamatar Bada Mazedaar! Aaha tamatar bada mazedaar, wah tamatar bada mazedaar! Ek din isko chuhe ne khaya, billi ko bhi maar bhagaya!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_12",
+    "language": "hindi",
+    "title": "Dobi Aaya Dobi Aaya",
+    "lyrics": "Dhobi aaya, dhobi aaya, kitne kapde laya? Ek, do, teen... kitne kapde laya!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Dobi Aaya Dobi Aaya! Dhobi aaya, dhobi aaya, kitne kapde laya? Ek, do, teen... kitne kapde laya!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_13",
+    "language": "hindi",
+    "title": "Upar Pankha Chalta Hai",
+    "lyrics": "Upar pankha chalta hai, neeche munna sota hai! Sote-sote bhookh lagi, kha le beta mungfali!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Upar Pankha Chalta Hai! Upar pankha chalta hai, neeche munna sota hai! Sote-sote bhookh lagi, kha le beta mungfali!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_14",
+    "language": "hindi",
+    "title": "Chuhiya Rani Chhat Par",
+    "lyrics": "Chuhiya rani, chuhiya rani, badi sayani! Raat ko aati, roti khati, subah hote hi chhupe bhag jati!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Chuhiya Rani Chhat Par! Chuhiya rani, chuhiya rani, badi sayani! Raat ko aati, roti khati, subah hote hi chhupe bhag jati!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_15",
+    "language": "hindi",
+    "title": "Koyal Raani Mithi Vani",
+    "lyrics": "Koyal rani, koyal rani, kitni meethi teri vaani! Kuku-kuku karke gaati, aam ke ped par chadh jati!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Koyal Raani Mithi Vani! Koyal rani, koyal rani, kitni meethi teri vaani! Kuku-kuku karke gaati, aam ke ped par chadh jati!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_16",
+    "language": "hindi",
+    "title": "Haathi Raja Kahan Chale",
+    "lyrics": "Haathi raja kahan chale, soond hilakar kahan chale? Mere ghar bhi aao na, halwa poori khao na!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Haathi Raja Kahan Chale! Haathi raja kahan chale, soond hilakar kahan chale? Mere ghar bhi aao na, halwa poori khao na!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_17",
+    "language": "hindi",
+    "title": "Rail Gaadi Chuk Chuk",
+    "lyrics": "Chuk chuk chuk chuk aayi rail, aao bachho khele khel! Seeti bajati rail chali, dhuwa udate rail chali!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Rail Gaadi Chuk Chuk! Chuk chuk chuk chuk aayi rail, aao bachho khele khel! Seeti bajati rail chali, dhuwa udate rail chali!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_18",
+    "language": "hindi",
+    "title": "Billi Mausi Badi Sayani",
+    "lyrics": "Billi mausi, billi mausi, kaho kahan se aayi ho? Kitne chuhe maare tumne, kitne kha kar aayi ho?",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Billi Mausi Badi Sayani! Billi mausi, billi mausi, kaho kahan se aayi ho? Kitne chuhe maare tumne, kitne kha kar aayi ho?",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_19",
+    "language": "hindi",
+    "title": "Tara Chamka Raat Me",
+    "lyrics": "Tara chamka raat me, jhilmil-jhilmil aakash me! Jaise heera chamke andhere me, sundar pyara tara!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Tara Chamka Raat Me! Tara chamka raat me, jhilmil-jhilmil aakash me! Jaise heera chamke andhere me, sundar pyara tara!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_20",
+    "language": "hindi",
+    "title": "Gudiya Meri Badi Sayani",
+    "lyrics": "Gudiya meri pyari hai, aankhein iski neeli hain! Jab main isko lori sunaoo, aankh band kar so jati hai!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Gudiya Meri Badi Sayani! Gudiya meri pyari hai, aankhein iski neeli hain! Jab main isko lori sunaoo, aankh band kar so jati hai!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_21",
+    "language": "hindi",
+    "title": "Kagaz Ki Naav",
+    "lyrics": "Kagaz ki naav banayi humne, paani me tairayi humne! Chhote-chhote bachhe dekhein, aage badhti jaye naav!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Kagaz Ki Naav! Kagaz ki naav banayi humne, paani me tairayi humne! Chhote-chhote bachhe dekhein, aage badhti jaye naav!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_22",
+    "language": "hindi",
+    "title": "Suraj Nikla Mita Andhera",
+    "lyrics": "Suraj nikla, mita andhera, dekho bachho hua savera! Chidiyan chehki, phool khile, nayi subah me sab muskaye!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Suraj Nikla Mita Andhera! Suraj nikla, mita andhera, dekho bachho hua savera! Chidiyan chehki, phool khile, nayi subah me sab muskaye!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_23",
+    "language": "hindi",
+    "title": "Meethe Bol Bol Pyare",
+    "lyrics": "Meethe bol bol pyare, meethe bol me jaadu hai! Jo bhi sunta khush ho jata, har man me prem jagata!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Meethe Bol Bol Pyare! Meethe bol bol pyare, meethe bol me jaadu hai! Jo bhi sunta khush ho jata, har man me prem jagata!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_24",
+    "language": "hindi",
+    "title": "Paani Barsa Jhimir Jhimir",
+    "lyrics": "Paani barsa jhimir jhimir, dharti hui hari-bhari! Megha garja ghanan-ghanan, naach utha sabka man!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Paani Barsa Jhimir Jhimir! Paani barsa jhimir jhimir, dharti hui hari-bhari! Megha garja ghanan-ghanan, naach utha sabka man!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_25",
+    "language": "hindi",
+    "title": "Ped Lagao Desh Bachao",
+    "lyrics": "Ped lagao, ped lagao, sabko thandi chhaya do! Meethe phal aur taaza hawa, ped hi jeevan ki dawa!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Ped Lagao Desh Bachao! Ped lagao, ped lagao, sabko thandi chhaya do! Meethe phal aur taaza hawa, ped hi jeevan ki dawa!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_26",
+    "language": "hindi",
+    "title": "Ginti Seekho Ek Do Teen",
+    "lyrics": "Ek do teen, char paanch chheh, saat aath nau, aur ye das! Ginti seekho hasi-khushi me, har din aao school bas!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Ginti Seekho Ek Do Teen! Ek do teen, char paanch chheh, saat aath nau, aur ye das! Ginti seekho hasi-khushi me, har din aao school bas!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_27",
+    "language": "hindi",
+    "title": "Koyal Ki Pukaar",
+    "lyrics": "Koyal bole kuku kuku, sunkar man harshaaye! Baghon me aam jab pakein, tab koyal geet sunaaye!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Koyal Ki Pukaar! Koyal bole kuku kuku, sunkar man harshaaye! Baghon me aam jab pakein, tab koyal geet sunaaye!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_28",
+    "language": "hindi",
+    "title": "Chidiya Rani Badi Sayani",
+    "lyrics": "Chidiya rani badi sayani, tinke chunti daana laati! Apne pyare bacchon ko wo, prem se khana khilati!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Chidiya Rani Badi Sayani! Chidiya rani badi sayani, tinke chunti daana laati! Apne pyare bacchon ko wo, prem se khana khilati!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_29",
+    "language": "hindi",
+    "title": "Mummy Ki Roti Gol Gol",
+    "lyrics": "Mummy ki roti gol gol, papa ke paise gol gol! Daada ji ka chashma gol, hum bhi gol, tum bhi gol, sari duniya gol matol!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Mummy Ki Roti Gol Gol! Mummy ki roti gol gol, papa ke paise gol gol! Daada ji ka chashma gol, hum bhi gol, tum bhi gol, sari duniya gol matol!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_30",
+    "language": "hindi",
+    "title": "Dadi Amma Dadi Amma",
+    "lyrics": "Dadi amma dadi amma maan jao, chhodo ab ye gussa thoda muskurao!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Dadi Amma Dadi Amma! Dadi amma dadi amma maan jao, chhodo ab ye gussa thoda muskurao!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_31",
+    "language": "hindi",
+    "title": "Rang Birange Gubbari",
+    "lyrics": "Gubbare le lo gubbare, laal peele neele gubbare! Hawa me udate sundar gubbare, bacchon ke manbhavan gubbare!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Rang Birange Gubbari! Gubbare le lo gubbare, laal peele neele gubbare! Hawa me udate sundar gubbare, bacchon ke manbhavan gubbare!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_32",
+    "language": "hindi",
+    "title": "Titli Rani Phool Pe Baithe",
+    "lyrics": "Titli rani badi mastani, phool-phool par jati hai! Meetha-meetha ras peeti hai, sabko bohot lubhati hai!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Titli Rani Phool Pe Baithe! Titli rani badi mastani, phool-phool par jati hai! Meetha-meetha ras peeti hai, sabko bohot lubhati hai!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_33",
+    "language": "hindi",
+    "title": "Kaale Megha Paani De",
+    "lyrics": "Kaale megha paani de, paani de gur dhaani de! Barsa barsa jhar jhar jhar, kheton ko hariyali de!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Kaale Megha Paani De! Kaale megha paani de, paani de gur dhaani de! Barsa barsa jhar jhar jhar, kheton ko hariyali de!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_34",
+    "language": "hindi",
+    "title": "Tota Hoon Main Tota Hoon",
+    "lyrics": "Tota hoon main tota hoon, hare rang ka hota hoon! Laal meri chonch hai, meethu-meethu bolta hoon!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Tota Hoon Main Tota Hoon! Tota hoon main tota hoon, hare rang ka hota hoon! Laal meri chonch hai, meethu-meethu bolta hoon!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_35",
+    "language": "hindi",
+    "title": "Ghar Ka Aangan Khila Phool",
+    "lyrics": "Ghar ka aangan khila phool, hansi-khushi ka aalam hai! Sab milkar sath rahein, yehi sabse bada sukh hai!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Ghar Ka Aangan Khila Phool! Ghar ka aangan khila phool, hansi-khushi ka aalam hai! Sab milkar sath rahein, yehi sabse bada sukh hai!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_36",
+    "language": "hindi",
+    "title": "Gaay Hamari Maata Hai",
+    "lyrics": "Gaay hamari pyari hai, meetha doodh pilati hai! Ghaas char kar aati hai, sabka dhyan rakhti hai!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Gaay Hamari Maata Hai! Gaay hamari pyari hai, meetha doodh pilati hai! Ghaas char kar aati hai, sabka dhyan rakhti hai!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_37",
+    "language": "hindi",
+    "title": "Sabzi Wala Aaya",
+    "lyrics": "Sabzi wala aaya dekho, taazi sabzi laya dekho! Aalu, tamatar, gobhi, palak, sehatmand sabzi khao sab!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Sabzi Wala Aaya! Sabzi wala aaya dekho, taazi sabzi laya dekho! Aalu, tamatar, gobhi, palak, sehatmand sabzi khao sab!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_38",
+    "language": "hindi",
+    "title": "Phal Khao Sehat Banao",
+    "lyrics": "Phal khao, sehat banao, bimari ko door bhagao! Aam, seb, angoor, kela, roz khao phal ka mela!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Phal Khao Sehat Banao! Phal khao, sehat banao, bimari ko door bhagao! Aam, seb, angoor, kela, roz khao phal ka mela!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_39",
+    "language": "hindi",
+    "title": "Aankh Kaan Naak",
+    "lyrics": "Do aankhein dekhne ko, do kaan sunne ko! Ek naak soonghne ko, aur do haath kaam karne ko!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Aankh Kaan Naak! Do aankhein dekhne ko, do kaan sunne ko! Ek naak soonghne ko, aur do haath kaam karne ko!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_40",
+    "language": "hindi",
+    "title": "Savere Ka Samay",
+    "lyrics": "Subah savere utha karo, daant saaf kiya karo! Roz nahakar school jao, achhe bachhe kehlao!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Savere Ka Samay! Subah savere utha karo, daant saaf kiya karo! Roz nahakar school jao, achhe bachhe kehlao!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_41",
+    "language": "hindi",
+    "title": "Kitabein Hamari Dost",
+    "lyrics": "Kitabein hamari sachhi dost, deti hain gyaan ka bhandar! Padho-likho aage badho, roshan karo sansaar!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Kitabein Hamari Dost! Kitabein hamari sachhi dost, deti hain gyaan ka bhandar! Padho-likho aage badho, roshan karo sansaar!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_42",
+    "language": "hindi",
+    "title": "Chidiya Ka Ghonsla",
+    "lyrics": "Ped par chidiya ka ghonsla, dhoop hawa se bachta! Pyare-pyare ande se nikle, nanhe-nanhe bachhe!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Chidiya Ka Ghonsla! Ped par chidiya ka ghonsla, dhoop hawa se bachta! Pyare-pyare ande se nikle, nanhe-nanhe bachhe!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_43",
+    "language": "hindi",
+    "title": "Sher Ki Dahad",
+    "lyrics": "Jungle me jab sher dahade, sab janwar chup ho jaate! Bada nidar aur shaktishaali, jungle ka samrat sher!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Sher Ki Dahad! Jungle me jab sher dahade, sab janwar chup ho jaate! Bada nidar aur shaktishaali, jungle ka samrat sher!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_44",
+    "language": "hindi",
+    "title": "Mor Ka Sundar Naach",
+    "lyrics": "Jab aate hain kaale baadal, mor naachta chham-chham-chham! Pankh kholkar taali bajata, kitna pyara uska rang!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Mor Ka Sundar Naach! Jab aate hain kaale baadal, mor naachta chham-chham-chham! Pankh kholkar taali bajata, kitna pyara uska rang!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_45",
+    "language": "hindi",
+    "title": "Jal Hi Jeevan Hai",
+    "lyrics": "Boond-boond paani bachao, bina wajah mat bahao! Jal se hi hai saara jeevan, sabko yeh baat samjhao!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Jal Hi Jeevan Hai! Boond-boond paani bachao, bina wajah mat bahao! Jal se hi hai saara jeevan, sabko yeh baat samjhao!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_46",
+    "language": "hindi",
+    "title": "Chandrama Ki Chandni",
+    "lyrics": "Raat ko aati thandi chandni, man ko shaanti deti hai! Taare tim-tim chamakte hain, lori madhur sunate hain!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Chandrama Ki Chandni! Raat ko aati thandi chandni, man ko shaanti deti hai! Taare tim-tim chamakte hain, lori madhur sunate hain!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_47",
+    "language": "hindi",
+    "title": "Chhoti Si Ek Titli",
+    "lyrics": "Chhoti si ek pyari titli, pankh saja kar aayi hai! Bagiya me rang bikhere, sabka dil behlayi hai!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Chhoti Si Ek Titli! Chhoti si ek pyari titli, pankh saja kar aayi hai! Bagiya me rang bikhere, sabka dil behlayi hai!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_48",
+    "language": "hindi",
+    "title": "Mera Pyara Desh Bharat",
+    "lyrics": "Mera pyara desh Bharat, sabse sundar sabse pyara! Himalaya iska mukut saja, Ganga Yamuna ki dhara!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Mera Pyara Desh Bharat! Mera pyara desh Bharat, sabse sundar sabse pyara! Himalaya iska mukut saja, Ganga Yamuna ki dhara!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_49",
+    "language": "hindi",
+    "title": "Koshish Karne Walo Ki Haar Nahi Hoti",
+    "lyrics": "Leharon se darr kar nauka paar nahi hoti, koshish karne walo ki kabhi haar nahi hoti!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Koshish Karne Walo Ki Haar Nahi Hoti! Leharon se darr kar nauka paar nahi hoti, koshish karne walo ki kabhi haar nahi hoti!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_hi_50",
+    "language": "hindi",
+    "title": "Satyamev Jayate",
+    "lyrics": "Sach bolna sabse bada dharam, sachayi ki hoti jeet! Prem-bhav se sab mil raho, yehi jeevan ki reet!",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700&q=80",
+    "speech": "Chalo milke gaate hain: Satyamev Jayate! Sach bolna sabse bada dharam, sachayi ki hoti jeet! Prem-bhav se sab mil raho, yehi jeevan ki reet!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_1",
+    "language": "english",
+    "title": "Twinkle Twinkle Little Star",
+    "lyrics": "Twinkle, twinkle, little star, how I wonder what you are! Up above the world so high, like a diamond in the sky!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Twinkle Twinkle Little Star! Twinkle, twinkle, little star, how I wonder what you are! Up above the world so high, like a diamond in the sky!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_2",
+    "language": "english",
+    "title": "Baa Baa Black Sheep",
+    "lyrics": "Baa, baa, black sheep, have you any wool? Yes, sir, yes, sir, three bags full! One for the master, and one for the dame!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Baa Baa Black Sheep! Baa, baa, black sheep, have you any wool? Yes, sir, yes, sir, three bags full! One for the master, and one for the dame!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_3",
+    "language": "english",
+    "title": "Humpty Dumpty",
+    "lyrics": "Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall! All the king's horses and all the king's men couldn't put Humpty together again!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Humpty Dumpty! Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall! All the king's horses and all the king's men couldn't put Humpty together again!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_4",
+    "language": "english",
+    "title": "Jack and Jill",
+    "lyrics": "Jack and Jill went up the hill to fetch a pail of water! Jack fell down and broke his crown, and Jill came tumbling after!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Jack and Jill! Jack and Jill went up the hill to fetch a pail of water! Jack fell down and broke his crown, and Jill came tumbling after!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_5",
+    "language": "english",
+    "title": "Old MacDonald Had a Farm",
+    "lyrics": "Old MacDonald had a farm, E-I-E-I-O! And on his farm he had a cow, E-I-E-I-O! With a moo-moo here and a moo-moo there!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Old MacDonald Had a Farm! Old MacDonald had a farm, E-I-E-I-O! And on his farm he had a cow, E-I-E-I-O! With a moo-moo here and a moo-moo there!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_6",
+    "language": "english",
+    "title": "Johny Johny Yes Papa",
+    "lyrics": "Johny, Johny, yes, Papa? Eating sugar? No, Papa! Telling lies? No, Papa! Open your mouth, ha, ha, ha!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Johny Johny Yes Papa! Johny, Johny, yes, Papa? Eating sugar? No, Papa! Telling lies? No, Papa! Open your mouth, ha, ha, ha!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_7",
+    "language": "english",
+    "title": "The Wheels on the Bus",
+    "lyrics": "The wheels on the bus go round and round, round and round, round and round! The wheels on the bus go round and round, all through the town!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: The Wheels on the Bus! The wheels on the bus go round and round, round and round, round and round! The wheels on the bus go round and round, all through the town!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_8",
+    "language": "english",
+    "title": "Row Row Row Your Boat",
+    "lyrics": "Row, row, row your boat gently down the stream! Merrily, merrily, merrily, merrily, life is but a dream!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Row Row Row Your Boat! Row, row, row your boat gently down the stream! Merrily, merrily, merrily, merrily, life is but a dream!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_9",
+    "language": "english",
+    "title": "Five Little Monkeys",
+    "lyrics": "Five little monkeys jumping on the bed, one fell off and bumped his head! Mama called the doctor and the doctor said: No more monkeys jumping on the bed!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Five Little Monkeys! Five little monkeys jumping on the bed, one fell off and bumped his head! Mama called the doctor and the doctor said: No more monkeys jumping on the bed!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_10",
+    "language": "english",
+    "title": "Hickory Dickory Dock",
+    "lyrics": "Hickory, dickory, dock, the mouse ran up the clock! The clock struck one, the mouse ran down, hickory, dickory, dock!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Hickory Dickory Dock! Hickory, dickory, dock, the mouse ran up the clock! The clock struck one, the mouse ran down, hickory, dickory, dock!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_11",
+    "language": "english",
+    "title": "Incy Wincy Spider",
+    "lyrics": "Incy Wincy spider climbed up the water spout! Down came the rain and washed the spider out! Out came the sunshine and dried up all the rain!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Incy Wincy Spider! Incy Wincy spider climbed up the water spout! Down came the rain and washed the spider out! Out came the sunshine and dried up all the rain!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_12",
+    "language": "english",
+    "title": "Mary Had a Little Lamb",
+    "lyrics": "Mary had a little lamb, its fleece was white as snow! And everywhere that Mary went, the lamb was sure to go!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Mary Had a Little Lamb! Mary had a little lamb, its fleece was white as snow! And everywhere that Mary went, the lamb was sure to go!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_13",
+    "language": "english",
+    "title": "London Bridge Is Falling Down",
+    "lyrics": "London Bridge is falling down, falling down, falling down! London Bridge is falling down, my fair lady!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: London Bridge Is Falling Down! London Bridge is falling down, falling down, falling down! London Bridge is falling down, my fair lady!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_14",
+    "language": "english",
+    "title": "Ring a Ring o Roses",
+    "lyrics": "Ring-a-ring-o' roses, a pocket full of posies! A-tishoo, a-tishoo, we all fall down!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Ring a Ring o Roses! Ring-a-ring-o' roses, a pocket full of posies! A-tishoo, a-tishoo, we all fall down!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_15",
+    "language": "english",
+    "title": "Ding Dong Bell",
+    "lyrics": "Ding, dong, bell, pussy's in the well! Who put her in? Little Tommy Thin! Who pulled her out? Little Tommy Stout!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Ding Dong Bell! Ding, dong, bell, pussy's in the well! Who put her in? Little Tommy Thin! Who pulled her out? Little Tommy Stout!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_16",
+    "language": "english",
+    "title": "Hot Cross Buns",
+    "lyrics": "Hot cross buns! Hot cross buns! One a penny, two a penny, hot cross buns! If you have no daughters, give them to your sons!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Hot Cross Buns! Hot cross buns! Hot cross buns! One a penny, two a penny, hot cross buns! If you have no daughters, give them to your sons!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_17",
+    "language": "english",
+    "title": "Little Miss Muffet",
+    "lyrics": "Little Miss Muffet sat on a tuffet, eating her curds and whey! Along came a spider, who sat down beside her, and frightened Miss Muffet away!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Little Miss Muffet! Little Miss Muffet sat on a tuffet, eating her curds and whey! Along came a spider, who sat down beside her, and frightened Miss Muffet away!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_18",
+    "language": "english",
+    "title": "Hey Diddle Diddle",
+    "lyrics": "Hey diddle diddle, the cat and the fiddle, the cow jumped over the moon! The little dog laughed to see such sport, and the dish ran away with the spoon!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Hey Diddle Diddle! Hey diddle diddle, the cat and the fiddle, the cow jumped over the moon! The little dog laughed to see such sport, and the dish ran away with the spoon!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_19",
+    "language": "english",
+    "title": "Sing a Song of Sixpence",
+    "lyrics": "Sing a song of sixpence, a pocket full of rye! Four and twenty blackbirds baked in a pie! When the pie was opened, birds began to sing!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Sing a Song of Sixpence! Sing a song of sixpence, a pocket full of rye! Four and twenty blackbirds baked in a pie! When the pie was opened, birds began to sing!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_20",
+    "language": "english",
+    "title": "Three Blind Mice",
+    "lyrics": "Three blind mice, three blind mice, see how they run! They all ran after the farmer's wife, who cut off their tails with a carving knife!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Three Blind Mice! Three blind mice, three blind mice, see how they run! They all ran after the farmer's wife, who cut off their tails with a carving knife!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_21",
+    "language": "english",
+    "title": "Polly Put the Kettle On",
+    "lyrics": "Polly put the kettle on, Polly put the kettle on, Polly put the kettle on, we'll all have tea!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Polly Put the Kettle On! Polly put the kettle on, Polly put the kettle on, Polly put the kettle on, we'll all have tea!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_22",
+    "language": "english",
+    "title": "Pat-a-Cake Baker's Man",
+    "lyrics": "Pat-a-cake, pat-a-cake, baker's man, bake me a cake as fast as you can! Pat it and prick it and mark it with B, and put it in the oven for baby and me!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Pat-a-Cake Baker's Man! Pat-a-cake, pat-a-cake, baker's man, bake me a cake as fast as you can! Pat it and prick it and mark it with B, and put it in the oven for baby and me!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_23",
+    "language": "english",
+    "title": "Rain Rain Go Away",
+    "lyrics": "Rain, rain, go away, come again another day! Little Johnny wants to play, rain, rain, go away!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Rain Rain Go Away! Rain, rain, go away, come again another day! Little Johnny wants to play, rain, rain, go away!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_24",
+    "language": "english",
+    "title": "One Two Buckle My Shoe",
+    "lyrics": "One, two, buckle my shoe; three, four, knock at the door; five, six, pick up sticks; seven, eight, lay them straight; nine, ten, a big fat hen!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: One Two Buckle My Shoe! One, two, buckle my shoe; three, four, knock at the door; five, six, pick up sticks; seven, eight, lay them straight; nine, ten, a big fat hen!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_25",
+    "language": "english",
+    "title": "If You Are Happy and You Know It",
+    "lyrics": "If you're happy and you know it, clap your hands! If you're happy and you know it, clap your hands! If you're happy and you know it, then your face will surely show it!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: If You Are Happy and You Know It! If you're happy and you know it, clap your hands! If you're happy and you know it, clap your hands! If you're happy and you know it, then your face will surely show it!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_26",
+    "language": "english",
+    "title": "Head Shoulders Knees and Toes",
+    "lyrics": "Head, shoulders, knees and toes, knees and toes! And eyes and ears and mouth and nose! Head, shoulders, knees and toes!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Head Shoulders Knees and Toes! Head, shoulders, knees and toes, knees and toes! And eyes and ears and mouth and nose! Head, shoulders, knees and toes!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_27",
+    "language": "english",
+    "title": "The Itsy Bitsy Spider",
+    "lyrics": "The itsy bitsy spider climbed up the water spout! Down came the rain and washed the spider out!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: The Itsy Bitsy Spider! The itsy bitsy spider climbed up the water spout! Down came the rain and washed the spider out!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_28",
+    "language": "english",
+    "title": "Hush Little Baby",
+    "lyrics": "Hush, little baby, don't say a word, Papa's gonna buy you a mockingbird! And if that mockingbird won't sing, Papa's gonna buy you a diamond ring!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Hush Little Baby! Hush, little baby, don't say a word, Papa's gonna buy you a mockingbird! And if that mockingbird won't sing, Papa's gonna buy you a diamond ring!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_29",
+    "language": "english",
+    "title": "Jack Be Nimble",
+    "lyrics": "Jack be nimble, Jack be quick, Jack jump over the candlestick! Jack jumped high, Jack jumped low, Jack didn't burn his little toe!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Jack Be Nimble! Jack be nimble, Jack be quick, Jack jump over the candlestick! Jack jumped high, Jack jumped low, Jack didn't burn his little toe!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_30",
+    "language": "english",
+    "title": "Georgie Porgie",
+    "lyrics": "Georgie Porgie, pudding and pie, kissed the girls and made them cry! When the boys came out to play, Georgie Porgie ran away!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Georgie Porgie! Georgie Porgie, pudding and pie, kissed the girls and made them cry! When the boys came out to play, Georgie Porgie ran away!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_31",
+    "language": "english",
+    "title": "Simple Simon",
+    "lyrics": "Simple Simon met a pieman, going to the fair! Said Simple Simon to the pieman: Let me taste your ware!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Simple Simon! Simple Simon met a pieman, going to the fair! Said Simple Simon to the pieman: Let me taste your ware!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_32",
+    "language": "english",
+    "title": "Tom Tom the Piper's Son",
+    "lyrics": "Tom, Tom, the piper's son, stole a pig and away did run! The pig was eat, and Tom was beat, and Tom went crying down the street!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Tom Tom the Piper's Son! Tom, Tom, the piper's son, stole a pig and away did run! The pig was eat, and Tom was beat, and Tom went crying down the street!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_33",
+    "language": "english",
+    "title": "Rub-a-Dub-Dub",
+    "lyrics": "Rub-a-dub-dub, three men in a tub, and who do you think they be? The butcher, the baker, the candlestick-maker, they all jumped out of a rotten potato!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Rub-a-Dub-Dub! Rub-a-dub-dub, three men in a tub, and who do you think they be? The butcher, the baker, the candlestick-maker, they all jumped out of a rotten potato!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_34",
+    "language": "english",
+    "title": "Cobbler Cobbler Mend My Shoe",
+    "lyrics": "Cobbler, cobbler, mend my shoe, get it done by half past two! Stitch it up and stitch it down, then I'll give you half a crown!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Cobbler Cobbler Mend My Shoe! Cobbler, cobbler, mend my shoe, get it done by half past two! Stitch it up and stitch it down, then I'll give you half a crown!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_35",
+    "language": "english",
+    "title": "Little Boy Blue",
+    "lyrics": "Little Boy Blue, come blow your horn, the sheep's in the meadow, the cow's in the corn! Where is the boy who looks after the sheep? He's under a haystack fast asleep!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Little Boy Blue! Little Boy Blue, come blow your horn, the sheep's in the meadow, the cow's in the corn! Where is the boy who looks after the sheep? He's under a haystack fast asleep!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_36",
+    "language": "english",
+    "title": "Cock-a-Doodle-Doo",
+    "lyrics": "Cock-a-doodle-doo! My dame has lost her shoe! My master's lost his fiddling stick, and knows not what to do!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Cock-a-Doodle-Doo! Cock-a-doodle-doo! My dame has lost her shoe! My master's lost his fiddling stick, and knows not what to do!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_37",
+    "language": "english",
+    "title": "Pussycat Pussycat",
+    "lyrics": "Pussycat, pussycat, where have you been? I've been to London to visit the Queen! Pussycat, pussycat, what did you there? I frightened a little mouse under her chair!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Pussycat Pussycat! Pussycat, pussycat, where have you been? I've been to London to visit the Queen! Pussycat, pussycat, what did you there? I frightened a little mouse under her chair!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_38",
+    "language": "english",
+    "title": "Wee Willie Winkie",
+    "lyrics": "Wee Willie Winkie runs through the town, upstairs and downstairs in his nightgown, tapping at the window, crying through the lock: Are the children in their beds, for now it's eight o'clock?",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Wee Willie Winkie! Wee Willie Winkie runs through the town, upstairs and downstairs in his nightgown, tapping at the window, crying through the lock: Are the children in their beds, for now it's eight o'clock?",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_39",
+    "language": "english",
+    "title": "Doctor Foster",
+    "lyrics": "Doctor Foster went to Gloucester in a shower of rain! He stepped in a puddle, right up to his middle, and never went there again!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Doctor Foster! Doctor Foster went to Gloucester in a shower of rain! He stepped in a puddle, right up to his middle, and never went there again!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_40",
+    "language": "english",
+    "title": "There Was an Old Woman",
+    "lyrics": "There was an old woman who lived in a shoe, she had so many children she didn't know what to do! She gave them some broth without any bread, and kissed them all soundly and put them to bed!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: There Was an Old Woman! There was an old woman who lived in a shoe, she had so many children she didn't know what to do! She gave them some broth without any bread, and kissed them all soundly and put them to bed!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_41",
+    "language": "english",
+    "title": "Diddle Diddle Dumpling",
+    "lyrics": "Diddle, diddle, dumpling, my son John, went to bed with his trousers on! One shoe off, and one shoe on, diddle, diddle, dumpling, my son John!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Diddle Diddle Dumpling! Diddle, diddle, dumpling, my son John, went to bed with his trousers on! One shoe off, and one shoe on, diddle, diddle, dumpling, my son John!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_42",
+    "language": "english",
+    "title": "Peter Peter Pumpkin Eater",
+    "lyrics": "Peter, Peter pumpkin eater, had a wife and couldn't keep her! He put her in a pumpkin shell, and there he kept her very well!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Peter Peter Pumpkin Eater! Peter, Peter pumpkin eater, had a wife and couldn't keep her! He put her in a pumpkin shell, and there he kept her very well!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_43",
+    "language": "english",
+    "title": "Old King Cole",
+    "lyrics": "Old King Cole was a merry old soul, and a merry old soul was he! He called for his pipe, and he called for his bowl, and he called for his fiddlers three!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Old King Cole! Old King Cole was a merry old soul, and a merry old soul was he! He called for his pipe, and he called for his bowl, and he called for his fiddlers three!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_44",
+    "language": "english",
+    "title": "Pease Porridge Hot",
+    "lyrics": "Pease porridge hot, pease porridge cold, pease porridge in the pot, nine days old! Some like it hot, some like it cold, some like it in the pot, nine days old!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Pease Porridge Hot! Pease porridge hot, pease porridge cold, pease porridge in the pot, nine days old! Some like it hot, some like it cold, some like it in the pot, nine days old!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_45",
+    "language": "english",
+    "title": "Lucy Locket",
+    "lyrics": "Lucy Locket lost her pocket, Kitty Fisher found it! Not a penny was there in it, only ribbon round it!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Lucy Locket! Lucy Locket lost her pocket, Kitty Fisher found it! Not a penny was there in it, only ribbon round it!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_46",
+    "language": "english",
+    "title": "Two Little Dicky Birds",
+    "lyrics": "Two little dicky birds sitting on a wall, one named Peter, one named Paul! Fly away Peter! Fly away Paul! Come back Peter! Come back Paul!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Two Little Dicky Birds! Two little dicky birds sitting on a wall, one named Peter, one named Paul! Fly away Peter! Fly away Paul! Come back Peter! Come back Paul!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_47",
+    "language": "english",
+    "title": "The Grand Old Duke of York",
+    "lyrics": "Oh, the grand old Duke of York, he had ten thousand men! He marched them up to the top of the hill, and he marched them down again!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: The Grand Old Duke of York! Oh, the grand old Duke of York, he had ten thousand men! He marched them up to the top of the hill, and he marched them down again!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_48",
+    "language": "english",
+    "title": "Lavender's Blue",
+    "lyrics": "Lavender's blue, dilly, dilly, lavender's green! When I am king, dilly, dilly, you shall be queen!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Lavender's Blue! Lavender's blue, dilly, dilly, lavender's green! When I am king, dilly, dilly, you shall be queen!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_49",
+    "language": "english",
+    "title": "Rock-a-Bye Baby",
+    "lyrics": "Rock-a-bye baby, on the tree top! When the wind blows, the cradle will rock! When the bough breaks, the cradle will fall, and down will come baby, cradle and all!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Rock-a-Bye Baby! Rock-a-bye baby, on the tree top! When the wind blows, the cradle will rock! When the bough breaks, the cradle will fall, and down will come baby, cradle and all!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  },
+  {
+    "id": "rhyme_en_50",
+    "language": "english",
+    "title": "Star Light Star Bright",
+    "lyrics": "Star light, star bright, first star I see tonight! I wish I may, I wish I might, have the wish I wish tonight!",
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=700&q=80",
+    "speech": "Let's sing together: Star Light Star Bright! Star light, star bright, first star I see tonight! I wish I may, I wish I might, have the wish I wish tonight!",
+    "curriculum_tier": "advanced",
+    "age_group": "8-10 years"
+  }
+]
